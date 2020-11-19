@@ -16,15 +16,58 @@ import java.util.List;
 public class LoginPage extends PageObject {
 
     @FindBy(id="show-user")
-    private WebElementFacade contDropdown;
+    private WebElementFacade contDropdownButton;
 
-    @FindBy(id="LoginButton1")
-    private WebElementFacade loginButton;
+    @FindBy(css=".show-no-user")
+    private WebElementFacade enterInContButton;
 
-    @FindBy(name="username")
+    @FindBy(id="username")
     private WebElementFacade inputUserName;
 
-    @FindBy(name="password")
+    @FindBy(id="email-button")
+    private WebElementFacade emailButton;
+
+    @FindBy(id="password")
     private WebElementFacade inputPassword;
 
+    @FindBy(id="login-button")
+    private WebElementFacade loginButton;
+
+    @FindBy(css=".show-user")
+    private WebElementFacade logoutButton;
+
+    public void click_cont_button() {
+
+        contDropdownButton.click();
+    }
+
+    public void click_enterInCont_button() {
+
+        enterInContButton.click();
+    }
+
+    public void enter_userName(String name) {
+
+        inputUserName.type(name);
+    }
+
+    public void click_emailButton() {
+
+        emailButton.click();
+    }
+
+    public void enter_password(String password) {
+
+        inputPassword.type(password);
+    }
+
+    public void click_login() {
+
+        loginButton.click();
+    }
+
+    public void click_logout() {
+
+        logoutButton.click();
+    }
 }
