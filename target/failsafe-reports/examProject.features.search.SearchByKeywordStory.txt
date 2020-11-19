@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: examProject.features.search.SearchByKeywordStory
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 0, Errors: 0, Skipped: 1, Time elapsed: 22.217 s - in examProject.features.search.SearchByKeywordStory
