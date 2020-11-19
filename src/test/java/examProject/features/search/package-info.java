@@ -1,9 +1,9 @@
 
 @Narrative(
-        title = "Search for definitions",
-        text = {"In order to impress people",
-                "As a party goer",
-                "I want to be able to look up the meaning of unusual and impressive words"},
+        title = "BooksExpress online library",
+        text = {"In order to buy a book",
+                "As a user",
+                "I want to be able to login, search for the book, add it to wishlist and cart"},
         cardNumber = "#123"
 )
 package examProject.features.search;

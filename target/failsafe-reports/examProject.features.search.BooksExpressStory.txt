@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: examProject.features.search.BooksExpressStory
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 18.227 s <<< FAILURE! - in examProject.features.search.BooksExpressStory
+login_user(examProject.features.search.BooksExpressStory)  Time elapsed: 13.177 s  <<< ERROR!
+java.lang.NullPointerException: Cannot invoke "examProject.pages.SearchPage.enter_searchInput(String)" because "this.searchPage" is null
+	at examProject.features.search.BooksExpressStory.login_user(BooksExpressStory.java:24)
+

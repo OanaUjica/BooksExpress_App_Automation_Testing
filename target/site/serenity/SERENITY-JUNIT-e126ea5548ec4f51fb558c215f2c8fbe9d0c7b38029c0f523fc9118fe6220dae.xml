@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="1" failures="0" name="examProject.features.search.BooksExpressStory" skipped="0" tests="1" time="13.16" timestamp="2020-11-19 06:50:03"><testcase classname="examProject.features.search.BooksExpressStory" name="Login user"><error message="Cannot invoke &quot;examProject.pages.SearchPage.enter_searchInput(String)&quot; because &quot;this.searchPage&quot; is null" type="java.lang.NullPointerException">Cannot invoke "examProject.pages.SearchPage.enter_searchInput(String)" because "this.searchPage" is null</error><system-err>Cannot invoke "examProject.pages.SearchPage.enter_searchInput(String)" because "this.searchPage" is null&#13;
+examProject.steps.serenity.EndUserSteps.fill_data_and_login(EndUserSteps.java:33)&#13;
+examProject.features.search.BooksExpressStory.login_user(BooksExpressStory.java:24)&#13;
+</system-err></testcase></testsuite>

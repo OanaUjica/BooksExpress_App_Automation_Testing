@@ -104,7 +104,7 @@
             $("#requirements-tabs").tabs();
             $("#test-tabs").tabs();
 
-            var requirementsTree = [{"text":"Search","type":"feature","href":"b73ab2df35cd94b5317e6d6bfdb3d2310ff26862ef2f19989342051d05f64b83.html","nodes":[{"text":"Search by keyword story","type":"story","href":"7b98ab63a1f66587e18b1d9e9de56423ebc1935e2b0df5669f2965b1b61d2c47.html","nodes":[],"selectable":false,"tags":["\u003ca href\u003d\u0027##beforetable\u0027\u003e\u003ci class\u003d\u0027far fa-stop-circle pending-icon \u0027 title\u003d\u0027PENDING\u0027\u003e\u003c/i\u003e\u003c/a\u003e","\u003cspan class\u003d\u0027feature-count\u0027\u003e3 scenarios\u003c/span\u003e"]}],"selectable":false,"tags":["","\u003cspan class\u003d\u0027feature-count\u0027\u003e1 story\u003c/span\u003e"]}];
+            var requirementsTree = [{"text":"Search","type":"feature","href":"b73ab2df35cd94b5317e6d6bfdb3d2310ff26862ef2f19989342051d05f64b83.html","nodes":[{"text":"Books express story","type":"story","href":"5b5c8e6adb70691dafc8b87725829a687bed08dbf70aeb9668d65c7faee33071.html","nodes":[],"selectable":false,"tags":["\u003ca href\u003d\u0027##beforetable\u0027\u003e\u003ci class\u003d\u0027fa fa-exclamation-triangle error-icon \u0027 title\u003d\u0027ERROR\u0027\u003e\u003c/i\u003e\u003c/a\u003e","\u003cspan class\u003d\u0027feature-count\u0027\u003e3 scenarios\u003c/span\u003e"]}],"selectable":false,"tags":["","\u003cspan class\u003d\u0027feature-count\u0027\u003e1 story\u003c/span\u003e"]}];
 
             $('#tree').treeview({
                 data: requirementsTree,
@@ -179,7 +179,7 @@
             <a href="7ea0a5e2d679b9deeda9910ae4a9bcd3a281e0d908303a9e16e486103e98880c.html"><i class="fa fa-comments-o"></i> Capabilities</a>
         </li>
     </ul>
-    <span class="date-and-time"><a href="build-info.html"><i class="fa fa-info-circle"></i></a> Report generated 16-11-2020 21:53</span>
+    <span class="date-and-time"><a href="build-info.html"><i class="fa fa-info-circle"></i></a> Report generated 16-11-2020 21:57</span>
     <br style="clear:left"/>
 </div>
 
@@ -202,10 +202,10 @@
                                 </div>
                             </div>
                             <div class="requirementNarrativeTitle">
-                                Search for definitions<br />
-In order to impress people<br />
-As a party goer<br />
-I want to be able to look up the meaning of unusual and impressive words
+                                BooksExpress online library<br />
+In order to buy a book<br />
+As a user<br />
+I want to be able to login, search for the book, add it to wishlist and cart
                             </div>
 
                         </div>
@@ -252,10 +252,10 @@ I want to be able to look up the meaning of unusual and impressive words
                                             </div>
                                             <script>
 
-                                                var labels = ['67%', ' ', '33%', ' ', ' ', ' ', ' ', ' ', ' ', ' ', ' ', ' ', ' ', ' '];
+                                                var labels = ['50%', ' ', '17%', ' ', ' ', ' ', ' ', ' ', ' ', ' ', '33%', ' ', ' ', ' '];
                                                 // Our series array that contains series objects or in this case series data arrays
 
-                                                var series = [{meta: 'Passing tests (automated)', value: 2}, {meta: 'Passing tests (manual)', value: 0}, {meta: 'Pending tests (automated)', value: 1}, {meta: 'Pending tests (manual)', value: 0}, {meta: 'Ignored tests (automated)', value: 0}, {meta: 'Ignored tests (manual)', value: 0}, {meta: 'Skipped tests (automated)', value: 0}, {meta: 'Skipped tests (manual)', value: 0}, {meta: 'Failing tests (automated)', value: 0}, {meta: 'Failing tests (manual)', value: 0}, {meta: 'Broken tests (automated)', value: 0}, {meta: 'Broken tests (manual)', value: 0}, {meta: 'Compromised tests (automated)', value: 0}, {meta: 'Compromised tests (manual)', value: 0}];
+                                                var series = [{meta: 'Passing tests (automated)', value: 3}, {meta: 'Passing tests (manual)', value: 0}, {meta: 'Pending tests (automated)', value: 1}, {meta: 'Pending tests (manual)', value: 0}, {meta: 'Ignored tests (automated)', value: 0}, {meta: 'Ignored tests (manual)', value: 0}, {meta: 'Skipped tests (automated)', value: 0}, {meta: 'Skipped tests (manual)', value: 0}, {meta: 'Failing tests (automated)', value: 0}, {meta: 'Failing tests (manual)', value: 0}, {meta: 'Broken tests (automated)', value: 2}, {meta: 'Broken tests (manual)', value: 0}, {meta: 'Compromised tests (automated)', value: 0}, {meta: 'Compromised tests (manual)', value: 0}];
 
                                                 // As options we currently only set a static size of 300x200 px. We can also omit this and use aspect ratio containers
                                                 // as you saw in the previous example
@@ -296,8 +296,8 @@ I want to be able to look up the meaning of unusual and impressive words
                                                                         <a href="a98f94fe103347f42440a3c88ae275d47d6c25ecade2f23222cfcd7b009d5017.html"><i
                                                                                 class='fa fa-check-circle-o success-icon'></i>&nbsp;Passing</a>
                                                                     </td>
-                                                <td class="automated-stats">2</td>
-                                                <td class="automated-stats">67%</td>
+                                                <td class="automated-stats">3</td>
+                                                <td class="automated-stats">50%</td>
                                             </tr>
                                             <tr>
                                                                     <td class="aggregate-result-count">
@@ -305,7 +305,7 @@ I want to be able to look up the meaning of unusual and impressive words
                                                                                 class='fa fa-stop-circle-o pending-icon'></i>&nbsp;Pending</a>
                                                                     </td>
                                                 <td class="automated-stats">1</td>
-                                                <td class="automated-stats">33%</td>
+                                                <td class="automated-stats">17%</td>
                                             </tr>
                                             <tr>
                                                                 <td class="aggregate-result-count"><i
@@ -322,8 +322,8 @@ I want to be able to look up the meaning of unusual and impressive words
                                                 <td class="automated-stats"> </td>
                                             </tr>
                                             <tr>
-                                                                            <td colspan="3"><i
-                                                                                class='fa fa-times failure-icon'></i>&nbsp;<em>Unsuccessful</em></a>
+                                                                             <td colspan="3"><a href="9edf0308db710a833d7710acab53f7f7a0f85b2b72dc393b88056d2ccb3393ff.html"><i
+                                                                                    class='fa fa-times failure-icon'></i>&nbsp;<em>Unsuccessful</em></a>
                                                                             </td>
 
                                             </tr>
@@ -336,12 +336,12 @@ I want to be able to look up the meaning of unusual and impressive words
                                                 <td class="automated-stats">0</td>
                                                 <td class="automated-stats"> </td>
                                             <tr>
-                                                                <td class="aggregate-result-count indented-error-category">
-                                                                    <i
-                                                                            class='fa fa-exclamation-triangle error-icon'></i>&nbsp;Broken
-                                                                </td>
-                                                <td class="automated-stats">0</td>
-                                                <td class="automated-stats"> </td>
+                                                                    <td class="aggregate-result-count indented-error-category">
+                                                                        <a href="495809af5bfc9f598c1ecc22d83dbf4b429a0285c52cf23d310963e576bcaac5.html"><i
+                                                                                class='fa fa-exclamation-triangle error-icon'></i>&nbsp;Broken</a>
+                                                                    </td>
+                                                <td class="automated-stats">2</td>
+                                                <td class="automated-stats">33%</td>
                                             <tr>
                                                                 <td class="aggregate-result-count indented-error-category">
                                                                     <i
@@ -352,7 +352,7 @@ I want to be able to look up the meaning of unusual and impressive words
                                             </tr>
                                             <tr class="summary-stats">
                                                 <td class="aggregate-result-count">Total</td>
-                                                <td class="automated-stats">3</td>
+                                                <td class="automated-stats">6</td>
                                                 <td class="automated-stats"></td>
                                             </tr>
                                             </tbody>
@@ -374,11 +374,11 @@ I want to be able to look up the meaning of unusual and impressive words
                                                     </thead>
                                                     <tbody>
                                                     <tr>
-                                                        <td>16s</td>
-                                                        <td>12s</td>
-                                                        <td>560ms</td>
-                                                        <td>10s</td>
-                                                        <td>5s</td>
+                                                        <td>45s</td>
+                                                        <td>2d  20h  52m 29s</td>
+                                                        <td>436ms</td>
+                                                        <td>14s</td>
+                                                        <td>7s</td>
                                                     </tr>
                                                     </tbody>
                                                 </table>
@@ -412,7 +412,7 @@ I want to be able to look up the meaning of unusual and impressive words
 
 
             <td> 
-                <a href="7b98ab63a1f66587e18b1d9e9de56423ebc1935e2b0df5669f2965b1b61d2c47.html">Search by keyword story</a></span>
+                <a href="5b5c8e6adb70691dafc8b87725829a687bed08dbf70aeb9668d65c7faee33071.html">Books express story</a></span>
             </td>
             <td> 
                 
@@ -420,8 +420,8 @@ I want to be able to look up the meaning of unusual and impressive words
             <td>3</td>
             <td>0</td>
             <td>
-                <span class="status_icon"><a href='##beforetable'><i class='far fa-stop-circle pending-icon ' title='PENDING'></i></a></span>
-                <span style="display:none">2</span>
+                <span class="status_icon"><a href='##beforetable'><i class='fa fa-exclamation-triangle error-icon ' title='ERROR'></i></a></span>
+                <span style="display:none">4</span>
             </td>
 
             <td width="165px" style="padding:0px;">
@@ -430,34 +430,34 @@ I want to be able to look up the meaning of unusual and impressive words
 <table>
     <tr>
         <td width="40px" style="padding-top:4px;">
-            <div class="small" style="text-align:right;">66.7%</div>
+            <div class="small" style="text-align:right;">33.3%</div>
         </td>
         <td style="min-width:12.5em;">
             <div class="progress">
                 <div class="progress-bar" role="progressbar"
-                     style="width: 66.666667%; background-color:#30cb23;"
-                     aria-valuenow="2"
-                     aria-valuemin="0"
-                     aria-valuemax="3"
-                     title="  - Total tests: 3
-  - Passing tests: 2 (66.7%)
-  - Failing tests: 0 (0%)
-  - Tests with errors: 0 (0%)
-  - Compromised tests 0 (0%)
-  - Pending tests: 1 (33.3%)
-  - Ignored or skipped tests: 0 (0%)">
-                </div>
-                <div class="progress-bar" role="progressbar"
-                     style="width: 33.333333%; background-color:#A2C4EC;"
+                     style="width: 33.333333%; background-color:#30cb23;"
                      aria-valuenow="1"
                      aria-valuemin="0"
                      aria-valuemax="3"
                      title="  - Total tests: 3
-  - Passing tests: 2 (66.7%)
+  - Passing tests: 1 (33.3%)
   - Failing tests: 0 (0%)
-  - Tests with errors: 0 (0%)
+  - Tests with errors: 2 (66.7%)
   - Compromised tests 0 (0%)
-  - Pending tests: 1 (33.3%)
+  - Pending tests: 0 (0%)
+  - Ignored or skipped tests: 0 (0%)">
+                </div>
+                <div class="progress-bar" role="progressbar"
+                     style="width: 0%; background-color:#A2C4EC;"
+                     aria-valuenow="0"
+                     aria-valuemin="0"
+                     aria-valuemax="3"
+                     title="  - Total tests: 3
+  - Passing tests: 1 (33.3%)
+  - Failing tests: 0 (0%)
+  - Tests with errors: 2 (66.7%)
+  - Compromised tests 0 (0%)
+  - Pending tests: 0 (0%)
   - Ignored or skipped tests: 0 (0%)">
                 </div>
                 <div class="progress-bar" role="progressbar"
@@ -466,11 +466,11 @@ I want to be able to look up the meaning of unusual and impressive words
                      aria-valuemin="0"
                      aria-valuemax="3"
                      title="  - Total tests: 3
-  - Passing tests: 2 (66.7%)
+  - Passing tests: 1 (33.3%)
   - Failing tests: 0 (0%)
-  - Tests with errors: 0 (0%)
+  - Tests with errors: 2 (66.7%)
   - Compromised tests 0 (0%)
-  - Pending tests: 1 (33.3%)
+  - Pending tests: 0 (0%)
   - Ignored or skipped tests: 0 (0%)">
                 </div>
                 <div class="progress-bar" role="progressbar"
@@ -479,11 +479,11 @@ I want to be able to look up the meaning of unusual and impressive words
                      aria-valuemin="0"
                      aria-valuemax="3"
                      title="  - Total tests: 3
-  - Passing tests: 2 (66.7%)
+  - Passing tests: 1 (33.3%)
   - Failing tests: 0 (0%)
-  - Tests with errors: 0 (0%)
+  - Tests with errors: 2 (66.7%)
   - Compromised tests 0 (0%)
-  - Pending tests: 1 (33.3%)
+  - Pending tests: 0 (0%)
   - Ignored or skipped tests: 0 (0%)">
                 </div>
                 <div class="progress-bar" role="progressbar"
@@ -492,24 +492,24 @@ I want to be able to look up the meaning of unusual and impressive words
                      aria-valuemin="0"
                      aria-valuemax="3"
                      title="  - Total tests: 3
-  - Passing tests: 2 (66.7%)
+  - Passing tests: 1 (33.3%)
   - Failing tests: 0 (0%)
-  - Tests with errors: 0 (0%)
+  - Tests with errors: 2 (66.7%)
   - Compromised tests 0 (0%)
-  - Pending tests: 1 (33.3%)
+  - Pending tests: 0 (0%)
   - Ignored or skipped tests: 0 (0%)">
                 </div>
                 <div class="progress-bar" role="progressbar"
-                     style="width: 0%; background-color:darkorange;"
-                     aria-valuenow="0"
+                     style="width: 66.666667%; background-color:darkorange;"
+                     aria-valuenow="2"
                      aria-valuemin="0"
                      aria-valuemax="3"
                      title="  - Total tests: 3
-  - Passing tests: 2 (66.7%)
+  - Passing tests: 1 (33.3%)
   - Failing tests: 0 (0%)
-  - Tests with errors: 0 (0%)
+  - Tests with errors: 2 (66.7%)
   - Compromised tests 0 (0%)
-  - Pending tests: 1 (33.3%)
+  - Pending tests: 0 (0%)
   - Ignored or skipped tests: 0 (0%)">
                 </div>
                 <div class="progress-bar" role="progressbar"
@@ -518,11 +518,11 @@ I want to be able to look up the meaning of unusual and impressive words
                      aria-valuemin="0"
                      aria-valuemax="3"
                      title="  - Total tests: 3
-  - Passing tests: 2 (66.7%)
+  - Passing tests: 1 (33.3%)
   - Failing tests: 0 (0%)
-  - Tests with errors: 0 (0%)
+  - Tests with errors: 2 (66.7%)
   - Compromised tests 0 (0%)
-  - Pending tests: 1 (33.3%)
+  - Pending tests: 0 (0%)
   - Ignored or skipped tests: 0 (0%)">
                 </div>
             </div>
@@ -564,7 +564,7 @@ I want to be able to look up the meaning of unusual and impressive words
                                                             <a href="60f87a69ab4f976e85bc3281b398908c6db59e515878765a698dd481e4b87106.html">Searching by keyword banana should display the corresponding article</a>
                                                     </td>
                                                     <td>3</td>
-                                                    <td>21:53:45</td>
+                                                    <td>21:57:34</td>
                                                     <td>00:10</td>
                                                     <td>
                                                             <a href='##beforetable'><i class='fa fa-check-circle-o success-icon ' title='SUCCESS'></i></a> <span
@@ -579,7 +579,7 @@ I want to be able to look up the meaning of unusual and impressive words
                                                             <a href="f14025fe1c688d53208a082182921e1af5c773186b88e3600fc162ab52647d9a.html">Searching by ambiguious keyword should display the disambiguation page</a>
                                                     </td>
                                                     <td>0</td>
-                                                    <td>21:53:57</td>
+                                                    <td>21:57:44</td>
                                                     <td>00:00</td>
                                                     <td>
                                                             <a href='##beforetable'><i class='far fa-stop-circle pending-icon ' title='PENDING'></i></a> <span
@@ -594,11 +594,56 @@ I want to be able to look up the meaning of unusual and impressive words
                                                             <a href="8406f891c60e70c24016274ebf3d5c8cd8e8055368e8d95c779a4905c403e772.html">Searching by keyword apple should display the corresponding article</a>
                                                     </td>
                                                     <td>3</td>
-                                                    <td>21:53:57</td>
-                                                    <td>00:04</td>
+                                                    <td>21:57:45</td>
+                                                    <td>00:05</td>
                                                     <td>
                                                             <a href='##beforetable'><i class='fa fa-check-circle-o success-icon ' title='SUCCESS'></i></a> <span
                                                                 style="display:none">SUCCESS</span>
+                                                    </td>
+                                                </tr>
+                                                <tr class="scenario-result SUCCESS">
+                                                    <td>
+                                                            <a href="5b5c8e6adb70691dafc8b87725829a687bed08dbf70aeb9668d65c7faee33071.html">Books express story</a>
+                                                    </td>
+                                                    <td>
+                                                            <a href="245ec1df5f7ae845ba90f0e7faefb9b16fa112d620b7791fa73479175cae45c0.html">Login user</a>
+                                                    </td>
+                                                    <td>2</td>
+                                                    <td>17:21:29</td>
+                                                    <td>00:14</td>
+                                                    <td>
+                                                            <a href='##beforetable'><i class='fa fa-check-circle-o success-icon ' title='SUCCESS'></i></a> <span
+                                                                style="display:none">SUCCESS</span>
+                                                    </td>
+                                                </tr>
+                                                <tr class="scenario-result ERROR">
+                                                    <td>
+                                                            <a href="5b5c8e6adb70691dafc8b87725829a687bed08dbf70aeb9668d65c7faee33071.html">Books express story</a>
+                                                    </td>
+                                                    <td>
+                                                            <a href="f9b8df5130cb6ededf700ebdc5eea863ad8efedb77f38da89c03bad67214f6bf.html"><span class='context-icon'><i class='fa fa-firefox' aria-hidden='true'></i></span>Search book</a>
+                                                    </td>
+                                                    <td>1</td>
+                                                    <td>18:45:59</td>
+                                                    <td>00:01</td>
+                                                    <td>
+                                                            <a href='##beforetable'><i class='fa fa-exclamation-triangle error-icon ' title='ERROR'></i></a> <span
+                                                                style="display:none">ERROR</span>
+                                                    </td>
+                                                </tr>
+                                                <tr class="scenario-result ERROR">
+                                                    <td>
+                                                            <a href="5b5c8e6adb70691dafc8b87725829a687bed08dbf70aeb9668d65c7faee33071.html">Books express story</a>
+                                                    </td>
+                                                    <td>
+                                                            <a href="e126ea5548ec4f51fb558c215f2c8fbe9d0c7b38029c0f523fc9118fe6220dae.html"><span class='context-icon'><i class='fa fa-firefox' aria-hidden='true'></i></span>Login user</a>
+                                                    </td>
+                                                    <td>2</td>
+                                                    <td>18:50:03</td>
+                                                    <td>00:13</td>
+                                                    <td>
+                                                            <a href='##beforetable'><i class='fa fa-exclamation-triangle error-icon ' title='ERROR'></i></a> <span
+                                                                style="display:none">ERROR</span>
                                                     </td>
                                                 </tr>
                                                 </tbody>

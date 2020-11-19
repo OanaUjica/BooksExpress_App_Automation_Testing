@@ -1,1 +1,4 @@
+examProject\pages\LoginPage.class
+examProject\steps\serenity\EndUserSteps.class
+examProject\features\search\BooksExpressStory.class
 examProject\features\search\package-info.class
