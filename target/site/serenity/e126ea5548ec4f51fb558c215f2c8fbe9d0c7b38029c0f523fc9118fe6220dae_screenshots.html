@@ -138,7 +138,7 @@
             <a href="7ea0a5e2d679b9deeda9910ae4a9bcd3a281e0d908303a9e16e486103e98880c.html"><i class="fa fa-comments-o"></i> Capabilities</a>
         </li>
     </ul>
-    <span class="date-and-time"><a href="build-info.html"><i class="fa fa-info-circle"></i></a> Report generated 19-11-2020 18:50</span>
+    <span class="date-and-time"><a href="build-info.html"><i class="fa fa-info-circle"></i></a> Report generated 20-11-2020 00:30</span>
     <br style="clear:left"/>
 </div>
 
@@ -179,9 +179,9 @@
                 <table class="outcome-header">
                     <tr>
                         <td colspan="2" class="test-title-bar">
-                            <span class="outcome-icon"><a href='##beforetable'><i class='fa fa-exclamation-triangle error-icon fa-2x' title='ERROR'></i></a></span>
+                            <span class="outcome-icon"><a href='##beforetable'><i class='fa fa-times-circle failure-icon fa-2x' title='FAILURE'></i></a></span>
                             <span class="test-case-title">
-                                <span class="error-color">Login user
+                                <span class="failing-color">Login user
                                     <span class="related-issue-title"></span>
                                 </span>
                             </span>
@@ -204,7 +204,7 @@
         <div class="table">
             <div class="row">
                 <div class="col-sm-10" style="padding-left:1.5em; padding-top:0.5em; padding-bottom:0.5em;">
-                    <span class="error-message error-message-title">Null pointer exception: Cannot invoke 'examProject.pages.SearchPage.enter_searchInput(String)' because 'this.searchPage' is null</span>
+                    <span class="error-message error-message-title">Element should be enabled exception: Expected enabled element was not enabled</span>
                 </div>
                 <div class="col-sm-2">
                     <a class="btn btn-warning details-button" data-toggle="collapse" href="#stacktraceModal-overall""
@@ -220,13 +220,20 @@
         <div class="collapse multi-collapse" id="stacktraceModal-overall">
             <div class="card">
                 <div class="card-header">
-                    <h4>java.lang.NullPointerException </h4>
+                    <h4>net.thucydides.core.webdriver.exceptions.ElementShouldBeEnabledException </h4>
                 </div>
                 <div class="card-body">
                     <div>
-                        <pre>examProject.steps.serenity.EndUserSteps.fill_data_and_login(EndUserSteps.java:33)<br />examProject.features.search.BooksExpressStory.login_user(BooksExpressStory.java:24)<br /></pre>
+                        <pre>examProject.pages.LoginPage.click_bookAddedToWishlistButton(LoginPage.java:115)<br />examProject.steps.serenity.EndUserSteps.fill_data_and_login(EndUserSteps.java:39)<br />examProject.features.search.BooksExpressStory.login_user(BooksExpressStory.java:30)<br /></pre>
                     </div>
 
+                    <h4>
+                        Caused by: org.openqa.selenium.TimeoutException
+                    </h4>
+                    <div>
+                            <pre>Expected condition failed: waiting for LoginPage.bookAddedToWishlistButton to be enabled (tried for 5 second(s) with 100 milliseconds interval)</pre>
+                        <pre>examProject.pages.LoginPage.click_bookAddedToWishlistButton(LoginPage.java :115)<br />examProject.steps.serenity.EndUserSteps.fill_data_and_login(EndUserSteps.java :39)<br />examProject.features.search.BooksExpressStory.login_user(BooksExpressStory.java :30)<br /></pre>
+                    </div>
                 </div>
             </div>
         </div>
@@ -234,13 +241,13 @@
 
 
                 <div class="panel-body">
-                    <a href="pagesource14670044045774419798.html.txt" target="_blank" class="btn btn-info">HTML Source</a>
+                    <a href="pagesource2241185317607991721.html.txt" target="_blank" class="btn btn-info">HTML Source</a>
                 </div>
             </div>
         <div class="slider-wrapper theme-default">
             <div id="slider">
-                <img src="70fe479e3cb18b43f430bbdd76ccd873c33e3ff0b1de0198e1e493f6d7d6b016.png" title=" Go to home page" width="1284"/>
-                <img src="168063dfa96ea7a3407f0d928e7ea30af9df60f4e7cf8f5b6bafcd350ca162f0.png" title=" Fill data and login: oana.m.ujica@gmail.com, 2lBrj&amp;icnl!, JavaScript: The Definitive Guide, 7e/David Flanagan: <span class='error-color'>ERROR</span>" width="1284"/>
+                <img src="2cac057bb7f7f9d36c204d50dd3844e7f786f1d03d62090ecdc0f888ddf1dc89.png" title=" Go to home page" width="1284"/>
+                <img src="2f18f25e1997d62d3af16c3a30945f0d44af547b0c71b164e2f670279788c1d3.png" title=" Fill data and login: oana.m.ujica@gmail.com, 2lBrj&amp;icnl!, Head First Design Patterns/Elisabeth Freeman, FirefoxDriver: firefox on WINDOWS (cee40a3e-0665-419f-9a1a-02451f93f2f9): <span class='failing-color'>FAILURE</span>" width="1284"/>
             </div>
         </div>
 
