@@ -2,6 +2,6 @@
 "Search by keyword story","Searching by keyword banana should display the corresponding article","SUCCESS","2020-11-16T21:57:34.0088622+02:00[Europe/Bucharest]","0.0","10.25"
 "Search by keyword story","Searching by ambiguious keyword should display the disambiguation page","PENDING","2020-11-16T21:57:44.8886388+02:00[Europe/Bucharest]","0.0","0.44"
 "Search by keyword story","Searching by keyword apple should display the corresponding article","SUCCESS","2020-11-16T21:57:45.4541769+02:00[Europe/Bucharest]","0.0","5.15"
-"Books express story","Login user","SUCCESS","2020-11-19T17:21:29.256537+02:00[Europe/Bucharest]","0.0","14.82"
 "Books express story","Search book","ERROR","2020-11-19T18:45:59.502795+02:00[Europe/Bucharest]","0.0","1.23"
-"Books express story","Login user","ERROR","2020-11-19T18:50:03.1425414+02:00[Europe/Bucharest]","0.0","13.16"
+"Books express story","Login user","FAILURE","2020-11-20T00:30:41.3652058+02:00[Europe/Bucharest]","0.0","24.4"
+"Books express story","Login user","SUCCESS","2020-11-20T04:12:00.4679468+02:00[Europe/Bucharest]","0.0","21.77"

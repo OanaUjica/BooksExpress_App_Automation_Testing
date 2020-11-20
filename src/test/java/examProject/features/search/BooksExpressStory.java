@@ -12,7 +12,7 @@ import org.openqa.selenium.WebDriver;
 public class BooksExpressStory {
 
     @Managed(uniqueSession = true)
-    public WebDriver webdriver;
+    public WebDriver webDriver;
 
     @Steps
     public EndUserSteps steps;
@@ -21,7 +21,9 @@ public class BooksExpressStory {
     public void login_user() {
 
         steps.go_to_home_page();
-        steps.fill_data_and_login("oana.m.ujica@gmail.com", "2lBrj&icnl!", "JavaScript: The Definitive Guide, 7e/David Flanagan");
+        steps.fill_data_and_login("oana.m.ujica@gmail.com", "2lBrj&icnl!", "JavaScript", webDriver);
+
+        webDriver.quit();
     }
 
 //    @Test

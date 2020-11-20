@@ -1,4 +1,4 @@
 "Story","Title","Result","Date","Stability","Duration (s)"
 "Search by keyword story","Searching by keyword banana should display the corresponding article","SUCCESS","2020-11-16T21:57:34.0088622+02:00[Europe/Bucharest]","0.0","10.25"
 "Search by keyword story","Searching by keyword apple should display the corresponding article","SUCCESS","2020-11-16T21:57:45.4541769+02:00[Europe/Bucharest]","0.0","5.15"
-"Books express story","Login user","SUCCESS","2020-11-19T17:21:29.256537+02:00[Europe/Bucharest]","0.0","14.82"
+"Books express story","Login user","SUCCESS","2020-11-20T04:12:00.4679468+02:00[Europe/Bucharest]","0.0","21.77"
