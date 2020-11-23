@@ -1,4 +1,8 @@
-examProject\pages\LoginPage.class
-examProject\steps\serenity\EndUserSteps.class
+examProject\pages\CartPage.class
+examProject\pages\BookPage.class
+examProject\pages\HeaderAllPages.class
 examProject\features\search\BooksExpressStory.class
 examProject\features\search\package-info.class
+examProject\pages\WishlistPage.class
+examProject\pages\LoginPage.class
+examProject\steps\serenity\EndUserSteps.class

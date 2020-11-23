@@ -1,0 +1,226 @@
+<html style="min-width: 0px;"><head><script type="text/javascript" async="" src="https://www.gstatic.com/recaptcha/releases/UFwvoDBMjc8LiYc1DKXiAomK/recaptcha__en.js" crossorigin="anonymous" integrity="sha384-K2LYnZEtBUcW6O6eiKyrX5HgXfaBzWmW7BmI0mEp+JFPi3pZyyiJwjMDjI12BtQg"></script><script type="text/javascript" async="" src="https://www.google-analytics.com/plugins/ua/ec.js"></script><script type="text/javascript" async="" src="https://www.google-analytics.com/analytics.js"></script><script src="https://connect.facebook.net/signals/config/689144244482713?v=2.9.29&amp;r=stable" async=""></script><script async="" src="//connect.facebook.net/en_US/fbevents.js"></script><script src="https://www.books-express.ro/js/login_1518521688.js"></script><script src="https://www.google.com/recaptcha/api.js"></script><script src="https://www.books-express.ro/js/main_1585304528.js"></script><script src="https://www.books-express.ro/polyglot.i18n.js"></script><script src="https://www.books-express.ro/js/libs_1484923518.js"></script><script src="https://www.books-express.ro/js/jquery-2.1.4.min.js"></script><script src="https://www.books-express.ro/js/skel.min.js"></script>
+		<title>Intră în cont | Books Express</title>
+        		<meta http-equiv="content-type" content="text/html; charset=utf-8">
+		<meta name="description" content="">
+    <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+            <style data-no-min="">
+        @charset "UTF-8";.row.\30 \25>*,.row.form.\30 \25>*,.row.uniform.\30 \25>*{padding:0}.ws,li.prod{opacity:0}#header #nav-center,.button,.carousel,.subnav a.filter{white-space:nowrap}.carousel ul,ol,ul{list-style:none}*,:after,:before{-moz-box-sizing:border-box;-webkit-box-sizing:border-box;box-sizing:border-box}.container.\31 25\25{width:100%;max-width:122.5%;min-width:98%}.container.\37 5\25{width:73.5%}.container.\35 0\25{width:49%}.container.\32 5\25{width:24.5%}.container{margin-left:auto;margin-right:auto;width:98%}@media screen and (max-width:1279px){.container.\31 25\25{width:100%;max-width:122.5%;min-width:98%}.container.\37 5\25{width:73.5%}.container.\35 0\25{width:49%}.container.\32 5\25{width:24.5%}.container{width:98%}}.row>*{float:left;clear:none;margin-left:0}.row:after,.row:before{content:'';display:block;clear:both;height:0}.row.uniform>*>:first-child{margin-top:0}.row.uniform>*>:last-child{margin-bottom:0}.row.\30 \25,.row.uniform.\30 \25{margin:0 0 -1px}.\31 2u{width:100%}.\38 u{width:66.66%}.\36 u{width:50%}.\34 u{width:33.33%}.\33 u{width:25%}.\32 u{width:16.66%}.\-8u{margin-left:66.66%}.\-6u{margin-left:50%}.\-4u{margin-left:33.33%}.\-3u{margin-left:25%}.\-2u{margin-left:16.66%}@media screen and (max-width:5000px){.\31 2u\28xxlarge\29{width:100%}.\38 u\28xxlarge\29{width:66.66%}.\36 u\28xxlarge\29{width:50%}.\34 u\28xxlarge\29{width:33.33%}.\33 u\28xxlarge\29{width:25%}.\32 u\28xxlarge\29{width:16.66%}.\-8u\28xxlarge\29{margin-left:66.66%}.\-6u\28xxlarge\29{margin-left:50%}.\-4u\28xxlarge\29{margin-left:33.33%}.\-3u\28xxlarge\29{margin-left:25%}.\-2u\28xxlarge\29{margin-left:16.66%}}@media screen and (max-width:1600px){.\31 2u\28xlarge\29{width:100%}.\38 u\28xlarge\29{width:66.66%}.\36 u\28xlarge\29{width:50%}.\34 u\28xlarge\29{width:33.33%}.\33 u\28xlarge\29{width:25%}.\32 u\28xlarge\29{width:16.66%}.\-8u\28xlarge\29{margin-left:66.66%}.\-6u\28xlarge\29{margin-left:50%}.\-4u\28xlarge\29{margin-left:33.33%}.\-3u\28xlarge\29{margin-left:25%}.\-2u\28xlarge\29{margin-left:16.66%}}.row>*{padding:0 0 0 1.5em}.row{border-bottom:solid 1px transparent;margin:0 0 -1px -1.5em}.row.uniform>*{padding:1.5em 0 0 1.5em}.row.uniform{margin:-1.5em 0 -1px -1.5em}.row.form>*{padding:.5em 0 0 1.5em}.row.\32 00\25>*{padding:0 0 0 3em}.row.\32 00\25{margin:0 0 -1px -3em}.row.uniform.\32 00\25>*{padding:3em 0 0 3em}.row.uniform.\32 00\25{margin:-3em 0 -1px -3em}.row.form.\32 00\25>*{padding:1em 0 0 3em}.row.\31 50\25>*{padding:0 0 0 2.25em}.row.\31 50\25{margin:0 0 -1px -2.25em}.row.uniform.\31 50\25>*{padding:2.25em 0 0 2.25em}.row.uniform.\31 50\25{margin:-2.25em 0 -1px -2.25em}.row.form.\31 50\25>*{padding:.75em 0 0 2.25em}.row.\35 0\25>*{padding:0 0 0 .75em}.row.\35 0\25{margin:0 0 -1px -.75em}.row.uniform.\35 0\25>*{padding:.75em 0 0 .75em}.row.uniform.\35 0\25{margin:-.75em 0 -1px -.75em}.row.form.\35 0\25>*{padding:.25em 0 0 .75em}.row.\32 5\25>*{padding:0 0 0 .375em}.row.\32 5\25{margin:0 0 -1px -.375em}.row.uniform.\32 5\25>*{padding:.375em 0 0 .375em}.row.uniform.\32 5\25{margin:-.375em 0 -1px -.375em}.row.form.\32 5\25>*{padding:.125em 0 0 .375em}@media screen and (max-width:1279px){.\31 2u\28large\29{width:100%}.\38 u\28large\29{width:66.66%}.\36 u\28large\29{width:50%}.\34 u\28large\29{width:33.33%}.\33 u\28large\29{width:25%}.\32 u\28large\29{width:16.66%}.\-8u\28large\29{margin-left:66.66%}.\-6u\28large\29{margin-left:50%}.\-4u\28large\29{margin-left:33.33%}.\-3u\28large\29{margin-left:25%}.\-2u\28large\29{margin-left:16.66%}}a,abbr,acronym,address,applet,article,aside,audio,b,big,blockquote,body,canvas,caption,center,cite,code,dd,del,details,dfn,div,dl,dt,em,embed,fieldset,figcaption,figure,footer,form,h1,h2,h3,h4,h5,h6,header,hgroup,html,i,iframe,img,ins,kbd,label,legend,li,mark,menu,nav,object,ol,output,p,pre,q,ruby,s,samp,section,small,span,strike,strong,sub,summary,sup,table,tbody,td,tfoot,th,thead,time,tr,tt,u,ul,var,video{margin:0;padding:0;border:0;font:inherit;vertical-align:baseline}article,aside,details,figcaption,figure,footer,header,hgroup,menu,nav,section{display:block}blockquote,q{quotes:none}blockquote:after,blockquote:before,q:after,q:before{content:'';content:none}table{border-collapse:collapse;border-spacing:0}body{-webkit-text-size-adjust:none;background:#fff}body.is-loading *,body.is-loading :after,body.is-loading :before{-moz-animation:none!important;-webkit-animation:none!important;-ms-animation:none!important;animation:none!important;-moz-transition:none!important;-webkit-transition:none!important;-ms-transition:none!important;transition:none!important}body .jq-dropdown{display:none}body.phone{overflow-x:hidden}.right{float:right}.left{float:left}.fill{width:auto;overflow:hidden}#header,#main.full,.carousel,.full{width:100%}ul{padding-left:1em}.color-theme-1{color:#293271}.color-theme-2{color:#495296}.color-theme-3{color:#46a4d7}.color-theme-4{color:#dc6f20}.color-theme-5{color:#b43100}.color-theme-6{color:green}.button,.color-bold,b,strong{color:#555}#main{padding:.5em 0 4em}#products{font-weight:700}.box{border-radius:4px;border:1px solid #e3e3e3;margin-bottom:1em;padding:1.5em}.box>:last-child,.box>:last-child>:last-child,.box>:last-child>:last-child>:last-child{margin-bottom:0}#breadcrumbs a,aside a,h1 a,h2 a,h3 a,h4 a{color:inherit;text-decoration:none}.subnav{list-style-type:none;margin:0 0 .3em;padding:0 0 .3em;font-size:1em;border-bottom:1px solid #e3e3e3}.subnav a.filter{font-size:.8em;padding:3px 6px;border:1px solid #e3e3e3;display:inline-block;line-height:1.1em;margin-bottom:.2em}.subnav a.filter.red{border-color:#b43100;color:#b43100}.subnav li{display:inline-block;margin:0;padding:0}.middle{position:relative;top:50%;-webkit-transform:translateY(-50%);-ms-transform:translateY(-50%);transform:translateY(-50%)}.center{margin-left:auto;margin-right:auto}.show-medium,.show-mobile,.show-small,.show-xsmall{display:none}.dialog-page{max-width:25em;margin:3em auto}@media screen and (max-width:5000px){.split-large{position:relative}.split-large:after{content:"";position:absolute;z-index:-1;top:0;bottom:0;left:50%;border-left:solid 1px #e3e3e3}}.carousel,.carousel ul,.read-wrap,sub,sup{position:relative}.read-wrap{max-height:410px;overflow:hidden;margin-bottom:1em}.read-wrap.small-wrap{max-height:135px}.read-wrap img.cover{padding:0 .5em .5em 0;max-height:135px}.image.banner-wrapper img{border:1px solid #c7c7c7;box-shadow:0 2px 6px 0 rgba(0,0,0,.08)}.carousel{min-height:225px;overflow:hidden;padding:5px 0}.carousel ul{display:inline-block;padding:0;margin:0;left:0}@font-face{font-family:'Roboto Condensed';font-style:normal;font-weight:300;src:local("Roboto Condensed Light"),local("RobotoCondensed-Light"),url(https://fonts.gstatic.com/s/robotocondensed/v13/b9QBgL0iMZfDSpmcXcE8nE3-C2-AeGuds3u-nxwkckg.woff) format("woff")}@font-face{font-family:'Roboto Condensed';font-style:normal;font-weight:700;src:local("Roboto Condensed Bold"),local("RobotoCondensed-Bold"),url(https://fonts.gstatic.com/s/robotocondensed/v13/b9QBgL0iMZfDSpmcXcE8nPSdKbtAIMvKJF67__UonTA.woff) format("woff")}@font-face{font-family:'Work Sans';font-style:normal;font-weight:100;src:local("Work Sans Thin"),local("WorkSans-Thin"),url(https://fonts.gstatic.com/s/worksans/v2/S5P2Ny-Dw8BHKH0UfdbgXafTCPadK0KLfdEfFtGWCYw.woff) format("woff")}@font-face{font-family:'Work Sans';font-style:normal;font-weight:400;src:local("Work Sans"),local("WorkSans-Regular"),url(https://fonts.gstatic.com/s/worksans/v2/WB2LNay3rHMH1zU8UJnUHLO3LdcAZYWl9Si6vvxL-qU.woff) format("woff")}@font-face{font-family:'Work Sans';font-style:normal;font-weight:700;src:local("Work Sans Bold"),local("WorkSans-Bold"),url(https://fonts.gstatic.com/s/worksans/v2/4udXuXg54JlPEP5iKO5AmeY5mlVXtdNkpsMpKkrDXP4.woff) format("woff")}@font-face{font-family:fontello;src:url(/fonts/fontello.eot?20527721);src:url(/fonts/fontello.eot?20527721#iefix) format("embedded-opentype"),url(/fonts/fontello.woff2?20527721) format("woff2"),url(/fonts/fontello.woff?20527721) format("woff"),url(/fonts/fontello.ttf?20527721) format("truetype"),url(/fonts/fontello.svg?20527721#fontello) format("svg");font-weight:400;font-style:normal}[class*=" fa-"]:before,[class^=fa-]:before{font-family:fontello;font-style:normal;font-weight:400;speak:none;display:inline-block;text-decoration:inherit;text-align:center;font-variant:normal;text-transform:none;line-height:1em;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}.fa-user:before{content:'\e802'}.fa-angle-down:before{content:'\e81b'}.fa-down-open:before{content:'\e81c'}.fa-heart:before{content:'\e806'}.fa-basket:before{content:'\e80c'}.fa-search:before{content:'\e816'}.fa-home:before{content:'\e808'}.fa-right-dir:before{content:'\e828'}.fa-gift:before{content:'\e817'}.fa-book:before{content:'\e82c'}.fa-info-circled:before{content:'\e809'}.fa-menu:before{content:'\e82a'}b,strong{font-weight:700}em,i{font-style:italic}p{margin:0 0 .5em}p.no-margin{margin:0}h1,h3,h4{font-weight:400}h2,h5,h6{font-weight:700}h1,h2,h3,h4,h5,h6{color:#444;line-height:1em;margin:0 0 .5em}h1 a,h2 a,h3 a,h4 a,h5 a,h6 a{color:inherit;text-decoration:none}h1 a.hsub,h2 a.hsub,h3 a.hsub,h4 a.hsub,h5 a.hsub,h6 a.hsub{color:#bbb}h1 a.hsub:hover,h2 a.hsub:hover,h3 a.hsub:hover,h4 a.hsub:hover,h5 a.hsub:hover,h6 a.hsub:hover{color:#dc6f20}h1 .hlinks,h2 .hlinks,h3 .hlinks,h4 .hlinks,h5 .hlinks,h6 .hlinks{float:right}h1 .hlinks a,h2 .hlinks a,h3 .hlinks a,h4 .hlinks a,h5 .hlinks a,h6 .hlinks a{color:#5AA6ED;font-size:.8em;font-weight:400}h1 .hlinks a:hover,h2 .hlinks a:hover,h3 .hlinks a:hover,h4 .hlinks a:hover,h5 .hlinks a:hover,h6 .hlinks a:hover{color:#dc6f20}h1 .hlinks a.small,h2 .hlinks a.small,h3 .hlinks a.small,h4 .hlinks a.small,h5 .hlinks a.small,h6 .hlinks a.small{font-size:.5em}h1+.subtitle,h2+.subtitle,h3+.subtitle,h4+.subtitle,h5+.subtitle,h6+.subtitle{margin:-.5em 0 .5em;line-height:1.3em}@media screen and (max-width:5000px){h1,h2,h3,h4,h5,h6{line-height:1.1em}h1{font-size:2em}h2,h3{font-size:1.35em}h4{font-size:1.2em}h4.multi-column{margin:.5em 0 0}h5{font-size:.9em}h6{font-size:.7em}}.fade,span.small,sub,sup{font-size:.8em}span.error{border-color:#b43100!important}hr{border:0;border-bottom:solid 1px #e3e3e3;margin:1em 0}hr.strong{border-bottom-color:#bbb}hr.major{margin:1.5em 0}hr.minor{margin:.5em 0}.fade{font-weight:400;color:#bbb}a.fade{color:#b43100}.align-left{text-align:left!important}.align-center,.button,.select-wrapper:before,.submessage{text-align:center}#header,.align-right{text-align:right}.strike{text-decoration:line-through}#header a,a,a:hover{text-decoration:none}.strong{font-weight:700}.serif{font-family:Georgia,"Times New Roman",Times,serif;font-weight:400}.narrow{font-family:"Roboto Condensed",sans-serif;font-weight:300}sub{top:.5em}sup{top:-.5em}.notify-bubble,.top-left,.top-right{position:absolute}pre{-webkit-overflow-scrolling:touch;font-family:"Courier New",monospace;font-size:.9em;margin:0 0 1em}pre code{display:block;line-height:1.75em;padding:1em 1.5em;overflow-x:auto}div.small{font-size:.8em;line-height:1.1em}body,input,select,textarea{color:#444;font-family:"Work Sans","Helvetica Neue",Arial,sans-serif;font-size:13pt;font-weight:400;line-height:1.5em}@media screen and (max-width:1600px){body,input,select,textarea{font-size:11pt}}@media screen and (max-width:1279px){body,input,select,textarea{font-size:11pt}}a{color:#5AA6ED}a.plain{color:#444}a.plain:hover{color:#dc6f20}.hidden{display:none}.ws{display:none;transition:opacity .2s linear}.clear{clear:both}aside.left a{color:#444}aside.left a:hover{color:#dc6f20}.small-facets{background-color:#fff}.pill{box-shadow:1px 1px 3px 0 rgba(0,0,0,.4);border-radius:3px;font-weight:700;padding:3px 5px;margin-top:3px;font-size:.9em;line-height:1em}.cyan-pill,.green-pill{font-weight:400;color:#fff}.red-pill{background-color:rgba(180,49,0,.6);color:#fff;border:1px solid #b43100}.blue-pill{background-color:rgba(73,82,150,.6);border:1px solid #495296;color:#fff}.cyan-pill{background-color:rgba(70,164,215,.6);border:1px solid #46a4d7}.green-pill{background-color:rgba(0,128,0,.6);border:1px solid green}#submenu,#submenu a{color:#FFF}.top-right{right:8px;top:-8px}.top-left{left:0;top:0}body{padding-top:3.5em}.stop-scrolling{height:100%;overflow:hidden}#hero{background:#FFF}#header{background:#fff;color:#444;cursor:default;height:3.5em;left:0;line-height:3.5em;position:fixed;top:0;z-index:101;-webkit-transform:translate3d(0,0,0)}#header.up{box-shadow:0 4px 6px 0 rgba(0,0,0,.15)}#header #products-header{display:none;margin-left:.5em}#header #products-header i{font-size:1.4em}#header #logo{height:inherit;line-height:3.5em;margin:0 0 0 .6em;position:relative;float:left;width:215px}#header #logo.align-center{margin:0 auto;float:none}#header #nav-center{padding:.625em 1em;width:auto;overflow:hidden}#header #search{height:2.25em;line-height:1.5em;background:#fff;border-radius:0;border:none;border:1px solid #e3e3e3;color:#444}#header form{margin:0}#header button{padding:0 .5em 0 1em;font-size:1em;height:2.25em;line-height:2.25em}#header button.fa-search{border-bottom-left-radius:0;border-top-left-radius:0;margin-left:-2px;box-shadow:none}#header ul.nav,#submenu ul{list-style:none;margin:0}#header ul.nav{padding-left:0}#header ul.nav>li{display:inline-block;padding-left:0}#header ul.nav>li:first-child{margin-left:0}#header ul.nav-btn{padding-left:.75em}#header .nav-right{float:right;height:inherit;line-height:inherit;position:relative;padding-right:.3em;vertical-align:middle}#header a{-moz-transition:color .2s ease-in-out;-webkit-transition:color .2s ease-in-out;-ms-transition:color .2s ease-in-out;transition:color .2s ease-in-out;color:inherit}#header a#products{color:#b43100;font-weight:700}#header a:hover{color:#dc6f20}#header a[href="#nav"]{padding-left:.3em}#submenu{background:#495296;font-size:1em;font-weight:400}#submenu a:active,#submenu a:hover{text-decoration:underline}.button.carousel-add2cart,.select-button-small>select,.select-inline>select{margin-top:.5em}#submenu ul>li{display:inline-block;margin-right:.5em;padding:.5em 0}.logo-full,.logo-full svg{display:block;width:215px;height:26px}.back-to-top,a[href="#nav"]{display:none}.back-to-top{width:45pt;height:45pt;position:fixed;z-index:999;bottom:18pt;right:81pt;opacity:.4;color:#000;text-shadow:rgba(0,0,0,.15) 0 3pt 12pt}.notify-container,.select-inline,.select-wrapper.small span{display:inline-block}.back-to-top .fa-up-circled{font-size:45pt}.notify-container{position:relative}.notify-bubble{top:9px;right:-11px;line-height:1.2em;padding:2px 5px 2px 6px;background-color:#E40000;color:#fff;font-size:.65em;border-radius:50%;box-shadow:1px 1px 1px gray}.submessage{background-color:#B40000;color:#FFF;font-weight:700;padding:3px}.submessage a,.submessage a:visited{color:#FFF}.submessage a:active,.submessage a:visited:active{color:#000}.submessage a.text:hover,.submessage a:visited.text:hover{text-decoration:underline}.submessage a.text,.submessage a:visited.text{margin-right:20px}.select-inline{width:auto;height:1.7em}.select-wrapper{position:relative}.select-wrapper#editor,.select-wrapper#editor select{width:100%}.select-wrapper.small{font-size:.9em;height:2.44em;line-height:2.44em}.select-wrapper.small select{width:100%;top:.4em}.select-wrapper:before{content:"";-moz-osx-font-smoothing:grayscale;-webkit-font-smoothing:antialiased;font-family:fontello;font-style:normal;font-weight:400;text-transform:none!important;color:#e3e3e3;display:block;height:2.75em;line-height:2.75em;pointer-events:none;position:absolute;right:0;top:0;width:2.75em}.select-wrapper select::-ms-expand{display:none}.select-wrapper select{opacity:0;filter:alpha(opacity=0);visibility:visible;position:absolute;left:0;width:auto;top:0}.select-wrapper span{margin-right:1em}.select-wrapper.select-inline:before{height:1.7em;width:2em;line-height:1.7em}.select-wrapper.select-button-small:before{height:2.85em;width:2em;line-height:2.85em}.select-wrapper,input[type=text],input[type=password],input[type=email],textarea{-moz-appearance:none;-webkit-appearance:none;-ms-appearance:none;appearance:none;background:#fff;border-radius:4px;border:none;border:1px solid #c7c7c7;color:inherit;display:block;outline:0;padding:0 1em;text-decoration:none;width:100%}.button,.select-button-small{display:inline-block;font-weight:700;height:2.85em;line-height:2.85em}.select-wrapper:invalid,input[type=text]:invalid,input[type=password]:invalid,input[type=email]:invalid,textarea:invalid{box-shadow:none}.select-wrapper:focus,input[type=text]:focus,input[type=password]:focus,input[type=email]:focus,textarea:focus{border-color:#5AA6ED;box-shadow:0 0 0 1px #5AA6ED}.select-wrapper:disabled,input[type=text]:disabled,input[type=password]:disabled,input[type=email]:disabled,textarea:disabled{background:#f6f6f6;border:1px solid #e3e3e3}.select-wrapper.error,input[type=text].error,input[type=password].error,input[type=email].error,textarea.error{border:1px solid #b43100}.select-button-small{width:auto;font-size:.8em;box-shadow:0 2px 5px 0 rgba(0,0,0,.2)}.button{-moz-appearance:none;-webkit-appearance:none;-ms-appearance:none;appearance:none;-moz-transition:background-color .2s ease-in-out,color .2s ease-in-out;-webkit-transition:background-color .2s ease-in-out,color .2s ease-in-out;-ms-transition:background-color .2s ease-in-out,color .2s ease-in-out;transition:background-color .2s ease-in-out,color .2s ease-in-out;background-color:#fff;border:1px solid #c7c7c7;text-shadow:none;box-shadow:0 2px 3px 0 rgba(0,0,0,.1);border-radius:4px;cursor:pointer;padding:0 1.5em;text-decoration:none}.button.small{font-size:.8em}.button.xsmall{font-size:.6em}.button.big{font-size:1.35em}.button.icon{padding-left:1.35em}.button.icon:before{margin-right:.5em}.button.primary{border:0;color:#fff;background-color:#46a4d7;text-shadow:0 .075em .075em rgba(0,0,0,.5)}.button.primary:hover{background-color:#5baedc;color:#fff;transition:box-shadow .25s;box-shadow:0 2px 4px 0 rgba(0,0,0,.2)}.button.primary:active{background-color:#319ad2}.button.danger{background-color:#b43100;color:#fff;border:0}.button.danger:hover{background-color:#ce3800}.button.danger:active{background-color:#9b2a00}.button.special{background-color:#dc6f20;color:#fff;border:0}.button.special:hover{background-color:#e17d34}.button.special:active{background-color:#c6641d}
+/*# sourceMappingURL=../maps/mini.css.map */
+
+            </style>
+	<script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-T2782C"></script><script async="" src="https://static.hotjar.com/c/hotjar-1250268.js?sv=6"></script><script async="" src="https://script.hotjar.com/modules.ae930258b2386dc57451.js" charset="utf-8"></script><style type="text/css">iframe#_hjRemoteVarsFrame {display: none !important; width: 1px !important; height: 1px !important; opacity: 0 !important; pointer-events: none !important;}</style></head>
+<body class="desktop" itemscope="" itemtype="https://schema.org/WebPage" style="min-width: 0px;">
+                
+<svg xmlns="http://www.w3.org/2000/svg" class="hidden">
+<symbol id="logo-books-express" viewBox="0 0 215 26"><path d="M0,25L3.88,0.49h6.3q4.58,0,6.59,1.33a4.8,4.8,0,0,1,2,4.32,5.75,5.75,0,0,1-1.3,3.92,7,7,0,0,1-3.91,2.07,5.46,5.46,0,0,1,3,1.9,5.25,5.25,0,0,1,1,3.29,7.63,7.63,0,0,1-.72,3.27,7.11,7.11,0,0,1-2,2.58A7.41,7.41,0,0,1,12,24.59,17.42,17.42,0,0,1,7.64,25H0ZM7.54,19.9L7.89,20l0.47,0a2.18,2.18,0,0,0,1.83-.81,3.71,3.71,0,0,0,.63-2.32,2.39,2.39,0,0,0-.57-1.74,2.31,2.31,0,0,0-1.72-.58H8.33ZM9,10l0.28,0H9.8a2.46,2.46,0,0,0,1.8-.65,2.35,2.35,0,0,0,.66-1.76,1.82,1.82,0,0,0-.53-1.42,2.23,2.23,0,0,0-1.55-.48L10,5.7l-0.22,0Z" style="fill:#162b75"></path><path d="M27.16,25.52A6.9,6.9,0,0,1,21.59,23a10.12,10.12,0,0,1-2.11-6.71,25.18,25.18,0,0,1,.88-6.64,17.66,17.66,0,0,1,2.38-5.41,9.91,9.91,0,0,1,3.4-3.16,9.13,9.13,0,0,1,4.41-1,6.92,6.92,0,0,1,5.6,2.48,10.2,10.2,0,0,1,2.07,6.75,25.1,25.1,0,0,1-.87,6.62A18,18,0,0,1,35,21.31a9.57,9.57,0,0,1-3.37,3.15A9.21,9.21,0,0,1,27.16,25.52Zm-0.82-8.67a4.15,4.15,0,0,0,.37,2,1.26,1.26,0,0,0,1.17.63,1.64,1.64,0,0,0,1.25-.57,5.11,5.11,0,0,0,.94-1.83A23,23,0,0,0,31,13.14a30,30,0,0,0,.34-4.4,4.44,4.44,0,0,0-.35-2,1.16,1.16,0,0,0-1.09-.65,1.78,1.78,0,0,0-1.33.56,4.54,4.54,0,0,0-.93,1.81,26,26,0,0,0-.91,4A28.81,28.81,0,0,0,26.34,16.84Z" style="fill:#162b75"></path><path d="M46.58,25.52A6.9,6.9,0,0,1,41,23a10.12,10.12,0,0,1-2.11-6.71,25.18,25.18,0,0,1,.88-6.64,17.66,17.66,0,0,1,2.38-5.41,9.91,9.91,0,0,1,3.4-3.16A9.13,9.13,0,0,1,50,0a6.92,6.92,0,0,1,5.6,2.48,10.2,10.2,0,0,1,2.07,6.75,25.1,25.1,0,0,1-.87,6.62,18,18,0,0,1-2.39,5.43A9.57,9.57,0,0,1,51,24.47,9.21,9.21,0,0,1,46.58,25.52Zm-0.82-8.67a4.15,4.15,0,0,0,.37,2,1.26,1.26,0,0,0,1.17.63,1.64,1.64,0,0,0,1.25-.57,5.11,5.11,0,0,0,.94-1.83,23,23,0,0,0,.89-3.94,30,30,0,0,0,.34-4.4,4.44,4.44,0,0,0-.35-2,1.16,1.16,0,0,0-1.09-.65A1.78,1.78,0,0,0,48,6.63,4.54,4.54,0,0,0,47,8.44a26,26,0,0,0-.91,4A28.81,28.81,0,0,0,45.76,16.84Z" style="fill:#162b75"></path><path d="M57.46,25L61.34,0.49h6.81L66.54,10.74,71.93,0.49h6.94L72.1,11.82,75.17,25H67.78L66.06,13.87,64.29,25H57.46Z" style="fill:#162b75"></path><path d="M76.75,17.48A9.17,9.17,0,0,0,79.14,19a6.27,6.27,0,0,0,2.41.52,2.28,2.28,0,0,0,1.62-.56,2,2,0,0,0,.6-1.54,3.21,3.21,0,0,0-.5-1.67,12.24,12.24,0,0,0-1.94-2.21,12.13,12.13,0,0,1-2.39-3,6.26,6.26,0,0,1-.65-2.86A7.26,7.26,0,0,1,80.5,2.07a8.46,8.46,0,0,1,6-2.07,12.13,12.13,0,0,1,2.93.34,13.62,13.62,0,0,1,2.83,1.07l-1,6a10.16,10.16,0,0,0-2.15-1.18,5.54,5.54,0,0,0-2-.4,1.93,1.93,0,0,0-1.35.45,1.56,1.56,0,0,0-.49,1.22q0,1,1.89,2.92l0.37,0.37A11.77,11.77,0,0,1,90.07,14a7.55,7.55,0,0,1,.6,3.11,8.1,8.1,0,0,1-2.42,6.2,9.28,9.28,0,0,1-6.61,2.27,13,13,0,0,1-3.39-.43A8.54,8.54,0,0,1,75.57,24Z" style="fill:#162b75"></path><path d="M99.56,25l3.88-24.54h12.09l-0.94,6h-5.27L108.8,9.56h4.77l-0.89,5.75h-4.77l-0.55,3.38h5.28l-1,6.34H99.56Z" style="fill:#162b75"></path><path d="M120,12.61L116.71,0.49h7.06L124.52,7l2.81-6.51h7.09l-7.09,12.12L131,25h-7.22l-1.1-6.47L119.59,25h-7.22Z" style="fill:#162b75"></path><path d="M132.18,25l3.88-24.54h5.85q4.9,0,7.07,1.62t2.17,5.25q0,4.59-2.58,7.05t-7.38,2.46l-0.46,0-0.46,0L139,25h-6.82ZM142,5.92l-0.85,5.43,0.28,0h0.37a2.68,2.68,0,0,0,2.18-.87,4.06,4.06,0,0,0,.73-2.64,1.8,1.8,0,0,0-.6-1.47,2.71,2.71,0,0,0-1.76-.5H142Z" style="fill:#162b75"></path><path d="M150.58,25l3.88-24.54h5.75q5.42,0,7.47,1.43t2,4.87a8.7,8.7,0,0,1-1.3,4.94,6.14,6.14,0,0,1-3.74,2.56l3,10.74h-7.22l-1.54-9.92L157.4,25h-6.82Zm9-13.6h0.37a3,3,0,0,0,2.39-1,4.25,4.25,0,0,0,.84-2.83,2.06,2.06,0,0,0-.54-1.56,2.35,2.35,0,0,0-1.66-.5l-0.23,0-0.26,0Z" style="fill:#162b75"></path><path d="M169,25l3.88-24.54H185l-0.94,6h-5.27l-0.52,3.13H183l-0.89,5.75h-4.77l-0.55,3.38h5.28l-1,6.34H169Z" style="fill:#162b75"></path><path d="M183.94,17.48A9.17,9.17,0,0,0,186.34,19a6.27,6.27,0,0,0,2.41.52,2.28,2.28,0,0,0,1.62-.56,2,2,0,0,0,.6-1.54,3.21,3.21,0,0,0-.5-1.67,12.26,12.26,0,0,0-1.94-2.21,12.15,12.15,0,0,1-2.39-3,6.26,6.26,0,0,1-.65-2.86,7.26,7.26,0,0,1,2.22-5.58,8.46,8.46,0,0,1,6-2.07,12.13,12.13,0,0,1,2.93.34,13.62,13.62,0,0,1,2.83,1.07l-1,6a10.16,10.16,0,0,0-2.15-1.18,5.54,5.54,0,0,0-2-.4,1.93,1.93,0,0,0-1.35.45,1.56,1.56,0,0,0-.49,1.22q0,1,1.89,2.92l0.37,0.37A11.77,11.77,0,0,1,197.27,14a7.54,7.54,0,0,1,.6,3.11,8.1,8.1,0,0,1-2.42,6.2,9.28,9.28,0,0,1-6.61,2.27,13,13,0,0,1-3.39-.43A8.54,8.54,0,0,1,182.77,24Z" style="fill:#162b75"></path><path d="M199.48,17.48A9.17,9.17,0,0,0,201.87,19a6.27,6.27,0,0,0,2.41.52,2.28,2.28,0,0,0,1.62-.56,2,2,0,0,0,.6-1.54,3.21,3.21,0,0,0-.5-1.67,12.26,12.26,0,0,0-1.94-2.21,12.15,12.15,0,0,1-2.39-3A6.26,6.26,0,0,1,201,7.65a7.26,7.26,0,0,1,2.22-5.58,8.46,8.46,0,0,1,6-2.07,12.13,12.13,0,0,1,2.93.34A13.62,13.62,0,0,1,215,1.41l-1,6a10.16,10.16,0,0,0-2.15-1.18,5.54,5.54,0,0,0-2-.4,1.93,1.93,0,0,0-1.35.45A1.56,1.56,0,0,0,208,7.48q0,1,1.89,2.92l0.37,0.37A11.77,11.77,0,0,1,212.81,14a7.54,7.54,0,0,1,.6,3.11,8.1,8.1,0,0,1-2.42,6.2,9.28,9.28,0,0,1-6.61,2.27,13,13,0,0,1-3.39-.43A8.54,8.54,0,0,1,198.31,24Z" style="fill:#162b75"></path></symbol>
+<symbol id="logo-be" viewBox="0 0 36 26"><path d="M0,25.77L4.07,0H10.7q4.81,0,6.92,1.39a5,5,0,0,1,2.11,4.54A6,6,0,0,1,18.35,10a7.35,7.35,0,0,1-4.11,2.17,5.73,5.73,0,0,1,3.12,2,5.51,5.51,0,0,1,1.1,3.46,8,8,0,0,1-.76,3.43,7.47,7.47,0,0,1-2.13,2.71,7.78,7.78,0,0,1-3,1.5A18.3,18.3,0,0,1,8,25.77H0Zm7.92-5.38,0.37,0.05,0.49,0a2.29,2.29,0,0,0,1.92-.85,3.9,3.9,0,0,0,.66-2.44,2.51,2.51,0,0,0-.6-1.83A2.43,2.43,0,0,0,9,14.74H8.75ZM9.5,9.94l0.3,0h0.49a2.58,2.58,0,0,0,1.89-.68,2.46,2.46,0,0,0,.69-1.84A1.92,1.92,0,0,0,12.32,6a2.34,2.34,0,0,0-1.62-.5l-0.25,0-0.23,0Z" style="fill:#162b75"></path><path d="M19.23,25.77L23.3,0H36L35,6.25H29.48L28.94,9.53h5l-0.93,6H28l-0.58,3.55H33l-1.05,6.65H19.23Z" style="fill:#162b75"></path></symbol>
+</svg>
+<!-- Header -->
+<header id="header" class="up">
+            
+        <div id="logo" class="align-center"><a href="https://www.books-express.ro" class="middle logo-full" title="Books Express este o librarie online cu carti din toata lumea"><svg xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Libraria online Books Express"><title>Libraria online Books Express</title><use xlink:href="#logo-books-express"></use></svg></a></div>
+        
+        </header>
+
+
+
+
+
+
+<a href="#top" class="back-to-top"><i class="fa fa-up-circled"></i></a>
+    		<!-- Main --><!---
+                <div id="spinner"></div>-->
+    			<div id="main" class="fade-in container  ">
+                        <div class="dialog-page">
+        <h2>Intră în cont</h2>
+            <div class="box show-no-user">
+    
+        <div class="row">
+            <div class="12u">
+                <div class="row uniform">
+                    <div class="email-step 12u"><label for="username">Email</label><input type="email" id="username" class="small" placeholder="Adresa de email" style=""></div>
+
+                    <div class="email-step 12u align-center"><a href="#" id="email-button" class="button fit danger" style="">Continuă</a>
+                    <div class="strong">Dacă nu ai cont îți vei putea crea unul la pasul următor.</div>
+                                        </div>
+
+                    <div class="login-step 12u align-center hidden">
+                        <span id="show-email"></span>
+                    </div>
+                    <div class="login-step 12u hidden">
+                        <a id="reset-password" class="right" href="#">Resetează parola</a><label for="password">Parola</label><input id="password" type="password" class="small" placeholder="Parola Books Express"><div id="password-message" class="error-message"></div>
+                        <div id="reset-wait" style="margin-top: 1em; display: none;" class="align-center"><i class="fa fa-spin5 animate-spin"></i> Cererea este procesată...</div>
+                        <div id="reset-message" style="margin-top: 1em;" class="align-center strong error-message"></div>
+                        <div id="login-message" style="margin-top: 1em;" class="error-message"></div>
+                    </div>
+
+                    <div class="pasword-reset-notification 12u hidden">
+                        <div id="notification-pw" style="margin-top: 1em;" class="align-center">Userul tău nu are parolă. Ți-am trimis un email cu instrucțiuni de setare a parolei.</div>
+                        <div id="notification-reset" style="margin-top: 1em;" class="align-center strong error-message"></div>
+                    </div>
+
+                    <div id="recaptcha" data-show="" class="12u align-center hidden">
+                        <div class="g-recaptcha" data-sitekey="6LfaMSYTAAAAAOODYNXE7ZXpBRkRwXGGWL4NrZBS"><div style="width: 304px; height: 78px;"><div><iframe src="https://www.google.com/recaptcha/api2/anchor?ar=1&amp;k=6LfaMSYTAAAAAOODYNXE7ZXpBRkRwXGGWL4NrZBS&amp;co=aHR0cHM6Ly93d3cuYm9va3MtZXhwcmVzcy5ybzo0NDM.&amp;hl=en&amp;v=UFwvoDBMjc8LiYc1DKXiAomK&amp;size=normal&amp;cb=oe92hnhnuip1" role="presentation" name="a-w6lw7pqv9gp6" scrolling="no" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-top-navigation allow-modals allow-popups-to-escape-sandbox allow-storage-access-by-user-activation" width="304" height="78" frameborder="0"></iframe></div><textarea id="g-recaptcha-response" name="g-recaptcha-response" class="g-recaptcha-response" style="width: 250px; height: 40px; border: 1px solid rgb(193, 193, 193); margin: 10px 25px; padding: 0px; resize: none; display: none;"></textarea></div><iframe style="display: none;"></iframe></div><div id="captcha-message" class="error-message"></div>
+                    </div>
+
+                    <div class="login-step 12u align-center hidden"><a href="#" id="login-button" class="button fit danger">Intră în cont</a></div>
+                </div>
+            </div>
+            <div class="12u align-center">
+                <hr><br>
+                De asemenea, te poți autentifica cu un cont dintr-o rețea socială.
+                <div style="margin-top: 2em">
+                    
+                    <a href="#" class="button alt small" onclick="window.open('/login/facebook', 'extlogin', 'height=700,width=900,centerscreen,menubar=no,toolbar=no,location=no,personalbar=no,status=no'); return false;" style="width: 9em">
+                    <i class="fa fa-facebook-official"></i>&nbsp;Facebook</a>
+                    <a href="#" class="button alt small" onclick="window.open('/login/google', 'extlogin', 'height=700,width=900,centerscreen,menubar=no,toolbar=no,location=no,personalbar=no,status=no'); return false;" style="width: 9em"><i class="fa fa-gplus-squared"></i>&nbsp;Google</a>
+                    <div style="height: 0.5em"> </div>
+                    <a href="#" class="button alt small" onclick="window.open('/login/linkedin', 'extlogin', 'height=700,width=900,centerscreen,menubar=no,toolbar=no,location=no,personalbar=no,status=no'); return false;" style="width: 9em"><i class="fa fa-linkedin-squared"></i>&nbsp;LinkedIn</a>
+                    <a href="#" class="button alt small" onclick="window.open('/login/yahoo', 'extlogin', 'height=700,width=900,centerscreen,menubar=no,toolbar=no,location=no,personalbar=no,status=no'); return false;" style="width: 9em"><i class="fa fa-yahoo"></i>&nbsp;Yahoo</a>
+                </div>
+            </div>
+        </div>
+        </div>
+        <div class="box show-user hidden">
+            <div class="row">
+            <div class="12u$">
+                Sunteți deja autentificat. Pentru a intra în alt cont mai întâi trebuie să vă <a href="/logout?redirect=/login">delogați</a>.
+            </div>
+            </div>
+        </div>
+    </div>
+
+<script type="text/javascript">
+    window.App = window.App || {};
+    window.App.redirect = 'https://www.books-express.ro/';
+    window.App.isCart = false;
+    var data = []
+</script>    			</div>
+            <!-- Footer -->
+		<div style="clear: both;">&nbsp;</div>
+			<footer id="footer" class="">
+								
+				<ul class="small">
+					<li><a href="/blog/politica-de-confidentialitate-books-express">Politica de confidențialitate</a></li>
+					<li><a href="/blog/termeni-si-conditii">Termeni și condiții</a></li>
+					<li><a href="http://www.anpc.ro/">ANPC</a></li>
+					<li><a href="https://webgate.ec.europa.eu/odr/main/index.cfm?event=main.home.chooseLanguage">Soluționarea litigiilor</a></li>
+					<li><a href="/blog/politica-cookies">Despre cookies</a></li>
+					<li><a href="#" id="cc-prefs">Preferințe cookies</a></li>
+				</ul>
+				
+								<div class="copyright">
+					Toate drepturile rezervate 2004-2020 IST Ultra SRL, CUI 16813298, Reg. Com. J40/15818/2004
+				</div>
+			</footer>        
+    
+
+    <script data-no-min="">
+    function rc(id, name){
+        var el = document.getElementById(id);
+        el.className = el.className.replace(name, '');
+    }
+    function onloadCSS(e,n){function t(){!o&&n&&(o=!0,n.call(e))}var o;e.addEventListener&&e.addEventListener("load",t),e.attachEvent&&e.attachEvent("onload",t),"isApplicationInstalled"in navigator&&"onloadcssdefined"in e&&e.onloadcssdefined(t)}!function(e){"use strict";var n=function(n,t,o){function a(e){return l.body?e():void setTimeout(function(){a(e)})}function d(){r.addEventListener&&r.removeEventListener("load",d),r.media=o||"all"}var i,l=e.document,r=l.createElement("link");if(t)i=t;else{var s=(l.body||l.getElementsByTagName("head")[0]).childNodes;i=s[s.length-1]}var f=l.styleSheets;r.rel="stylesheet",r.href=n,r.media="only x",a(function(){i.parentNode.insertBefore(r,t?i:i.nextSibling)});var c=function(e){for(var n=r.href,t=f.length;t--;)if(f[t].href===n)return e();setTimeout(function(){c(e)})};return r.addEventListener&&r.addEventListener("load",d),r.onloadcssdefined=c,c(d),r};"undefined"!=typeof exports?exports.loadCSS=n:e.loadCSS=n}("undefined"!=typeof global?global:this);
+
+    var addEventsListener=function(o,t,e){var n,i=t.split(" ");for(n in i)o.addEventListener(i[n],e)}
+    !function(){function t(t){this.el=t;for(var n=t.className.replace(/^\s+|\s+$/g,"").split(/\s+/),i=0;i<n.length;i++)e.call(this,n[i])}function n(t,n,i){Object.defineProperty?Object.defineProperty(t,n,{get:i}):t.__defineGetter__(n,i)}if(!("undefined"==typeof window.Element||"classList"in document.documentElement)){var i=Array.prototype,e=i.push,s=i.splice,o=i.join;t.prototype={add:function(t){this.contains(t)||(e.call(this,t),this.el.className=this.toString())},contains:function(t){return-1!=this.el.className.indexOf(t)},item:function(t){return this[t]||null},remove:function(t){if(this.contains(t)){for(var n=0;n<this.length&&this[n]!=t;n++);s.call(this,n,1),this.el.className=this.toString()}},toString:function(){return o.call(this," ")},toggle:function(t){return this.contains(t)?this.remove(t):this.add(t),this.contains(t)}},window.DOMTokenList=t,n(Element.prototype,"classList",function(){return new t(this)})}}();
+
+    var myNav = navigator.userAgent.toLowerCase();
+    var ieVer = (myNav.indexOf('msie') != -1) ? parseInt(myNav.split('msie')[1]) : false;
+    var App = window.App || {};
+    App.is_logged = false;
+    App.imgBase = "i0";
+    function labInit(){
+
+        loadCSS("/css/libs_1490280474.css");
+        var ml = loadCSS("/css/main_1585401655.css");
+        /*
+        onloadCSS( ml, function() {
+            document.getElementById("spinner").className += ' hidden';
+            rc('main', 'ws');
+        });
+        */
+
+        onloadCSS( ml, function() {
+            var elems = document.getElementsByTagName('*'), i;
+            for (i in elems) {
+                if((' ' + elems[i].className + ' ').indexOf(' ws ')> -1) {
+                    elems[i].className = elems[i].className.replace('ws', '');
+                }
+            }
+        });
+
+            $LAB
+    .script(function(){
+        if(ieVer !== false && ieVer <= 8){
+            return '/js/html5shiv.js';
+        }
+    })
+    .script('/js/skel.min.js').wait(function(){
+    skel.breakpoints({
+      xxlarge: '(max-width: 5000px)',
+      xlarge: '(max-width: 1600px)',
+      large: '(max-width: 1280px)',
+      medium: '(max-width: 1024px)',
+      small: '(max-width: 736px)',
+      xsmall: '(max-width: 480px)'
+    });
+    rc('top-logo', 'ws');
+    rc('header', 'ws');
+    rc('submenu', 'ws');
+    })
+    .script(function(){
+        if(ieVer !== false && ieVer < 9){
+            return "/js/jquery-1.11.3.min.js";
+        }else{
+            return "/js/jquery-2.1.4.min.js";
+        }
+    }).wait()
+    .script("/js/libs_1484923518.js").script("/polyglot.i18n.js").script("/js/main_1585304528.js").wait(function(){App.mainInit()}).script("https://www.google.com/recaptcha/api.js").script("/js/login_1518521688.js")}</script>
+<script src="/js/LAB.min.js" async="" onload="labInit();"></script>
+
+ <script>
+    var dataLayer = window.dataLayer || [];
+    dataLayer.push({"int": 0});
+</script>
+ 
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-T2782C"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>
+(function(h,o,t,j,a,r){
+   h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)};
+   h._hjSettings={hjid:1250268,hjsv:6};
+   a=o.getElementsByTagName('head')[0];
+   r=o.createElement('script');r.async=1;
+   r.src=t+h._hjSettings.hjid+j+h._hjSettings.hjsv;
+   a.appendChild(r);
+})(window,document,'https://static.hotjar.com/c/hotjar-','.js?sv=');
+
+(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-T2782C');
+window.fbAsyncInit = function() {
+    FB.init({
+        appId            : '371534652106',
+        autoLogAppEvents : true,
+        xfbml            : true,
+        version          : 'v2.12'
+    });
+};
+</script>
+
+    <div class="fb-customerchat" page_id="120612075177" logged_in_greeting="Vorbește cu fetele de la Books" logged_out_greeting="Vorbește cu fetele de la Books">
+    </div>
+
+
+
+<div role="dialog" aria-live="polite" aria-label="cookieconsent" aria-describedby="cookieconsent:desc" class="cc-banner" style=""><!--googleoff: all--><span id="cookieconsent:desc" class="cc-message">Acest site folosește cookie-uri pentru funcționare, cookie-uri anonimizate pentru analiza traficului și cookie-uri pentru publicitate personalizată.</span><div class="cc-highlight"> <a aria-label="learn more about cookies" tabindex="0" class="cc-link" href="/blog/politica-cookies/" target="_blank">Mai multe informații despre cookie-uri</a><br><a aria-label="dismiss cookie message" href="#" class="cc-refuse">Refuz cookie-uri publicitate personalizată</a></div><a aria-label="accept cookie-uri" role="button" tabindex="0" class="cc-btn cc-accept">Accept cookie-uri</a><!--googleon: all--></div>
+	
+
+<link rel="stylesheet" href="/css/libs_1490280474.css" media="all"><link rel="stylesheet" href="/css/main_1585401655.css" media="all">
+<script type="text/javascript" id="">!function(b,e,f,g,a,c,d){b.fbq||(a=b.fbq=function(){a.callMethod?a.callMethod.apply(a,arguments):a.queue.push(arguments)},b._fbq||(b._fbq=a),a.push=a,a.loaded=!0,a.version="2.0",a.queue=[],c=e.createElement(f),c.async=!0,c.src=g,d=e.getElementsByTagName(f)[0],d.parentNode.insertBefore(c,d))}(window,document,"script","//connect.facebook.net/en_US/fbevents.js");fbq("init","689144244482713");fbq("track","PageView");
+google_tag_manager["GTM-T2782C"].macro(2)&&fbq("track",google_tag_manager["GTM-T2782C"].macro(3),{content_ids:google_tag_manager["GTM-T2782C"].macro(4),value:google_tag_manager["GTM-T2782C"].macro(5),currency:"RON",content_type:"product"});</script>
+<noscript><img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=689144244482713&amp;ev=PageView&amp;noscript=1"></noscript>
+<iframe style="display: none !important; width: 1px !important; height: 1px !important; opacity: 0 !important; pointer-events: none !important;" name="_hjRemoteVarsFrame" title="_hjRemoteVarsFrame" id="_hjRemoteVarsFrame" src="https://vars.hotjar.com/box-469cf41adb11dc78be68c1ae7f9457a4.html"></iframe><div style="background-color: rgb(255, 255, 255); border: 1px solid rgb(204, 204, 204); box-shadow: rgba(0, 0, 0, 0.2) 2px 2px 3px; position: absolute; transition: visibility 0s linear 0.3s, opacity 0.3s linear 0s; opacity: 0; visibility: hidden; z-index: 2000000000; left: 0px; top: -10000px;"><div style="width: 100%; height: 100%; position: fixed; top: 0px; left: 0px; z-index: 2000000000; background-color: rgb(255, 255, 255); opacity: 0.05;"></div><div style="border: 11px solid transparent; width: 0px; height: 0px; position: absolute; pointer-events: none; margin-top: -11px; z-index: 2000000000;" class="g-recaptcha-bubble-arrow"></div><div style="border: 10px solid transparent; width: 0px; height: 0px; position: absolute; pointer-events: none; margin-top: -10px; z-index: 2000000000;" class="g-recaptcha-bubble-arrow"></div><div style="z-index: 2000000000; position: relative;"><iframe title="recaptcha challenge" src="https://www.google.com/recaptcha/api2/bframe?hl=en&amp;v=UFwvoDBMjc8LiYc1DKXiAomK&amp;k=6LfaMSYTAAAAAOODYNXE7ZXpBRkRwXGGWL4NrZBS&amp;cb=97d11820r2q3" style="width: 100%; height: 100%;" name="c-w6lw7pqv9gp6" scrolling="no" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-top-navigation allow-modals allow-popups-to-escape-sandbox allow-storage-access-by-user-activation" frameborder="0"></iframe></div></div></body></html>
