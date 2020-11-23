@@ -1,66 +1,115 @@
 package examProject.steps.serenity;
 
-import examProject.pages.LoginPage;
-import examProject.pages.SearchPage;
+import examProject.pages.*;
 import net.thucydides.core.annotations.Step;
-import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
-import org.openqa.selenium.WebElement;
-
-import java.util.List;
-
 import static org.hamcrest.MatcherAssert.assertThat;
 import static org.hamcrest.Matchers.containsString;
 import static org.hamcrest.Matchers.hasItem;
 
 public class EndUserSteps {
 
+    HeaderAllPages headerAllPages;
     LoginPage loginPage;
-    //SearchPage searchPage;
+    SearchPage searchPage;
+    BookPage bookPage;
+    WishlistPage wishlistPage;
+    CartPage cartPage;
 
     @Step
     public void go_to_home_page() {
 
-        loginPage.open();
+        headerAllPages.open();
     }
 
     @Step
-    public void fill_data_and_login(String email, String password, String book, WebDriver webDriver) {
+    public void add_valid_credentials_and_login(String email, String password) {
 
-        loginPage.click_cont_button();
-        loginPage.click_enterInCont_button();
+        headerAllPages.click_cont_button();
+        headerAllPages.click_enterInCont_button();
+        loginPage.enter_userName(email);
+        loginPage.click_emailButton();
+        loginPage.enter_password(password);
+        loginPage.click_login();
+    }
+
+    @Step
+    public void add_valid_credentials_login_and_then_logout(String email, String password) {
+
+        headerAllPages.click_cont_button();
+        headerAllPages.click_enterInCont_button();
         loginPage.enter_userName(email);
         loginPage.click_emailButton();
         loginPage.enter_password(password);
         loginPage.click_login();
 
-        loginPage.enter_searchInput(book);
-        loginPage.click_searchButton();
-        loginPage.click_searchSpecificBookButton(webDriver);
-        loginPage.searched_book_is_available(webDriver);
-
-        loginPage.click_bookAddedToWishlistButton();
-        loginPage.click_mainPageButton();
-        loginPage.click_listsButton();
-        loginPage.click_wishlistPageButton(webDriver);
-        loginPage.book_is_added_to_wishlist(webDriver);
-
-        loginPage.click_addedBookToCartButton();
-        loginPage.click_cartListButton();
-        loginPage.click_showCartPageButton();
-        loginPage.book_is_added_to_cart(webDriver);
-
-        loginPage.click_cont_button();
-        loginPage.click_logout();
+        headerAllPages.click_cont_button();
+        headerAllPages.click_logout();
     }
 
-//    public void find_book(WebDriver webdriver) {
-//
-//
-//    }
+    @Step
+    public void verify_error_message_for_invalid_password(String errorMessage) {
 
-//    public void search_book(String book) {
-//
-//
-//    }
+        assert(loginPage.error_message_for_invalid_password().endsWith(errorMessage));
+        //assertThat(loginPage.error_message_for_invalid_password(), hasItem(containsString(errorMessage)));
+    }
+
+    @Step
+    public void verify_message(String message) {
+        assertThat(loginPage.get_error_message(), hasItem(containsString(message)));
+    }
+
+    @Step
+    public void fill_invalid_password_login(String email, String password) {
+
+        headerAllPages.click_cont_button();
+        headerAllPages.click_enterInCont_button();
+        loginPage.enter_userName(email);
+        loginPage.click_emailButton();
+        loginPage.enter_password(password);
+        loginPage.click_login();
+    }
+
+    @Step
+    public void verify_searched_book(String bookTitle) {
+
+        assert(searchPage.get_searched_book().endsWith(bookTitle));
+    }
+
+    @Step
+    public void search_book_by_keyword(String book, WebDriver webDriver) {
+
+        headerAllPages.enter_searchInput(book);
+        headerAllPages.click_searchButton();
+        searchPage.click_searchSpecificBookButton(webDriver);
+    }
+
+    @Step
+    public void verify_if_book_is_added_to_wishlist(String bookTitle) {
+
+        assert(wishlistPage.verify_if_book_is_added_to_wishlist().endsWith(bookTitle));
+    }
+
+    @Step
+    public void add_book_to_wishlist() {
+
+        bookPage.click_bookAddedToWishlistButton();
+        headerAllPages.click_mainPageButton();
+        headerAllPages.click_listsButton();
+        headerAllPages.click_wishlistPageButton();
+    }
+
+    @Step
+    public void verify_if_book_is_added_to_cart(String bookTitle) {
+
+        assertThat(bookTitle, cartPage.verify_if_book_is_added_to_cart(bookTitle));
+    }
+
+    @Step
+    public void add_book_to_cart() {
+
+        wishlistPage.click_addedBookToCartButton();
+        headerAllPages.click_cartListButton();
+        headerAllPages.click_showCartPageButton();
+    }
 }
