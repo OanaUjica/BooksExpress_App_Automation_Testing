@@ -29,8 +29,17 @@ public class HeaderAllPages extends PageObject {
     @FindBy(xpath="/html/body/div[6]/ul/li/a")
     private WebElementFacade wishlistPageButton;
 
-    @FindBy(xpath="/html/body/div/ul/li/a[1]")
+    //@FindBy(xpath="/html/body/div/ul/li/a[1]")
+    //@FindBy(css = "a[href=\"/logout\"]")
+    @FindBy(xpath="//*[@id=\"user-data\"]/ul/li[8]/a")
     private WebElementFacade logoutButton;
+
+    //@FindBy(css = "a[href=\"https://www.books-express.ro/login\"]")
+    @FindBy(xpath="//*[@id=\"user-data\"]/ul/li[1]/a")
+    private WebElementFacade intraInContText;
+
+    @FindBy(xpath="//*[@id=\"user-data\"]/ul/li[8]/a")
+    private WebElementFacade logoutText;
 
     @FindBy(id="show-cart")
     private WebElementFacade cartListButton;
@@ -61,6 +70,16 @@ public class HeaderAllPages extends PageObject {
     public void click_logout() {
 
         logoutButton.click();
+    }
+
+    public boolean verify_enterInCont_button_for_logout(String textToVerifyUserIsLogout) {
+
+        return intraInContText.getText().equalsIgnoreCase(textToVerifyUserIsLogout);
+    }
+
+    public boolean verify_logout_button_for_login(String textToVerifyUserIsLoggedIn) {
+
+        return logoutText.getText().equalsIgnoreCase(textToVerifyUserIsLoggedIn);
     }
 
     public void click_mainPageButton() {

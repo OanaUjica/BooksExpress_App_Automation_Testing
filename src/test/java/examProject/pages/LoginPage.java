@@ -1,12 +1,8 @@
 package examProject.pages;
 
-import net.serenitybdd.core.annotations.findby.By;
 import net.serenitybdd.core.pages.WebElementFacade;
 import net.serenitybdd.core.annotations.findby.FindBy;
 import net.thucydides.core.pages.PageObject;
-
-import java.util.List;
-import java.util.stream.Collectors;
 
 public class LoginPage extends PageObject {
 
@@ -40,17 +36,18 @@ public class LoginPage extends PageObject {
         inputPassword.type(password);
     }
 
-    public String error_message_for_invalid_password() {
+    public boolean error_message_for_invalid_password(String errorMessage) {
 
-        return invalidPasswordMessage.getValue();
+        //return invalidPasswordMessage.getValue();
+        return invalidPasswordMessage.getText().equalsIgnoreCase(errorMessage);
     }
 
-    public List<String> get_error_message() {
-        WebElementFacade definitionList = find(By.tagName("div"));
-        return definitionList.findElements(By.id("login-message")).stream()
-                .map( element -> element.getText() )
-                .collect(Collectors.toList());
-    }
+//    public List<String> get_error_message() {
+//        WebElementFacade definitionList = find(By.tagName("div"));
+//        return definitionList.findElements(By.id("login-message")).stream()
+//                .map( element -> element.getText() )
+//                .collect(Collectors.toList());
+//    }
 
     public void click_login() {
 
