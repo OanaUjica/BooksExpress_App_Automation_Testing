@@ -2,10 +2,7 @@ package examProject.steps.serenity;
 
 import examProject.pages.*;
 import net.thucydides.core.annotations.Step;
-import org.openqa.selenium.WebDriver;
 import static org.hamcrest.MatcherAssert.assertThat;
-import static org.hamcrest.Matchers.containsString;
-import static org.hamcrest.Matchers.hasItem;
 
 public class EndUserSteps {
 
@@ -34,7 +31,22 @@ public class EndUserSteps {
     }
 
     @Step
-    public void add_valid_credentials_login_and_then_logout(String email, String password) {
+    public void verify_valid_credentials_login(String email, String password, String textToVerifyUserIsLoggedIn) {
+
+        headerAllPages.click_cont_button();
+        headerAllPages.click_enterInCont_button();
+        loginPage.enter_userName(email);
+        loginPage.click_emailButton();
+        loginPage.enter_password(password);
+        loginPage.click_login();
+
+        headerAllPages.click_cont_button();
+
+        assertThat(textToVerifyUserIsLoggedIn, headerAllPages.verify_logout_button_for_login(textToVerifyUserIsLoggedIn));
+    }
+
+    @Step
+    public void verify_logout(String email, String password, String textToVerifyUserIsLogout) {
 
         headerAllPages.click_cont_button();
         headerAllPages.click_enterInCont_button();
@@ -45,18 +57,17 @@ public class EndUserSteps {
 
         headerAllPages.click_cont_button();
         headerAllPages.click_logout();
+
+        headerAllPages.click_cont_button();
+
+        assertThat(textToVerifyUserIsLogout, headerAllPages.verify_enterInCont_button_for_logout(textToVerifyUserIsLogout));
     }
 
     @Step
     public void verify_error_message_for_invalid_password(String errorMessage) {
 
-        assert(loginPage.error_message_for_invalid_password().endsWith(errorMessage));
+        assertThat(errorMessage, loginPage.error_message_for_invalid_password(errorMessage));
         //assertThat(loginPage.error_message_for_invalid_password(), hasItem(containsString(errorMessage)));
-    }
-
-    @Step
-    public void verify_message(String message) {
-        assertThat(loginPage.get_error_message(), hasItem(containsString(message)));
     }
 
     @Step
@@ -71,23 +82,17 @@ public class EndUserSteps {
     }
 
     @Step
-    public void verify_searched_book(String bookTitle) {
-
-        assert(searchPage.get_searched_book().endsWith(bookTitle));
-    }
-
-    @Step
-    public void search_book_by_keyword(String book, WebDriver webDriver) {
+    public void search_book_by_keyword(String book) {
 
         headerAllPages.enter_searchInput(book);
         headerAllPages.click_searchButton();
-        searchPage.click_searchSpecificBookButton(webDriver);
+        searchPage.click_searchSpecificBookButton();
     }
 
     @Step
-    public void verify_if_book_is_added_to_wishlist(String bookTitle) {
+    public void verify_searched_book(String bookTitle) {
 
-        assert(wishlistPage.verify_if_book_is_added_to_wishlist().endsWith(bookTitle));
+        assertThat(bookTitle, searchPage.verify_searched_book(bookTitle));
     }
 
     @Step
@@ -100,9 +105,9 @@ public class EndUserSteps {
     }
 
     @Step
-    public void verify_if_book_is_added_to_cart(String bookTitle) {
+    public void verify_if_book_is_added_to_wishlist(String bookTitle) {
 
-        assertThat(bookTitle, cartPage.verify_if_book_is_added_to_cart(bookTitle));
+        assertThat(bookTitle, wishlistPage.verify_if_book_is_added_to_wishlist(bookTitle));
     }
 
     @Step
@@ -111,5 +116,11 @@ public class EndUserSteps {
         wishlistPage.click_addedBookToCartButton();
         headerAllPages.click_cartListButton();
         headerAllPages.click_showCartPageButton();
+    }
+
+    @Step
+    public void verify_if_book_is_added_to_cart(String bookTitle) {
+
+        assertThat(bookTitle, cartPage.verify_if_book_is_added_to_cart(bookTitle));
     }
 }

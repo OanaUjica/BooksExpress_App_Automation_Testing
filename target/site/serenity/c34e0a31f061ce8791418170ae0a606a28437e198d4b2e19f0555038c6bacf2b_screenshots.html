@@ -138,7 +138,7 @@
             <a href="7ea0a5e2d679b9deeda9910ae4a9bcd3a281e0d908303a9e16e486103e98880c.html"><i class="fa fa-comments-o"></i> Capabilities</a>
         </li>
     </ul>
-    <span class="date-and-time"><a href="build-info.html"><i class="fa fa-info-circle"></i></a> Report generated 21-11-2020 19:05</span>
+    <span class="date-and-time"><a href="build-info.html"><i class="fa fa-info-circle"></i></a> Report generated 06-02-2021 18:15</span>
     <br style="clear:left"/>
 </div>
 
@@ -176,7 +176,7 @@
                             <span class="outcome-icon"><a href='##beforetable'><i class='fa fa-exclamation-triangle error-icon fa-2x' title='ERROR'></i></a></span>
                             <span class="test-case-title">
                                 <span class="error-color">Search for a book added book to wishlist and cart
-                                    <span class="related-issue-title"></span>
+                                    <span class="related-issue-title">(search book)</span>
                                 </span>
                             </span>
 
@@ -198,7 +198,7 @@
         <div class="table">
             <div class="row">
                 <div class="col-sm-10" style="padding-left:1.5em; padding-top:0.5em; padding-bottom:0.5em;">
-                    <span class="error-message error-message-title">No such element exception: Timed out after 2 seconds. Element not found</span>
+                    <span class="error-message error-message-title">Element not visible exception: Timed out after 2 seconds. Element not available</span>
                 </div>
                 <div class="col-sm-2">
                     <a class="btn btn-warning details-button" data-toggle="collapse" href="#stacktraceModal-overall""
@@ -214,11 +214,11 @@
         <div class="collapse multi-collapse" id="stacktraceModal-overall">
             <div class="card">
                 <div class="card-header">
-                    <h4>org.openqa.selenium.NoSuchElementException </h4>
+                    <h4>org.openqa.selenium.ElementNotVisibleException </h4>
                 </div>
                 <div class="card-body">
                     <div>
-                        <pre>examProject.pages.SearchPage.get_searched_book(SearchPage.java:28)<br />examProject.steps.serenity.EndUserSteps.verify_searched_book(EndUserSteps.java:75)<br />examProject.features.search.BooksExpressStory.search_for_a_book_added_book_to_wishlist_and_cart(BooksExpressStory.java:60)<br /></pre>
+                        <pre>examProject.pages.HeaderAllPages.click_showCartPageButton(HeaderAllPages.java:99)<br />examProject.steps.serenity.EndUserSteps.add_book_to_cart(EndUserSteps.java:117)<br />examProject.features.search.BooksExpressStory.search_for_a_book_added_book_to_wishlist_and_cart(BooksExpressStory.java:76)<br /></pre>
                     </div>
 
                 </div>
@@ -228,15 +228,18 @@
 
 
                 <div class="panel-body">
-                    <a href="pagesource13604160394780111115.html.txt" target="_blank" class="btn btn-info">HTML Source</a>
+                    <a href="pagesource2093284487804059454.html.txt" target="_blank" class="btn btn-info">HTML Source</a>
                 </div>
             </div>
         <div class="slider-wrapper theme-default">
             <div id="slider">
-                <img src="b06ccc73f351f8022e1fa6e92483f2cb87f03bbf5baf7d9663c86aa5d2098889.png" title=" Go to home page" width="1284"/>
-                <img src="97608f185a9b42417e8d6fb1cb79300c471f094ee59f381a651cb5f0b6d598b5.png" title=" Add valid credentials and login: oana.m.ujica@gmail.com, 2lBrj&amp;icnl!" width="1284"/>
-                <img src="05a1bf60656635b0f8addd6dcc242f32faddbd5f5feb1d1f661e6e52284e38f3.png" title=" Search book by keyword: JavaScript &ndash; The Definitive Guide, 7e, FirefoxDriver: firefox on WINDOWS (e8c4b832-4fe8-4137-a294-3320b30a7476)" width="1284"/>
-                <img src="b225f3d50c4eed45db55a54a4548220d195edc6749c4df2f158b7cd90949f6aa.png" title=" Verify searched book: JavaScript &ndash; The Definitive Guide, 7e: <span class='error-color'>ERROR</span>" width="1284"/>
+                <img src="3a97b19da1cc311e4145a4495480fbe7b92e4f8b693d87bd18131d4d3a04e2c4.png" title=" Go to home page" width="1284"/>
+                <img src="89a11f6a71898bb12eaab7078efa9aed4fdffb5997f81c9f683ab4e7cae64625.png" title=" Add valid credentials and login: oana.m.ujica@gmail.com, 2lBrj&amp;icnl!" width="1284"/>
+                <img src="a2ee407455699e36e4b990dfbaf576848c67c89d49a081495658d0f62eac01e9.png" title=" Search book by keyword: JavaScript &ndash; The Definitive Guide, 7e" width="1284"/>
+                <img src="16ee552b6ba3a267c40ee7979f1ef164202f085a0e519e64bdec0e60201fe0cd.png" title=" Verify searched book: JavaScript &ndash; The Definitive Guide, 7e" width="1284"/>
+                <img src="58c18f106d63b1ec4e8329ca50b2c7079804e4c71a20200beffe06c3e48d39b4.png" title=" Add book to wishlist" width="1284"/>
+                <img src="58c18f106d63b1ec4e8329ca50b2c7079804e4c71a20200beffe06c3e48d39b4.png" title=" Verify if book is added to wishlist: 1. JavaScript &ndash; The Definitive Guide, 7e" width="1284"/>
+                <img src="2d9986db52d73fd2ce5c29ae69f8eff08fc9027a4401cd98b9a344e3c9b1e161.png" title=" Add book to cart: <span class='error-color'>ERROR</span>" width="1284"/>
             </div>
         </div>
 

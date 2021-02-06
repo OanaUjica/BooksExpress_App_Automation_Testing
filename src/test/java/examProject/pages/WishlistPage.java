@@ -17,8 +17,9 @@ public class WishlistPage extends PageObject {
         addInCartButton.click();
     }
 
-    public String verify_if_book_is_added_to_wishlist() {
+    public boolean verify_if_book_is_added_to_wishlist(String bookTitle) {
 
-        return bookAddedToWishlist.getValue();
+        //return bookAddedToWishlist.getValue();
+        return bookAddedToWishlist.getText().equalsIgnoreCase(bookTitle);
     }
 }
