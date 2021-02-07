@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="1" failures="0" name="examProject.features.search.CSVData" skipped="0" tests="1" time="9.86" timestamp="2021-02-06 08:25:09"><testcase classname="examProject.features.search.CSVData" name="Search book"><error message="Keys to send should be a not null CharSequence" type="java.lang.IllegalArgumentException">Keys to send should be a not null CharSequence</error><system-err>Keys to send should be a not null CharSequence&#13;
+examProject.pages.LoginPage.enter_userName(LoginPage.java:26)&#13;
+examProject.steps.serenity.EndUserSteps.add_credentials_and_login(EndUserSteps.java:29)&#13;
+examProject.features.search.CSVData.search_book(CSVData.java:30)&#13;
+</system-err></testcase></testsuite>

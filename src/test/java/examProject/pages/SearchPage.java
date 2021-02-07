@@ -17,20 +17,16 @@ public class SearchPage extends PageObject {
     @FindBy(xpath="//*[@id=\"book-main\"]/h1/span")
     private WebElementFacade searchSpecificBookTitle;
 
-    public void click_searchSpecificBookButton() {
+    public void click_searchSpecificBookButton(WebDriver webDriver) {
 
-//        FluentWait<WebDriver> wait = new FluentWait<>(webDriver)
-//                .withTimeout(Duration.ofSeconds(30));
-//        wait.until(ExpectedConditions.visibilityOfElementLocated(By.linkText("JavaScript – The Definitive Guide, 7e")));
+        FluentWait<WebDriver> wait = new FluentWait<>(webDriver)
+                .withTimeout(Duration.ofSeconds(30));
+        wait.until(ExpectedConditions.visibilityOfElementLocated(By.linkText("JavaScript – The Definitive Guide, 7e")));
 
         searchSpecificBookAnchor.click();
     }
 
     public boolean verify_searched_book(String bookTitle) {
-
-//        FluentWait<WebDriver> wait = new FluentWait<>(webDriver)
-//                .withTimeout(Duration.ofSeconds(30));
-//        wait.until(ExpectedConditions.visibilityOfElementLocated(By.linkText(bookTitle)));
 
         return searchSpecificBookTitle.getText().equalsIgnoreCase(bookTitle);
     }

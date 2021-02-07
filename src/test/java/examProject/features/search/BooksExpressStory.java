@@ -43,38 +43,25 @@ public class BooksExpressStory {
         steps.verify_logout(System.getProperty("username"),  System.getProperty("password"), "Intră în cont");
     }
 
-    @Issue("search for a book")
+    @Issue("add book to wishlist")
     @Test
-    public void search_book() {
+    public void add_book_to_wishlist() {
 
         steps.go_to_home_page();
-        steps.add_valid_credentials_and_login("oana.m.ujica@gmail.com", "2lBrj&icnl!");
-//        steps.search_book_by_keyword("JavaScript – The Definitive Guide, 7e", webDriver);
-        steps.search_book_by_keyword("JavaScript – The Definitive Guide, 7e");
-        steps.verify_searched_book("JavaScript – The Definitive Guide, 7e");
-    }
-//
-//    @Test
-//    public void added_book_to_wishlist() {
-//
-//        steps.go_to_home_page();
-//        steps.add_valid_credentials_and_login("oana.m.ujica@gmail.com", "2lBrj&icnl!");
-//        steps.search_book("JavaScript", webDriver);
-//        steps.add_book_to_wishlist(webDriver);
-//            steps.verify_if_book_is_added_to_wishlist("JavaScript – The Definitive Guide, 7e");
-//    }
-
-    @Issue("search book")
-    @Test
-    public void search_for_a_book_added_book_to_wishlist_and_cart() {
-
-        steps.go_to_home_page();
-        steps.add_valid_credentials_and_login("oana.m.ujica@gmail.com", "2lBrj&icnl!");
-//        steps.search_book_by_keyword("JavaScript – The Definitive Guide, 7e", webDriver);
-        steps.search_book_by_keyword("JavaScript – The Definitive Guide, 7e");
-        steps.verify_searched_book("JavaScript – The Definitive Guide, 7e");
+        steps.add_credentials_and_login(System.getProperty("username"),  System.getProperty("password"));
+        steps.search_book_by_keyword("JavaScript – The Definitive Guide, 7e", webDriver);
         steps.add_book_to_wishlist();
         steps.verify_if_book_is_added_to_wishlist("1. JavaScript – The Definitive Guide, 7e");
+    }
+
+    @Issue("add book to cart")
+    @Test
+    public void add_book_to_cart() {
+
+        steps.go_to_home_page();
+        steps.add_credentials_and_login(System.getProperty("username"),  System.getProperty("password"));
+        steps.search_book_by_keyword("JavaScript – The Definitive Guide, 7e", webDriver);
+        steps.add_book_to_wishlist();
         steps.add_book_to_cart();
         steps.verify_if_book_is_added_to_cart("JavaScript – The Definitive Guide, 7e");
     }
