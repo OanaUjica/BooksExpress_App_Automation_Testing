@@ -104,7 +104,7 @@
             $("#requirements-tabs").tabs();
             $("#test-tabs").tabs();
 
-            var requirementsTree = [{"text":"Search","type":"feature","href":"b73ab2df35cd94b5317e6d6bfdb3d2310ff26862ef2f19989342051d05f64b83.html","nodes":[{"text":"Books express story","type":"story","href":"5b5c8e6adb70691dafc8b87725829a687bed08dbf70aeb9668d65c7faee33071.html","nodes":[],"selectable":false,"tags":["\u003ca href\u003d\u0027##beforetable\u0027\u003e\u003ci class\u003d\u0027fa fa-exclamation-triangle error-icon \u0027 title\u003d\u0027ERROR\u0027\u003e\u003c/i\u003e\u003c/a\u003e","\u003cspan class\u003d\u0027feature-count\u0027\u003e9 scenarios\u003c/span\u003e"]}],"selectable":false,"tags":["","\u003cspan class\u003d\u0027feature-count\u0027\u003e1 story\u003c/span\u003e"]}];
+            var requirementsTree = [{"text":"Search","type":"feature","href":"b73ab2df35cd94b5317e6d6bfdb3d2310ff26862ef2f19989342051d05f64b83.html","nodes":[{"text":"Book express story CSV data","type":"story","href":"ff9ed3c7a06b0f92fca29fba53413202812691147536b3fb489240af292dab61.html","nodes":[],"selectable":false,"tags":["\u003ca href\u003d\u0027##beforetable\u0027\u003e\u003ci class\u003d\u0027fa fa-check-circle-o success-icon \u0027 title\u003d\u0027SUCCESS\u0027\u003e\u003c/i\u003e\u003c/a\u003e","\u003cspan class\u003d\u0027feature-count\u0027\u003e1 scenario\u003c/span\u003e"]},{"text":"Books express story","type":"story","href":"5b5c8e6adb70691dafc8b87725829a687bed08dbf70aeb9668d65c7faee33071.html","nodes":[],"selectable":false,"tags":["\u003ca href\u003d\u0027##beforetable\u0027\u003e\u003ci class\u003d\u0027fa fa-exclamation-triangle error-icon \u0027 title\u003d\u0027ERROR\u0027\u003e\u003c/i\u003e\u003c/a\u003e","\u003cspan class\u003d\u0027feature-count\u0027\u003e13 scenarios\u003c/span\u003e"]}],"selectable":false,"tags":["","\u003cspan class\u003d\u0027feature-count\u0027\u003e2 stories\u003c/span\u003e"]}];
 
             $('#tree').treeview({
                 data: requirementsTree,
@@ -252,10 +252,10 @@ I want to be able to login, search for the book, add it to wishlist and cart and
                                             </div>
                                             <script>
 
-                                                var labels = ['75%', ' ', '8%', ' ', ' ', ' ', ' ', ' ', '8%', ' ', '8%', ' ', ' ', ' '];
+                                                var labels = ['67%', ' ', '6%', ' ', ' ', ' ', ' ', ' ', '6%', ' ', '22%', ' ', ' ', ' '];
                                                 // Our series array that contains series objects or in this case series data arrays
 
-                                                var series = [{meta: 'Passing tests (automated)', value: 9}, {meta: 'Passing tests (manual)', value: 0}, {meta: 'Pending tests (automated)', value: 1}, {meta: 'Pending tests (manual)', value: 0}, {meta: 'Ignored tests (automated)', value: 0}, {meta: 'Ignored tests (manual)', value: 0}, {meta: 'Skipped tests (automated)', value: 0}, {meta: 'Skipped tests (manual)', value: 0}, {meta: 'Failing tests (automated)', value: 1}, {meta: 'Failing tests (manual)', value: 0}, {meta: 'Broken tests (automated)', value: 1}, {meta: 'Broken tests (manual)', value: 0}, {meta: 'Compromised tests (automated)', value: 0}, {meta: 'Compromised tests (manual)', value: 0}];
+                                                var series = [{meta: 'Passing tests (automated)', value: 12}, {meta: 'Passing tests (manual)', value: 0}, {meta: 'Pending tests (automated)', value: 1}, {meta: 'Pending tests (manual)', value: 0}, {meta: 'Ignored tests (automated)', value: 0}, {meta: 'Ignored tests (manual)', value: 0}, {meta: 'Skipped tests (automated)', value: 0}, {meta: 'Skipped tests (manual)', value: 0}, {meta: 'Failing tests (automated)', value: 1}, {meta: 'Failing tests (manual)', value: 0}, {meta: 'Broken tests (automated)', value: 4}, {meta: 'Broken tests (manual)', value: 0}, {meta: 'Compromised tests (automated)', value: 0}, {meta: 'Compromised tests (manual)', value: 0}];
 
                                                 // As options we currently only set a static size of 300x200 px. We can also omit this and use aspect ratio containers
                                                 // as you saw in the previous example
@@ -296,8 +296,8 @@ I want to be able to login, search for the book, add it to wishlist and cart and
                                                                         <a href="a98f94fe103347f42440a3c88ae275d47d6c25ecade2f23222cfcd7b009d5017.html"><i
                                                                                 class='fa fa-check-circle-o success-icon'></i>&nbsp;Passing</a>
                                                                     </td>
-                                                <td class="automated-stats">9</td>
-                                                <td class="automated-stats">75%</td>
+                                                <td class="automated-stats">12</td>
+                                                <td class="automated-stats">67%</td>
                                             </tr>
                                             <tr>
                                                                     <td class="aggregate-result-count">
@@ -305,7 +305,7 @@ I want to be able to login, search for the book, add it to wishlist and cart and
                                                                                 class='fa fa-stop-circle-o pending-icon'></i>&nbsp;Pending</a>
                                                                     </td>
                                                 <td class="automated-stats">1</td>
-                                                <td class="automated-stats">8%</td>
+                                                <td class="automated-stats">6%</td>
                                             </tr>
                                             <tr>
                                                                 <td class="aggregate-result-count"><i
@@ -334,14 +334,14 @@ I want to be able to login, search for the book, add it to wishlist and cart and
                                                                                 class='fa fa-times-circle failure-icon'></i>&nbsp;Failed</a>
                                                                     </td>
                                                 <td class="automated-stats">1</td>
-                                                <td class="automated-stats">8%</td>
+                                                <td class="automated-stats">6%</td>
                                             <tr>
                                                                     <td class="aggregate-result-count indented-error-category">
                                                                         <a href="495809af5bfc9f598c1ecc22d83dbf4b429a0285c52cf23d310963e576bcaac5.html"><i
                                                                                 class='fa fa-exclamation-triangle error-icon'></i>&nbsp;Broken</a>
                                                                     </td>
-                                                <td class="automated-stats">1</td>
-                                                <td class="automated-stats">8%</td>
+                                                <td class="automated-stats">4</td>
+                                                <td class="automated-stats">22%</td>
                                             <tr>
                                                                 <td class="aggregate-result-count indented-error-category">
                                                                     <i
@@ -352,7 +352,7 @@ I want to be able to login, search for the book, add it to wishlist and cart and
                                             </tr>
                                             <tr class="summary-stats">
                                                 <td class="aggregate-result-count">Total</td>
-                                                <td class="automated-stats">12</td>
+                                                <td class="automated-stats">18</td>
                                                 <td class="automated-stats"></td>
                                             </tr>
                                             </tbody>
@@ -374,10 +374,10 @@ I want to be able to login, search for the book, add it to wishlist and cart and
                                                     </thead>
                                                     <tbody>
                                                     <tr>
-                                                        <td> 2m 4s</td>
-                                                        <td>3d  21h  58m 0s</td>
-                                                        <td>436ms</td>
-                                                        <td>24s</td>
+                                                        <td> 3m 12s</td>
+                                                        <td>81d  22h  40m 39s</td>
+                                                        <td>0ms</td>
+                                                        <td>25s</td>
                                                         <td>10s</td>
                                                     </tr>
                                                     </tbody>
@@ -412,12 +412,138 @@ I want to be able to login, search for the book, add it to wishlist and cart and
 
 
             <td> 
+                <a href="ff9ed3c7a06b0f92fca29fba53413202812691147536b3fb489240af292dab61.html">Book express story CSV data</a></span>
+            </td>
+            <td> 
+                
+            </td>
+            <td>1</td>
+            <td>0</td>
+            <td>
+                <span class="status_icon"><a href='##beforetable'><i class='fa fa-check-circle-o success-icon ' title='SUCCESS'></i></a></span>
+                <span style="display:none">1</span>
+            </td>
+
+            <td width="165px" style="padding:0px;">
+
+
+<table>
+    <tr>
+        <td width="40px" style="padding-top:4px;">
+            <div class="small" style="text-align:right;">100%</div>
+        </td>
+        <td style="min-width:12.5em;">
+            <div class="progress">
+                <div class="progress-bar" role="progressbar"
+                     style="width: 100%; background-color:#30cb23;"
+                     aria-valuenow="1"
+                     aria-valuemin="0"
+                     aria-valuemax="1"
+                     title="  - Total tests: 1
+  - Passing tests: 1 (100%)
+  - Failing tests: 0 (0%)
+  - Tests with errors: 0 (0%)
+  - Compromised tests 0 (0%)
+  - Pending tests: 0 (0%)
+  - Ignored or skipped tests: 0 (0%)">
+                </div>
+                <div class="progress-bar" role="progressbar"
+                     style="width: 0%; background-color:#A2C4EC;"
+                     aria-valuenow="0"
+                     aria-valuemin="0"
+                     aria-valuemax="1"
+                     title="  - Total tests: 1
+  - Passing tests: 1 (100%)
+  - Failing tests: 0 (0%)
+  - Tests with errors: 0 (0%)
+  - Compromised tests 0 (0%)
+  - Pending tests: 0 (0%)
+  - Ignored or skipped tests: 0 (0%)">
+                </div>
+                <div class="progress-bar" role="progressbar"
+                     style="width: 0%; background-color:darkgrey;"
+                     aria-valuenow="0"
+                     aria-valuemin="0"
+                     aria-valuemax="1"
+                     title="  - Total tests: 1
+  - Passing tests: 1 (100%)
+  - Failing tests: 0 (0%)
+  - Tests with errors: 0 (0%)
+  - Compromised tests 0 (0%)
+  - Pending tests: 0 (0%)
+  - Ignored or skipped tests: 0 (0%)">
+                </div>
+                <div class="progress-bar" role="progressbar"
+                     style="width: 0%; background-color:#EEE098;"
+                     aria-valuenow="0"
+                     aria-valuemin="0"
+                     aria-valuemax="1"
+                     title="  - Total tests: 1
+  - Passing tests: 1 (100%)
+  - Failing tests: 0 (0%)
+  - Tests with errors: 0 (0%)
+  - Compromised tests 0 (0%)
+  - Pending tests: 0 (0%)
+  - Ignored or skipped tests: 0 (0%)">
+                </div>
+                <div class="progress-bar" role="progressbar"
+                     style="width: 0%; background-color:#f8001f;"
+                     aria-valuenow="0"
+                     aria-valuemin="0"
+                     aria-valuemax="1"
+                     title="  - Total tests: 1
+  - Passing tests: 1 (100%)
+  - Failing tests: 0 (0%)
+  - Tests with errors: 0 (0%)
+  - Compromised tests 0 (0%)
+  - Pending tests: 0 (0%)
+  - Ignored or skipped tests: 0 (0%)">
+                </div>
+                <div class="progress-bar" role="progressbar"
+                     style="width: 0%; background-color:darkorange;"
+                     aria-valuenow="0"
+                     aria-valuemin="0"
+                     aria-valuemax="1"
+                     title="  - Total tests: 1
+  - Passing tests: 1 (100%)
+  - Failing tests: 0 (0%)
+  - Tests with errors: 0 (0%)
+  - Compromised tests 0 (0%)
+  - Pending tests: 0 (0%)
+  - Ignored or skipped tests: 0 (0%)">
+                </div>
+                <div class="progress-bar" role="progressbar"
+                     style="width: 0%; background-color:fuchsia;"
+                     aria-valuenow="0"
+                     aria-valuemin="0"
+                     aria-valuemax="1"
+                     title="  - Total tests: 1
+  - Passing tests: 1 (100%)
+  - Failing tests: 0 (0%)
+  - Tests with errors: 0 (0%)
+  - Compromised tests 0 (0%)
+  - Pending tests: 0 (0%)
+  - Ignored or skipped tests: 0 (0%)">
+                </div>
+            </div>
+        </td>
+    </tr>
+</table>
+            </td>
+
+        </tr>
+
+
+        <tr>
+
+
+            <td> 
                 <a href="5b5c8e6adb70691dafc8b87725829a687bed08dbf70aeb9668d65c7faee33071.html">Books express story</a></span>
             </td>
             <td> 
                 
             </td>
-            <td>9</td>
+            <td>13</td>
             <td>0</td>
             <td>
                 <span class="status_icon"><a href='##beforetable'><i class='fa fa-exclamation-triangle error-icon ' title='ERROR'></i></a></span>
@@ -430,19 +556,19 @@ I want to be able to login, search for the book, add it to wishlist and cart and
 <table>
     <tr>
         <td width="40px" style="padding-top:4px;">
-            <div class="small" style="text-align:right;">77.8%</div>
+            <div class="small" style="text-align:right;">69.2%</div>
         </td>
         <td style="min-width:12.5em;">
             <div class="progress">
                 <div class="progress-bar" role="progressbar"
-                     style="width: 77.777778%; background-color:#30cb23;"
-                     aria-valuenow="7"
+                     style="width: 69.230769%; background-color:#30cb23;"
+                     aria-valuenow="9"
                      aria-valuemin="0"
-                     aria-valuemax="9"
-                     title="  - Total tests: 9
-  - Passing tests: 7 (77.8%)
-  - Failing tests: 1 (11.1%)
-  - Tests with errors: 1 (11.1%)
+                     aria-valuemax="13"
+                     title="  - Total tests: 13
+  - Passing tests: 9 (69.2%)
+  - Failing tests: 1 (7.7%)
+  - Tests with errors: 3 (23.1%)
   - Compromised tests 0 (0%)
   - Pending tests: 0 (0%)
   - Ignored or skipped tests: 0 (0%)">
@@ -451,11 +577,11 @@ I want to be able to login, search for the book, add it to wishlist and cart and
                      style="width: 0%; background-color:#A2C4EC;"
                      aria-valuenow="0"
                      aria-valuemin="0"
-                     aria-valuemax="9"
-                     title="  - Total tests: 9
-  - Passing tests: 7 (77.8%)
-  - Failing tests: 1 (11.1%)
-  - Tests with errors: 1 (11.1%)
+                     aria-valuemax="13"
+                     title="  - Total tests: 13
+  - Passing tests: 9 (69.2%)
+  - Failing tests: 1 (7.7%)
+  - Tests with errors: 3 (23.1%)
   - Compromised tests 0 (0%)
   - Pending tests: 0 (0%)
   - Ignored or skipped tests: 0 (0%)">
@@ -464,11 +590,11 @@ I want to be able to login, search for the book, add it to wishlist and cart and
                      style="width: 0%; background-color:darkgrey;"
                      aria-valuenow="0"
                      aria-valuemin="0"
-                     aria-valuemax="9"
-                     title="  - Total tests: 9
-  - Passing tests: 7 (77.8%)
-  - Failing tests: 1 (11.1%)
-  - Tests with errors: 1 (11.1%)
+                     aria-valuemax="13"
+                     title="  - Total tests: 13
+  - Passing tests: 9 (69.2%)
+  - Failing tests: 1 (7.7%)
+  - Tests with errors: 3 (23.1%)
   - Compromised tests 0 (0%)
   - Pending tests: 0 (0%)
   - Ignored or skipped tests: 0 (0%)">
@@ -477,37 +603,37 @@ I want to be able to login, search for the book, add it to wishlist and cart and
                      style="width: 0%; background-color:#EEE098;"
                      aria-valuenow="0"
                      aria-valuemin="0"
-                     aria-valuemax="9"
-                     title="  - Total tests: 9
-  - Passing tests: 7 (77.8%)
-  - Failing tests: 1 (11.1%)
-  - Tests with errors: 1 (11.1%)
+                     aria-valuemax="13"
+                     title="  - Total tests: 13
+  - Passing tests: 9 (69.2%)
+  - Failing tests: 1 (7.7%)
+  - Tests with errors: 3 (23.1%)
   - Compromised tests 0 (0%)
   - Pending tests: 0 (0%)
   - Ignored or skipped tests: 0 (0%)">
                 </div>
                 <div class="progress-bar" role="progressbar"
-                     style="width: 11.111111%; background-color:#f8001f;"
+                     style="width: 7.692308%; background-color:#f8001f;"
                      aria-valuenow="1"
                      aria-valuemin="0"
-                     aria-valuemax="9"
-                     title="  - Total tests: 9
-  - Passing tests: 7 (77.8%)
-  - Failing tests: 1 (11.1%)
-  - Tests with errors: 1 (11.1%)
+                     aria-valuemax="13"
+                     title="  - Total tests: 13
+  - Passing tests: 9 (69.2%)
+  - Failing tests: 1 (7.7%)
+  - Tests with errors: 3 (23.1%)
   - Compromised tests 0 (0%)
   - Pending tests: 0 (0%)
   - Ignored or skipped tests: 0 (0%)">
                 </div>
                 <div class="progress-bar" role="progressbar"
-                     style="width: 11.111111%; background-color:darkorange;"
-                     aria-valuenow="1"
+                     style="width: 23.076923%; background-color:darkorange;"
+                     aria-valuenow="3"
                      aria-valuemin="0"
-                     aria-valuemax="9"
-                     title="  - Total tests: 9
-  - Passing tests: 7 (77.8%)
-  - Failing tests: 1 (11.1%)
-  - Tests with errors: 1 (11.1%)
+                     aria-valuemax="13"
+                     title="  - Total tests: 13
+  - Passing tests: 9 (69.2%)
+  - Failing tests: 1 (7.7%)
+  - Tests with errors: 3 (23.1%)
   - Compromised tests 0 (0%)
   - Pending tests: 0 (0%)
   - Ignored or skipped tests: 0 (0%)">
@@ -516,11 +642,11 @@ I want to be able to login, search for the book, add it to wishlist and cart and
                      style="width: 0%; background-color:fuchsia;"
                      aria-valuenow="0"
                      aria-valuemin="0"
-                     aria-valuemax="9"
-                     title="  - Total tests: 9
-  - Passing tests: 7 (77.8%)
-  - Failing tests: 1 (11.1%)
-  - Tests with errors: 1 (11.1%)
+                     aria-valuemax="13"
+                     title="  - Total tests: 13
+  - Passing tests: 9 (69.2%)
+  - Failing tests: 1 (7.7%)
+  - Tests with errors: 3 (23.1%)
   - Compromised tests 0 (0%)
   - Pending tests: 0 (0%)
   - Ignored or skipped tests: 0 (0%)">
@@ -651,21 +777,6 @@ I want to be able to login, search for the book, add it to wishlist and cart and
                                                             <a href="5b5c8e6adb70691dafc8b87725829a687bed08dbf70aeb9668d65c7faee33071.html">Books express story</a>
                                                     </td>
                                                     <td>
-                                                            <a href="9ef3037839ae3bd612de7d88386486b4204ae1bdfca4a788a1f076aecce1fc2c.html">Search book</a>
-                                                    </td>
-                                                    <td>3</td>
-                                                    <td>15:04:25</td>
-                                                    <td>00:08</td>
-                                                    <td>
-                                                            <a href='##beforetable'><i class='fa fa-check-circle-o success-icon ' title='SUCCESS'></i></a> <span
-                                                                style="display:none">SUCCESS</span>
-                                                    </td>
-                                                </tr>
-                                                <tr class="scenario-result SUCCESS">
-                                                    <td>
-                                                            <a href="5b5c8e6adb70691dafc8b87725829a687bed08dbf70aeb9668d65c7faee33071.html">Books express story</a>
-                                                    </td>
-                                                    <td>
                                                             <a href="87c1822b462784a250f457610f9078ef2b794ebbb14acbee1eacfe7d2c55f485.html">Added book to cart</a>
                                                     </td>
                                                     <td>5</td>
@@ -676,6 +787,36 @@ I want to be able to login, search for the book, add it to wishlist and cart and
                                                                 style="display:none">SUCCESS</span>
                                                     </td>
                                                 </tr>
+                                                <tr class="scenario-result ERROR">
+                                                    <td>
+                                                            <a href="5b5c8e6adb70691dafc8b87725829a687bed08dbf70aeb9668d65c7faee33071.html">Books express story</a>
+                                                    </td>
+                                                    <td>
+                                                            <a href="97f96d73324a24f776244f55c562028e95d9456be79b6cd97ae99f746c969ef2.html">Initialisation</a>
+                                                    </td>
+                                                    <td>0</td>
+                                                    <td>23:47:08</td>
+                                                    <td> </td>
+                                                    <td>
+                                                            <a href='##beforetable'><i class='fa fa-exclamation-triangle error-icon ' title='ERROR'></i></a> <span
+                                                                style="display:none">ERROR</span>
+                                                    </td>
+                                                </tr>
+                                                <tr class="scenario-result ERROR">
+                                                    <td>
+                                                            <a href="5b5c8e6adb70691dafc8b87725829a687bed08dbf70aeb9668d65c7faee33071.html">Books express story</a>
+                                                    </td>
+                                                    <td>
+                                                            <a href="c34e0a31f061ce8791418170ae0a606a28437e198d4b2e19f0555038c6bacf2b.html">Search for a book added book to wishlist and cart</a>
+                                                    </td>
+                                                    <td>8</td>
+                                                    <td>18:15:18</td>
+                                                    <td>00:25</td>
+                                                    <td>
+                                                            <a href='##beforetable'><i class='fa fa-exclamation-triangle error-icon ' title='ERROR'></i></a> <span
+                                                                style="display:none">ERROR</span>
+                                                    </td>
+                                                </tr>
                                                 <tr class="scenario-result SUCCESS">
                                                     <td>
                                                             <a href="5b5c8e6adb70691dafc8b87725829a687bed08dbf70aeb9668d65c7faee33071.html">Books express story</a>
@@ -683,9 +824,56 @@ I want to be able to login, search for the book, add it to wishlist and cart and
                                                     <td>
                                                             <a href="2a395b593a4f2bead85ea8dca1e475373f63a927a53ceb753d8c07b708a161be.html">Added book to wishlist</a>
                                                     </td>
+                                                    <td>5</td>
+                                                    <td>18:59:11</td>
+                                                    <td>00:15</td>
+                                                    <td>
+                                                            <a href='##beforetable'><i class='fa fa-check-circle-o success-icon ' title='SUCCESS'></i></a> <span
+                                                                style="display:none">SUCCESS</span>
+                                                    </td>
+                                                </tr>
+                                                <tr class="scenario-result SUCCESS">
+                                                    <td>
+                                                            <a href="5b5c8e6adb70691dafc8b87725829a687bed08dbf70aeb9668d65c7faee33071.html">Books express story</a>
+                                                    </td>
+                                                    <td>
+                                                            <a href="9ef3037839ae3bd612de7d88386486b4204ae1bdfca4a788a1f076aecce1fc2c.html">Search book</a>
+                                                    </td>
                                                     <td>4</td>
-                                                    <td>15:04:47</td>
-                                                    <td>00:08</td>
+                                                    <td>20:10:08</td>
+                                                    <td>00:07</td>
+                                                    <td>
+                                                            <a href='##beforetable'><i class='fa fa-check-circle-o success-icon ' title='SUCCESS'></i></a> <span
+                                                                style="display:none">SUCCESS</span>
+                                                    </td>
+                                                </tr>
+                                                <tr class="scenario-result ERROR">
+                                                    <td>
+                                                            <a href="256b910487824b68ac96bd79c364183602fde8d07b3ea186d4a747781e30adce.html">CSV data</a>
+                                                    </td>
+                                                    <td>
+                                                            <a href="07c499b74555a68945f699704ec0dcb80b34244cedd3f7df596c2d6019d7a9b2.html">Search book</a>
+                                                               (1 example)
+                                                    </td>
+                                                    <td>4</td>
+                                                    <td>20:25:09</td>
+                                                    <td>00:09</td>
+                                                    <td>
+                                                            <a href='##beforetable'><i class='fa fa-exclamation-triangle error-icon ' title='ERROR'></i></a> <span
+                                                                style="display:none">ERROR</span>
+                                                    </td>
+                                                </tr>
+                                                <tr class="scenario-result SUCCESS">
+                                                    <td>
+                                                            <a href="ff9ed3c7a06b0f92fca29fba53413202812691147536b3fb489240af292dab61.html">Book express story CSV data</a>
+                                                    </td>
+                                                    <td>
+                                                            <a href="07d83478f7e6d27ae02fc225f243c797323bc90b2808e06d70c5c629035ef6c5.html">Search book</a>
+                                                               (1 example)
+                                                    </td>
+                                                    <td>4</td>
+                                                    <td>20:28:37</td>
+                                                    <td>00:16</td>
                                                     <td>
                                                             <a href='##beforetable'><i class='fa fa-check-circle-o success-icon ' title='SUCCESS'></i></a> <span
                                                                 style="display:none">SUCCESS</span>
@@ -698,9 +886,9 @@ I want to be able to login, search for the book, add it to wishlist and cart and
                                                     <td>
                                                             <a href="12a258abca929dae661faf9b2daf5d3f385daaf4faed226c9523df51bb6b5e63.html">Login user with invalid password</a>
                                                     </td>
-                                                    <td>2</td>
-                                                    <td>19:55:08</td>
-                                                    <td>00:11</td>
+                                                    <td>3</td>
+                                                    <td>20:37:36</td>
+                                                    <td>00:10</td>
                                                     <td>
                                                             <a href='##beforetable'><i class='fa fa-check-circle-o success-icon ' title='SUCCESS'></i></a> <span
                                                                 style="display:none">SUCCESS</span>
@@ -711,11 +899,41 @@ I want to be able to login, search for the book, add it to wishlist and cart and
                                                             <a href="5b5c8e6adb70691dafc8b87725829a687bed08dbf70aeb9668d65c7faee33071.html">Books express story</a>
                                                     </td>
                                                     <td>
-                                                            <a href="c34e0a31f061ce8791418170ae0a606a28437e198d4b2e19f0555038c6bacf2b.html">Search for a book added book to wishlist and cart</a>
+                                                            <a href="8e7b22f89502a2e5ed4a0dcc39d2a8739cc396830ba9bf0ed10ceaf1ddff69d0.html">Logout</a>
+                                                    </td>
+                                                    <td>2</td>
+                                                    <td>20:37:47</td>
+                                                    <td>00:05</td>
+                                                    <td>
+                                                            <a href='##beforetable'><i class='fa fa-check-circle-o success-icon ' title='SUCCESS'></i></a> <span
+                                                                style="display:none">SUCCESS</span>
+                                                    </td>
+                                                </tr>
+                                                <tr class="scenario-result SUCCESS">
+                                                    <td>
+                                                            <a href="5b5c8e6adb70691dafc8b87725829a687bed08dbf70aeb9668d65c7faee33071.html">Books express story</a>
+                                                    </td>
+                                                    <td>
+                                                            <a href="cf38ee17f71ac0fc883330c1945e0acd5807262d02ef1dd69a46104e29b6ee70.html">Add book to wishlist</a>
                                                     </td>
                                                     <td>5</td>
-                                                    <td>19:55:21</td>
-                                                    <td>00:13</td>
+                                                    <td>20:37:53</td>
+                                                    <td>00:08</td>
+                                                    <td>
+                                                            <a href='##beforetable'><i class='fa fa-check-circle-o success-icon ' title='SUCCESS'></i></a> <span
+                                                                style="display:none">SUCCESS</span>
+                                                    </td>
+                                                </tr>
+                                                <tr class="scenario-result SUCCESS">
+                                                    <td>
+                                                            <a href="5b5c8e6adb70691dafc8b87725829a687bed08dbf70aeb9668d65c7faee33071.html">Books express story</a>
+                                                    </td>
+                                                    <td>
+                                                            <a href="be31014becc736840c09841ab0fb42c437f9f52e4b98fade0824f8e8b1364836.html">Add book to cart</a>
+                                                    </td>
+                                                    <td>6</td>
+                                                    <td>20:38:02</td>
+                                                    <td>00:10</td>
                                                     <td>
                                                             <a href='##beforetable'><i class='fa fa-check-circle-o success-icon ' title='SUCCESS'></i></a> <span
                                                                 style="display:none">SUCCESS</span>
@@ -729,8 +947,8 @@ I want to be able to login, search for the book, add it to wishlist and cart and
                                                             <a href="da7179ab8f98db529b005e4b0fdfea0f0bcf2ff893d4e90edb4320a7889b891a.html">Login user with valid credentials</a>
                                                     </td>
                                                     <td>2</td>
-                                                    <td>19:55:34</td>
-                                                    <td>00:05</td>
+                                                    <td>20:38:13</td>
+                                                    <td>00:04</td>
                                                     <td>
                                                             <a href='##beforetable'><i class='fa fa-check-circle-o success-icon ' title='SUCCESS'></i></a> <span
                                                                 style="display:none">SUCCESS</span>

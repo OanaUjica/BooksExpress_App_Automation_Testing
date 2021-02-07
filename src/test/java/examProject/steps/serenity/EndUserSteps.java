@@ -2,7 +2,11 @@ package examProject.steps.serenity;
 
 import examProject.pages.*;
 import net.thucydides.core.annotations.Step;
+import org.openqa.selenium.WebDriver;
+
 import static org.hamcrest.MatcherAssert.assertThat;
+import static org.hamcrest.Matchers.containsString;
+import static org.hamcrest.Matchers.hasItem;
 
 public class EndUserSteps {
 
@@ -20,7 +24,7 @@ public class EndUserSteps {
     }
 
     @Step
-    public void add_valid_credentials_and_login(String email, String password) {
+    public void add_credentials_and_login(String email, String password) {
 
         headerAllPages.click_cont_button();
         headerAllPages.click_enterInCont_button();
@@ -33,12 +37,7 @@ public class EndUserSteps {
     @Step
     public void verify_valid_credentials_login(String email, String password, String textToVerifyUserIsLoggedIn) {
 
-        headerAllPages.click_cont_button();
-        headerAllPages.click_enterInCont_button();
-        loginPage.enter_userName(email);
-        loginPage.click_emailButton();
-        loginPage.enter_password(password);
-        loginPage.click_login();
+        add_credentials_and_login(email, password);
 
         headerAllPages.click_cont_button();
 
@@ -48,12 +47,7 @@ public class EndUserSteps {
     @Step
     public void verify_logout(String email, String password, String textToVerifyUserIsLogout) {
 
-        headerAllPages.click_cont_button();
-        headerAllPages.click_enterInCont_button();
-        loginPage.enter_userName(email);
-        loginPage.click_emailButton();
-        loginPage.enter_password(password);
-        loginPage.click_login();
+        add_credentials_and_login(email, password);
 
         headerAllPages.click_cont_button();
         headerAllPages.click_logout();
@@ -64,29 +58,23 @@ public class EndUserSteps {
     }
 
     @Step
+    public void fill_invalid_password_login(String email, String password) {
+
+        add_credentials_and_login(email, password);
+    }
+
+    @Step
     public void verify_error_message_for_invalid_password(String errorMessage) {
 
         assertThat(errorMessage, loginPage.error_message_for_invalid_password(errorMessage));
-        //assertThat(loginPage.error_message_for_invalid_password(), hasItem(containsString(errorMessage)));
     }
 
     @Step
-    public void fill_invalid_password_login(String email, String password) {
-
-        headerAllPages.click_cont_button();
-        headerAllPages.click_enterInCont_button();
-        loginPage.enter_userName(email);
-        loginPage.click_emailButton();
-        loginPage.enter_password(password);
-        loginPage.click_login();
-    }
-
-    @Step
-    public void search_book_by_keyword(String book) {
+    public void search_book_by_keyword(String book, WebDriver webDriver) {
 
         headerAllPages.enter_searchInput(book);
         headerAllPages.click_searchButton();
-        searchPage.click_searchSpecificBookButton();
+        searchPage.click_searchSpecificBookButton(webDriver);
     }
 
     @Step
@@ -107,7 +95,8 @@ public class EndUserSteps {
     @Step
     public void verify_if_book_is_added_to_wishlist(String bookTitle) {
 
-        assertThat(bookTitle, wishlistPage.verify_if_book_is_added_to_wishlist(bookTitle));
+        //assertThat(bookTitle, wishlistPage.verify_if_book_is_added_to_wishlist(bookTitle));
+        assertThat(wishlistPage.get_wishlist_books(), hasItem(containsString(bookTitle)));
     }
 
     @Step

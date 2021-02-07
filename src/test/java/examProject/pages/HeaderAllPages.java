@@ -29,12 +29,9 @@ public class HeaderAllPages extends PageObject {
     @FindBy(xpath="/html/body/div[6]/ul/li/a")
     private WebElementFacade wishlistPageButton;
 
-    //@FindBy(xpath="/html/body/div/ul/li/a[1]")
-    //@FindBy(css = "a[href=\"/logout\"]")
     @FindBy(xpath="//*[@id=\"user-data\"]/ul/li[8]/a")
     private WebElementFacade logoutButton;
 
-    //@FindBy(css = "a[href=\"https://www.books-express.ro/login\"]")
     @FindBy(xpath="//*[@id=\"user-data\"]/ul/li[1]/a")
     private WebElementFacade intraInContText;
 

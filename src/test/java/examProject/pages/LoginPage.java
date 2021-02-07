@@ -38,16 +38,8 @@ public class LoginPage extends PageObject {
 
     public boolean error_message_for_invalid_password(String errorMessage) {
 
-        //return invalidPasswordMessage.getValue();
         return invalidPasswordMessage.getText().equalsIgnoreCase(errorMessage);
     }
-
-//    public List<String> get_error_message() {
-//        WebElementFacade definitionList = find(By.tagName("div"));
-//        return definitionList.findElements(By.id("login-message")).stream()
-//                .map( element -> element.getText() )
-//                .collect(Collectors.toList());
-//    }
 
     public void click_login() {
 

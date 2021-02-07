@@ -1,0 +1,939 @@
+<html style="min-width: 0px;"><head><script type="text/javascript" async="" src="https://www.google-analytics.com/plugins/ua/ec.js"></script><script type="text/javascript" async="" src="https://www.google-analytics.com/analytics.js"></script><script src="https://connect.facebook.net/signals/config/689144244482713?v=2.9.33&amp;r=stable" async=""></script><script async="" src="//connect.facebook.net/en_US/fbevents.js"></script><script src="https://www.books-express.ro/js/subscriber_1488246321.js"></script><script src="https://www.books-express.ro/js/select2.full.min_1445974926.js"></script><script src="https://www.books-express.ro/js/main_1585304528.js"></script><script src="https://www.books-express.ro/polyglot.i18n.js"></script><script src="https://www.books-express.ro/js/libs_1484923518.js"></script><script src="https://www.books-express.ro/js/jquery-2.1.4.min.js"></script><script src="https://www.books-express.ro/js/skel.min.js"></script>
+		<title>Cont - Books Express | Books Express</title>
+        		<meta http-equiv="content-type" content="text/html; charset=utf-8">
+		<meta name="robots" content="noindex, follow">
+		<meta name="description" content="">
+    <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+            <style data-no-min="">
+        @charset "UTF-8";.row.\30 \25>*,.row.form.\30 \25>*,.row.uniform.\30 \25>*{padding:0}.ws,li.prod{opacity:0}#header #nav-center,.button,.carousel,.subnav a.filter{white-space:nowrap}.carousel ul,ol,ul{list-style:none}*,:after,:before{-moz-box-sizing:border-box;-webkit-box-sizing:border-box;box-sizing:border-box}.container.\31 25\25{width:100%;max-width:122.5%;min-width:98%}.container.\37 5\25{width:73.5%}.container.\35 0\25{width:49%}.container.\32 5\25{width:24.5%}.container{margin-left:auto;margin-right:auto;width:98%}@media screen and (max-width:1279px){.container.\31 25\25{width:100%;max-width:122.5%;min-width:98%}.container.\37 5\25{width:73.5%}.container.\35 0\25{width:49%}.container.\32 5\25{width:24.5%}.container{width:98%}}.row>*{float:left;clear:none;margin-left:0}.row:after,.row:before{content:'';display:block;clear:both;height:0}.row.uniform>*>:first-child{margin-top:0}.row.uniform>*>:last-child{margin-bottom:0}.row.\30 \25,.row.uniform.\30 \25{margin:0 0 -1px}.\31 2u{width:100%}.\38 u{width:66.66%}.\36 u{width:50%}.\34 u{width:33.33%}.\33 u{width:25%}.\32 u{width:16.66%}.\-8u{margin-left:66.66%}.\-6u{margin-left:50%}.\-4u{margin-left:33.33%}.\-3u{margin-left:25%}.\-2u{margin-left:16.66%}@media screen and (max-width:5000px){.\31 2u\28xxlarge\29{width:100%}.\38 u\28xxlarge\29{width:66.66%}.\36 u\28xxlarge\29{width:50%}.\34 u\28xxlarge\29{width:33.33%}.\33 u\28xxlarge\29{width:25%}.\32 u\28xxlarge\29{width:16.66%}.\-8u\28xxlarge\29{margin-left:66.66%}.\-6u\28xxlarge\29{margin-left:50%}.\-4u\28xxlarge\29{margin-left:33.33%}.\-3u\28xxlarge\29{margin-left:25%}.\-2u\28xxlarge\29{margin-left:16.66%}}@media screen and (max-width:1600px){.\31 2u\28xlarge\29{width:100%}.\38 u\28xlarge\29{width:66.66%}.\36 u\28xlarge\29{width:50%}.\34 u\28xlarge\29{width:33.33%}.\33 u\28xlarge\29{width:25%}.\32 u\28xlarge\29{width:16.66%}.\-8u\28xlarge\29{margin-left:66.66%}.\-6u\28xlarge\29{margin-left:50%}.\-4u\28xlarge\29{margin-left:33.33%}.\-3u\28xlarge\29{margin-left:25%}.\-2u\28xlarge\29{margin-left:16.66%}}.row>*{padding:0 0 0 1.5em}.row{border-bottom:solid 1px transparent;margin:0 0 -1px -1.5em}.row.uniform>*{padding:1.5em 0 0 1.5em}.row.uniform{margin:-1.5em 0 -1px -1.5em}.row.form>*{padding:.5em 0 0 1.5em}.row.\32 00\25>*{padding:0 0 0 3em}.row.\32 00\25{margin:0 0 -1px -3em}.row.uniform.\32 00\25>*{padding:3em 0 0 3em}.row.uniform.\32 00\25{margin:-3em 0 -1px -3em}.row.form.\32 00\25>*{padding:1em 0 0 3em}.row.\31 50\25>*{padding:0 0 0 2.25em}.row.\31 50\25{margin:0 0 -1px -2.25em}.row.uniform.\31 50\25>*{padding:2.25em 0 0 2.25em}.row.uniform.\31 50\25{margin:-2.25em 0 -1px -2.25em}.row.form.\31 50\25>*{padding:.75em 0 0 2.25em}.row.\35 0\25>*{padding:0 0 0 .75em}.row.\35 0\25{margin:0 0 -1px -.75em}.row.uniform.\35 0\25>*{padding:.75em 0 0 .75em}.row.uniform.\35 0\25{margin:-.75em 0 -1px -.75em}.row.form.\35 0\25>*{padding:.25em 0 0 .75em}.row.\32 5\25>*{padding:0 0 0 .375em}.row.\32 5\25{margin:0 0 -1px -.375em}.row.uniform.\32 5\25>*{padding:.375em 0 0 .375em}.row.uniform.\32 5\25{margin:-.375em 0 -1px -.375em}.row.form.\32 5\25>*{padding:.125em 0 0 .375em}@media screen and (max-width:1279px){.\31 2u\28large\29{width:100%}.\38 u\28large\29{width:66.66%}.\36 u\28large\29{width:50%}.\34 u\28large\29{width:33.33%}.\33 u\28large\29{width:25%}.\32 u\28large\29{width:16.66%}.\-8u\28large\29{margin-left:66.66%}.\-6u\28large\29{margin-left:50%}.\-4u\28large\29{margin-left:33.33%}.\-3u\28large\29{margin-left:25%}.\-2u\28large\29{margin-left:16.66%}}a,abbr,acronym,address,applet,article,aside,audio,b,big,blockquote,body,canvas,caption,center,cite,code,dd,del,details,dfn,div,dl,dt,em,embed,fieldset,figcaption,figure,footer,form,h1,h2,h3,h4,h5,h6,header,hgroup,html,i,iframe,img,ins,kbd,label,legend,li,mark,menu,nav,object,ol,output,p,pre,q,ruby,s,samp,section,small,span,strike,strong,sub,summary,sup,table,tbody,td,tfoot,th,thead,time,tr,tt,u,ul,var,video{margin:0;padding:0;border:0;font:inherit;vertical-align:baseline}article,aside,details,figcaption,figure,footer,header,hgroup,menu,nav,section{display:block}blockquote,q{quotes:none}blockquote:after,blockquote:before,q:after,q:before{content:'';content:none}table{border-collapse:collapse;border-spacing:0}body{-webkit-text-size-adjust:none;background:#fff}body.is-loading *,body.is-loading :after,body.is-loading :before{-moz-animation:none!important;-webkit-animation:none!important;-ms-animation:none!important;animation:none!important;-moz-transition:none!important;-webkit-transition:none!important;-ms-transition:none!important;transition:none!important}body .jq-dropdown{display:none}body.phone{overflow-x:hidden}.right{float:right}.left{float:left}.fill{width:auto;overflow:hidden}#header,#main.full,.carousel,.full{width:100%}ul{padding-left:1em}.color-theme-1{color:#293271}.color-theme-2{color:#495296}.color-theme-3{color:#46a4d7}.color-theme-4{color:#dc6f20}.color-theme-5{color:#b43100}.color-theme-6{color:green}.button,.color-bold,b,strong{color:#555}#main{padding:.5em 0 4em}#products{font-weight:700}.box{border-radius:4px;border:1px solid #e3e3e3;margin-bottom:1em;padding:1.5em}.box>:last-child,.box>:last-child>:last-child,.box>:last-child>:last-child>:last-child{margin-bottom:0}#breadcrumbs a,aside a,h1 a,h2 a,h3 a,h4 a{color:inherit;text-decoration:none}.subnav{list-style-type:none;margin:0 0 .3em;padding:0 0 .3em;font-size:1em;border-bottom:1px solid #e3e3e3}.subnav a.filter{font-size:.8em;padding:3px 6px;border:1px solid #e3e3e3;display:inline-block;line-height:1.1em;margin-bottom:.2em}.subnav a.filter.red{border-color:#b43100;color:#b43100}.subnav li{display:inline-block;margin:0;padding:0}.middle{position:relative;top:50%;-webkit-transform:translateY(-50%);-ms-transform:translateY(-50%);transform:translateY(-50%)}.center{margin-left:auto;margin-right:auto}.show-medium,.show-mobile,.show-small,.show-xsmall{display:none}.dialog-page{max-width:25em;margin:3em auto}@media screen and (max-width:5000px){.split-large{position:relative}.split-large:after{content:"";position:absolute;z-index:-1;top:0;bottom:0;left:50%;border-left:solid 1px #e3e3e3}}.carousel,.carousel ul,.read-wrap,sub,sup{position:relative}.read-wrap{max-height:410px;overflow:hidden;margin-bottom:1em}.read-wrap.small-wrap{max-height:135px}.read-wrap img.cover{padding:0 .5em .5em 0;max-height:135px}.image.banner-wrapper img{border:1px solid #c7c7c7;box-shadow:0 2px 6px 0 rgba(0,0,0,.08)}.carousel{min-height:225px;overflow:hidden;padding:5px 0}.carousel ul{display:inline-block;padding:0;margin:0;left:0}@font-face{font-family:'Roboto Condensed';font-style:normal;font-weight:300;src:local("Roboto Condensed Light"),local("RobotoCondensed-Light"),url(https://fonts.gstatic.com/s/robotocondensed/v13/b9QBgL0iMZfDSpmcXcE8nE3-C2-AeGuds3u-nxwkckg.woff) format("woff")}@font-face{font-family:'Roboto Condensed';font-style:normal;font-weight:700;src:local("Roboto Condensed Bold"),local("RobotoCondensed-Bold"),url(https://fonts.gstatic.com/s/robotocondensed/v13/b9QBgL0iMZfDSpmcXcE8nPSdKbtAIMvKJF67__UonTA.woff) format("woff")}@font-face{font-family:'Work Sans';font-style:normal;font-weight:100;src:local("Work Sans Thin"),local("WorkSans-Thin"),url(https://fonts.gstatic.com/s/worksans/v2/S5P2Ny-Dw8BHKH0UfdbgXafTCPadK0KLfdEfFtGWCYw.woff) format("woff")}@font-face{font-family:'Work Sans';font-style:normal;font-weight:400;src:local("Work Sans"),local("WorkSans-Regular"),url(https://fonts.gstatic.com/s/worksans/v2/WB2LNay3rHMH1zU8UJnUHLO3LdcAZYWl9Si6vvxL-qU.woff) format("woff")}@font-face{font-family:'Work Sans';font-style:normal;font-weight:700;src:local("Work Sans Bold"),local("WorkSans-Bold"),url(https://fonts.gstatic.com/s/worksans/v2/4udXuXg54JlPEP5iKO5AmeY5mlVXtdNkpsMpKkrDXP4.woff) format("woff")}@font-face{font-family:fontello;src:url(/fonts/fontello.eot?20527721);src:url(/fonts/fontello.eot?20527721#iefix) format("embedded-opentype"),url(/fonts/fontello.woff2?20527721) format("woff2"),url(/fonts/fontello.woff?20527721) format("woff"),url(/fonts/fontello.ttf?20527721) format("truetype"),url(/fonts/fontello.svg?20527721#fontello) format("svg");font-weight:400;font-style:normal}[class*=" fa-"]:before,[class^=fa-]:before{font-family:fontello;font-style:normal;font-weight:400;speak:none;display:inline-block;text-decoration:inherit;text-align:center;font-variant:normal;text-transform:none;line-height:1em;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}.fa-user:before{content:'\e802'}.fa-angle-down:before{content:'\e81b'}.fa-down-open:before{content:'\e81c'}.fa-heart:before{content:'\e806'}.fa-basket:before{content:'\e80c'}.fa-search:before{content:'\e816'}.fa-home:before{content:'\e808'}.fa-right-dir:before{content:'\e828'}.fa-gift:before{content:'\e817'}.fa-book:before{content:'\e82c'}.fa-info-circled:before{content:'\e809'}.fa-menu:before{content:'\e82a'}b,strong{font-weight:700}em,i{font-style:italic}p{margin:0 0 .5em}p.no-margin{margin:0}h1,h3,h4{font-weight:400}h2,h5,h6{font-weight:700}h1,h2,h3,h4,h5,h6{color:#444;line-height:1em;margin:0 0 .5em}h1 a,h2 a,h3 a,h4 a,h5 a,h6 a{color:inherit;text-decoration:none}h1 a.hsub,h2 a.hsub,h3 a.hsub,h4 a.hsub,h5 a.hsub,h6 a.hsub{color:#bbb}h1 a.hsub:hover,h2 a.hsub:hover,h3 a.hsub:hover,h4 a.hsub:hover,h5 a.hsub:hover,h6 a.hsub:hover{color:#dc6f20}h1 .hlinks,h2 .hlinks,h3 .hlinks,h4 .hlinks,h5 .hlinks,h6 .hlinks{float:right}h1 .hlinks a,h2 .hlinks a,h3 .hlinks a,h4 .hlinks a,h5 .hlinks a,h6 .hlinks a{color:#5AA6ED;font-size:.8em;font-weight:400}h1 .hlinks a:hover,h2 .hlinks a:hover,h3 .hlinks a:hover,h4 .hlinks a:hover,h5 .hlinks a:hover,h6 .hlinks a:hover{color:#dc6f20}h1 .hlinks a.small,h2 .hlinks a.small,h3 .hlinks a.small,h4 .hlinks a.small,h5 .hlinks a.small,h6 .hlinks a.small{font-size:.5em}h1+.subtitle,h2+.subtitle,h3+.subtitle,h4+.subtitle,h5+.subtitle,h6+.subtitle{margin:-.5em 0 .5em;line-height:1.3em}@media screen and (max-width:5000px){h1,h2,h3,h4,h5,h6{line-height:1.1em}h1{font-size:2em}h2,h3{font-size:1.35em}h4{font-size:1.2em}h4.multi-column{margin:.5em 0 0}h5{font-size:.9em}h6{font-size:.7em}}.fade,span.small,sub,sup{font-size:.8em}span.error{border-color:#b43100!important}hr{border:0;border-bottom:solid 1px #e3e3e3;margin:1em 0}hr.strong{border-bottom-color:#bbb}hr.major{margin:1.5em 0}hr.minor{margin:.5em 0}.fade{font-weight:400;color:#bbb}a.fade{color:#b43100}.align-left{text-align:left!important}.align-center,.button,.select-wrapper:before,.submessage{text-align:center}#header,.align-right{text-align:right}.strike{text-decoration:line-through}#header a,a,a:hover{text-decoration:none}.strong{font-weight:700}.serif{font-family:Georgia,"Times New Roman",Times,serif;font-weight:400}.narrow{font-family:"Roboto Condensed",sans-serif;font-weight:300}sub{top:.5em}sup{top:-.5em}.notify-bubble,.top-left,.top-right{position:absolute}pre{-webkit-overflow-scrolling:touch;font-family:"Courier New",monospace;font-size:.9em;margin:0 0 1em}pre code{display:block;line-height:1.75em;padding:1em 1.5em;overflow-x:auto}div.small{font-size:.8em;line-height:1.1em}body,input,select,textarea{color:#444;font-family:"Work Sans","Helvetica Neue",Arial,sans-serif;font-size:13pt;font-weight:400;line-height:1.5em}@media screen and (max-width:1600px){body,input,select,textarea{font-size:11pt}}@media screen and (max-width:1279px){body,input,select,textarea{font-size:11pt}}a{color:#5AA6ED}a.plain{color:#444}a.plain:hover{color:#dc6f20}.hidden{display:none}.ws{display:none;transition:opacity .2s linear}.clear{clear:both}aside.left a{color:#444}aside.left a:hover{color:#dc6f20}.small-facets{background-color:#fff}.pill{box-shadow:1px 1px 3px 0 rgba(0,0,0,.4);border-radius:3px;font-weight:700;padding:3px 5px;margin-top:3px;font-size:.9em;line-height:1em}.cyan-pill,.green-pill{font-weight:400;color:#fff}.red-pill{background-color:rgba(180,49,0,.6);color:#fff;border:1px solid #b43100}.blue-pill{background-color:rgba(73,82,150,.6);border:1px solid #495296;color:#fff}.cyan-pill{background-color:rgba(70,164,215,.6);border:1px solid #46a4d7}.green-pill{background-color:rgba(0,128,0,.6);border:1px solid green}#submenu,#submenu a{color:#FFF}.top-right{right:8px;top:-8px}.top-left{left:0;top:0}body{padding-top:3.5em}.stop-scrolling{height:100%;overflow:hidden}#hero{background:#FFF}#header{background:#fff;color:#444;cursor:default;height:3.5em;left:0;line-height:3.5em;position:fixed;top:0;z-index:101;-webkit-transform:translate3d(0,0,0)}#header.up{box-shadow:0 4px 6px 0 rgba(0,0,0,.15)}#header #products-header{display:none;margin-left:.5em}#header #products-header i{font-size:1.4em}#header #logo{height:inherit;line-height:3.5em;margin:0 0 0 .6em;position:relative;float:left;width:215px}#header #logo.align-center{margin:0 auto;float:none}#header #nav-center{padding:.625em 1em;width:auto;overflow:hidden}#header #search{height:2.25em;line-height:1.5em;background:#fff;border-radius:0;border:none;border:1px solid #e3e3e3;color:#444}#header form{margin:0}#header button{padding:0 .5em 0 1em;font-size:1em;height:2.25em;line-height:2.25em}#header button.fa-search{border-bottom-left-radius:0;border-top-left-radius:0;margin-left:-2px;box-shadow:none}#header ul.nav,#submenu ul{list-style:none;margin:0}#header ul.nav{padding-left:0}#header ul.nav>li{display:inline-block;padding-left:0}#header ul.nav>li:first-child{margin-left:0}#header ul.nav-btn{padding-left:.75em}#header .nav-right{float:right;height:inherit;line-height:inherit;position:relative;padding-right:.3em;vertical-align:middle}#header a{-moz-transition:color .2s ease-in-out;-webkit-transition:color .2s ease-in-out;-ms-transition:color .2s ease-in-out;transition:color .2s ease-in-out;color:inherit}#header a#products{color:#b43100;font-weight:700}#header a:hover{color:#dc6f20}#header a[href="#nav"]{padding-left:.3em}#submenu{background:#495296;font-size:1em;font-weight:400}#submenu a:active,#submenu a:hover{text-decoration:underline}.button.carousel-add2cart,.select-button-small>select,.select-inline>select{margin-top:.5em}#submenu ul>li{display:inline-block;margin-right:.5em;padding:.5em 0}.logo-full,.logo-full svg{display:block;width:215px;height:26px}.back-to-top,a[href="#nav"]{display:none}.back-to-top{width:45pt;height:45pt;position:fixed;z-index:999;bottom:18pt;right:81pt;opacity:.4;color:#000;text-shadow:rgba(0,0,0,.15) 0 3pt 12pt}.notify-container,.select-inline,.select-wrapper.small span{display:inline-block}.back-to-top .fa-up-circled{font-size:45pt}.notify-container{position:relative}.notify-bubble{top:9px;right:-11px;line-height:1.2em;padding:2px 5px 2px 6px;background-color:#E40000;color:#fff;font-size:.65em;border-radius:50%;box-shadow:1px 1px 1px gray}.submessage{background-color:#B40000;color:#FFF;font-weight:700;padding:3px}.submessage a,.submessage a:visited{color:#FFF}.submessage a:active,.submessage a:visited:active{color:#000}.submessage a.text:hover,.submessage a:visited.text:hover{text-decoration:underline}.submessage a.text,.submessage a:visited.text{margin-right:20px}.select-inline{width:auto;height:1.7em}.select-wrapper{position:relative}.select-wrapper#editor,.select-wrapper#editor select{width:100%}.select-wrapper.small{font-size:.9em;height:2.44em;line-height:2.44em}.select-wrapper.small select{width:100%;top:.4em}.select-wrapper:before{content:"";-moz-osx-font-smoothing:grayscale;-webkit-font-smoothing:antialiased;font-family:fontello;font-style:normal;font-weight:400;text-transform:none!important;color:#e3e3e3;display:block;height:2.75em;line-height:2.75em;pointer-events:none;position:absolute;right:0;top:0;width:2.75em}.select-wrapper select::-ms-expand{display:none}.select-wrapper select{opacity:0;filter:alpha(opacity=0);visibility:visible;position:absolute;left:0;width:auto;top:0}.select-wrapper span{margin-right:1em}.select-wrapper.select-inline:before{height:1.7em;width:2em;line-height:1.7em}.select-wrapper.select-button-small:before{height:2.85em;width:2em;line-height:2.85em}.select-wrapper,input[type=text],input[type=password],input[type=email],textarea{-moz-appearance:none;-webkit-appearance:none;-ms-appearance:none;appearance:none;background:#fff;border-radius:4px;border:none;border:1px solid #c7c7c7;color:inherit;display:block;outline:0;padding:0 1em;text-decoration:none;width:100%}.button,.select-button-small{display:inline-block;font-weight:700;height:2.85em;line-height:2.85em}.select-wrapper:invalid,input[type=text]:invalid,input[type=password]:invalid,input[type=email]:invalid,textarea:invalid{box-shadow:none}.select-wrapper:focus,input[type=text]:focus,input[type=password]:focus,input[type=email]:focus,textarea:focus{border-color:#5AA6ED;box-shadow:0 0 0 1px #5AA6ED}.select-wrapper:disabled,input[type=text]:disabled,input[type=password]:disabled,input[type=email]:disabled,textarea:disabled{background:#f6f6f6;border:1px solid #e3e3e3}.select-wrapper.error,input[type=text].error,input[type=password].error,input[type=email].error,textarea.error{border:1px solid #b43100}.select-button-small{width:auto;font-size:.8em;box-shadow:0 2px 5px 0 rgba(0,0,0,.2)}.button{-moz-appearance:none;-webkit-appearance:none;-ms-appearance:none;appearance:none;-moz-transition:background-color .2s ease-in-out,color .2s ease-in-out;-webkit-transition:background-color .2s ease-in-out,color .2s ease-in-out;-ms-transition:background-color .2s ease-in-out,color .2s ease-in-out;transition:background-color .2s ease-in-out,color .2s ease-in-out;background-color:#fff;border:1px solid #c7c7c7;text-shadow:none;box-shadow:0 2px 3px 0 rgba(0,0,0,.1);border-radius:4px;cursor:pointer;padding:0 1.5em;text-decoration:none}.button.small{font-size:.8em}.button.xsmall{font-size:.6em}.button.big{font-size:1.35em}.button.icon{padding-left:1.35em}.button.icon:before{margin-right:.5em}.button.primary{border:0;color:#fff;background-color:#46a4d7;text-shadow:0 .075em .075em rgba(0,0,0,.5)}.button.primary:hover{background-color:#5baedc;color:#fff;transition:box-shadow .25s;box-shadow:0 2px 4px 0 rgba(0,0,0,.2)}.button.primary:active{background-color:#319ad2}.button.danger{background-color:#b43100;color:#fff;border:0}.button.danger:hover{background-color:#ce3800}.button.danger:active{background-color:#9b2a00}.button.special{background-color:#dc6f20;color:#fff;border:0}.button.special:hover{background-color:#e17d34}.button.special:active{background-color:#c6641d}
+/*# sourceMappingURL=../maps/mini.css.map */
+
+                    .list article .marker,aside.left{font-family:"Roboto Condensed",sans-serif}aside.left{font-weight:300;width:200px;float:left;padding-right:1em;position:relative;font-size:.8em;line-height:1.1em}aside.left h4,aside.left.small-facets{font-family:"Work Sans","Helvetica Neue",Arial,sans-serif}aside.left .selected,aside.left h4{font-weight:700}aside.left+section{border-left:1px solid #e3e3e3;margin-left:200px;overflow:hidden;padding-left:3em;padding-top:1em;float:none}aside.left.sticky{position:fixed;top:5em;overflow-x:hidden;overflow-y:scroll;height:100%;padding-bottom:5em}aside.left ul{padding-left:0;list-style:none}aside.left li{padding:.25em 0}aside.left h4{color:#b43100}@media screen and (max-width:1024px){aside.left{display:none}aside.left+section{border-left:none;margin-left:0;padding:0}}aside.left .count{color:#bbb}aside.left .facet{-webkit-column-break-inside:avoid;page-break-inside:avoid;break-inside:avoid-column;display:table;width:100%;margin-bottom:1em;border-bottom:1px solid #c7c7c7}aside.left.small-facets{-moz-column-count:2;-webkit-column-count:2;-ms-column-count:2;column-count:2}aside.left .level-1{padding-left:1em}aside.left .level-2{padding-left:2em}aside.left .level-3{padding-left:3em}aside.left .level-4{padding-left:4em}aside.left .close{display:none}aside.left.small-facets{font-weight:400;display:none;position:relative;float:none;clear:both;border:none;z-index:1;width:100%;-webkit-transform:translate3d(0,0,0)}aside.left.small-facets ul{margin-left:.7em;line-height:1.2em}aside.left.small-facets h4{margin-left:.3em}.totals{margin:-1.5em 0 .5em;color:#555;font-size:.9em}.list figure{position:relative;float:left;width:225px;height:225px;text-align:center;vertical-align:middle;margin-right:.5em}.list figure+section{margin-left:225px;padding-left:.5em;float:none}.list article{position:relative;padding:1em;border-bottom:1px solid #e3e3e3;height:265px;overflow:hidden;line-height:1.6em}.list article h2{font-size:1.3em;line-height:1.1em;max-height:2.2em;overflow:hidden;font-weight:400;margin-top:0}.list article .marker{border-radius:1em;line-height:2em;color:#fff;background-color:#46a4d7;width:2em;font-size:1.5em;font-weight:700;position:absolute;text-align:center;top:.5em;left:1em}@media screen and (max-width:5000px){.list article{font-size:.9em}.list article:nth-child(2n+1){border-right:none}.list article:nth-child(3n+1),.list article:nth-child(3n+2){border-right:1px solid #e3e3e3}}@media screen and (max-width:1600px){.list article:nth-child(2n+1){border-right:1px solid #e3e3e3}.list article:nth-child(2n){border-right:none}}@media screen and (max-width:1279px){.list article{border-right:none!important}}.list article .top{text-align:right;border-bottom:1px solid #e3e3e3;margin-bottom:.75em;font-weight:700;color:#495296}@media screen and (max-width:736px){.list figure{width:120px;height:120px;overflow:hidden}.list figure+section{margin-top:-1.5em;margin-left:120px}.list article{text-align:right;font-size:.9em;padding:10px;height:auto}.list article .marker{font-size:1em}}@media screen and (max-width:480px){aside.left.small-facets{-moz-column-count:1;-webkit-column-count:1;-ms-column-count:1;column-count:1}.list{margin-left:-.5em}}.sort{float:right}@media screen and (max-width:1024px){.sort{float:none;border-bottom:1px solid #e3e3e3;margin-bottom:.3em;padding-bottom:.3em}}.prices{margin-left:225px;padding-left:.5em}@media screen and (max-width:736px){.prices{margin-left:120px}}@media screen and (max-width:480px){.prices{clear:both;margin-left:0}}
+/*# sourceMappingURL=../maps/mini-list.css.map */
+
+            </style>
+	<script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-T2782C"></script><script async="" src="https://static.hotjar.com/c/hotjar-1250268.js?sv=6"></script><script async="" src="https://script.hotjar.com/modules.a688a4aac2767469ffa8.js" charset="utf-8"></script><style type="text/css">iframe#_hjRemoteVarsFrame {display: none !important; width: 1px !important; height: 1px !important; opacity: 0 !important; pointer-events: none !important;}</style></head>
+<body class="desktop" itemscope="" itemtype="https://schema.org/WebPage" style="min-width: 0px;">
+                
+<svg xmlns="http://www.w3.org/2000/svg" class="hidden">
+<symbol id="logo-books-express" viewBox="0 0 215 26"><path d="M0,25L3.88,0.49h6.3q4.58,0,6.59,1.33a4.8,4.8,0,0,1,2,4.32,5.75,5.75,0,0,1-1.3,3.92,7,7,0,0,1-3.91,2.07,5.46,5.46,0,0,1,3,1.9,5.25,5.25,0,0,1,1,3.29,7.63,7.63,0,0,1-.72,3.27,7.11,7.11,0,0,1-2,2.58A7.41,7.41,0,0,1,12,24.59,17.42,17.42,0,0,1,7.64,25H0ZM7.54,19.9L7.89,20l0.47,0a2.18,2.18,0,0,0,1.83-.81,3.71,3.71,0,0,0,.63-2.32,2.39,2.39,0,0,0-.57-1.74,2.31,2.31,0,0,0-1.72-.58H8.33ZM9,10l0.28,0H9.8a2.46,2.46,0,0,0,1.8-.65,2.35,2.35,0,0,0,.66-1.76,1.82,1.82,0,0,0-.53-1.42,2.23,2.23,0,0,0-1.55-.48L10,5.7l-0.22,0Z" style="fill:#162b75"></path><path d="M27.16,25.52A6.9,6.9,0,0,1,21.59,23a10.12,10.12,0,0,1-2.11-6.71,25.18,25.18,0,0,1,.88-6.64,17.66,17.66,0,0,1,2.38-5.41,9.91,9.91,0,0,1,3.4-3.16,9.13,9.13,0,0,1,4.41-1,6.92,6.92,0,0,1,5.6,2.48,10.2,10.2,0,0,1,2.07,6.75,25.1,25.1,0,0,1-.87,6.62A18,18,0,0,1,35,21.31a9.57,9.57,0,0,1-3.37,3.15A9.21,9.21,0,0,1,27.16,25.52Zm-0.82-8.67a4.15,4.15,0,0,0,.37,2,1.26,1.26,0,0,0,1.17.63,1.64,1.64,0,0,0,1.25-.57,5.11,5.11,0,0,0,.94-1.83A23,23,0,0,0,31,13.14a30,30,0,0,0,.34-4.4,4.44,4.44,0,0,0-.35-2,1.16,1.16,0,0,0-1.09-.65,1.78,1.78,0,0,0-1.33.56,4.54,4.54,0,0,0-.93,1.81,26,26,0,0,0-.91,4A28.81,28.81,0,0,0,26.34,16.84Z" style="fill:#162b75"></path><path d="M46.58,25.52A6.9,6.9,0,0,1,41,23a10.12,10.12,0,0,1-2.11-6.71,25.18,25.18,0,0,1,.88-6.64,17.66,17.66,0,0,1,2.38-5.41,9.91,9.91,0,0,1,3.4-3.16A9.13,9.13,0,0,1,50,0a6.92,6.92,0,0,1,5.6,2.48,10.2,10.2,0,0,1,2.07,6.75,25.1,25.1,0,0,1-.87,6.62,18,18,0,0,1-2.39,5.43A9.57,9.57,0,0,1,51,24.47,9.21,9.21,0,0,1,46.58,25.52Zm-0.82-8.67a4.15,4.15,0,0,0,.37,2,1.26,1.26,0,0,0,1.17.63,1.64,1.64,0,0,0,1.25-.57,5.11,5.11,0,0,0,.94-1.83,23,23,0,0,0,.89-3.94,30,30,0,0,0,.34-4.4,4.44,4.44,0,0,0-.35-2,1.16,1.16,0,0,0-1.09-.65A1.78,1.78,0,0,0,48,6.63,4.54,4.54,0,0,0,47,8.44a26,26,0,0,0-.91,4A28.81,28.81,0,0,0,45.76,16.84Z" style="fill:#162b75"></path><path d="M57.46,25L61.34,0.49h6.81L66.54,10.74,71.93,0.49h6.94L72.1,11.82,75.17,25H67.78L66.06,13.87,64.29,25H57.46Z" style="fill:#162b75"></path><path d="M76.75,17.48A9.17,9.17,0,0,0,79.14,19a6.27,6.27,0,0,0,2.41.52,2.28,2.28,0,0,0,1.62-.56,2,2,0,0,0,.6-1.54,3.21,3.21,0,0,0-.5-1.67,12.24,12.24,0,0,0-1.94-2.21,12.13,12.13,0,0,1-2.39-3,6.26,6.26,0,0,1-.65-2.86A7.26,7.26,0,0,1,80.5,2.07a8.46,8.46,0,0,1,6-2.07,12.13,12.13,0,0,1,2.93.34,13.62,13.62,0,0,1,2.83,1.07l-1,6a10.16,10.16,0,0,0-2.15-1.18,5.54,5.54,0,0,0-2-.4,1.93,1.93,0,0,0-1.35.45,1.56,1.56,0,0,0-.49,1.22q0,1,1.89,2.92l0.37,0.37A11.77,11.77,0,0,1,90.07,14a7.55,7.55,0,0,1,.6,3.11,8.1,8.1,0,0,1-2.42,6.2,9.28,9.28,0,0,1-6.61,2.27,13,13,0,0,1-3.39-.43A8.54,8.54,0,0,1,75.57,24Z" style="fill:#162b75"></path><path d="M99.56,25l3.88-24.54h12.09l-0.94,6h-5.27L108.8,9.56h4.77l-0.89,5.75h-4.77l-0.55,3.38h5.28l-1,6.34H99.56Z" style="fill:#162b75"></path><path d="M120,12.61L116.71,0.49h7.06L124.52,7l2.81-6.51h7.09l-7.09,12.12L131,25h-7.22l-1.1-6.47L119.59,25h-7.22Z" style="fill:#162b75"></path><path d="M132.18,25l3.88-24.54h5.85q4.9,0,7.07,1.62t2.17,5.25q0,4.59-2.58,7.05t-7.38,2.46l-0.46,0-0.46,0L139,25h-6.82ZM142,5.92l-0.85,5.43,0.28,0h0.37a2.68,2.68,0,0,0,2.18-.87,4.06,4.06,0,0,0,.73-2.64,1.8,1.8,0,0,0-.6-1.47,2.71,2.71,0,0,0-1.76-.5H142Z" style="fill:#162b75"></path><path d="M150.58,25l3.88-24.54h5.75q5.42,0,7.47,1.43t2,4.87a8.7,8.7,0,0,1-1.3,4.94,6.14,6.14,0,0,1-3.74,2.56l3,10.74h-7.22l-1.54-9.92L157.4,25h-6.82Zm9-13.6h0.37a3,3,0,0,0,2.39-1,4.25,4.25,0,0,0,.84-2.83,2.06,2.06,0,0,0-.54-1.56,2.35,2.35,0,0,0-1.66-.5l-0.23,0-0.26,0Z" style="fill:#162b75"></path><path d="M169,25l3.88-24.54H185l-0.94,6h-5.27l-0.52,3.13H183l-0.89,5.75h-4.77l-0.55,3.38h5.28l-1,6.34H169Z" style="fill:#162b75"></path><path d="M183.94,17.48A9.17,9.17,0,0,0,186.34,19a6.27,6.27,0,0,0,2.41.52,2.28,2.28,0,0,0,1.62-.56,2,2,0,0,0,.6-1.54,3.21,3.21,0,0,0-.5-1.67,12.26,12.26,0,0,0-1.94-2.21,12.15,12.15,0,0,1-2.39-3,6.26,6.26,0,0,1-.65-2.86,7.26,7.26,0,0,1,2.22-5.58,8.46,8.46,0,0,1,6-2.07,12.13,12.13,0,0,1,2.93.34,13.62,13.62,0,0,1,2.83,1.07l-1,6a10.16,10.16,0,0,0-2.15-1.18,5.54,5.54,0,0,0-2-.4,1.93,1.93,0,0,0-1.35.45,1.56,1.56,0,0,0-.49,1.22q0,1,1.89,2.92l0.37,0.37A11.77,11.77,0,0,1,197.27,14a7.54,7.54,0,0,1,.6,3.11,8.1,8.1,0,0,1-2.42,6.2,9.28,9.28,0,0,1-6.61,2.27,13,13,0,0,1-3.39-.43A8.54,8.54,0,0,1,182.77,24Z" style="fill:#162b75"></path><path d="M199.48,17.48A9.17,9.17,0,0,0,201.87,19a6.27,6.27,0,0,0,2.41.52,2.28,2.28,0,0,0,1.62-.56,2,2,0,0,0,.6-1.54,3.21,3.21,0,0,0-.5-1.67,12.26,12.26,0,0,0-1.94-2.21,12.15,12.15,0,0,1-2.39-3A6.26,6.26,0,0,1,201,7.65a7.26,7.26,0,0,1,2.22-5.58,8.46,8.46,0,0,1,6-2.07,12.13,12.13,0,0,1,2.93.34A13.62,13.62,0,0,1,215,1.41l-1,6a10.16,10.16,0,0,0-2.15-1.18,5.54,5.54,0,0,0-2-.4,1.93,1.93,0,0,0-1.35.45A1.56,1.56,0,0,0,208,7.48q0,1,1.89,2.92l0.37,0.37A11.77,11.77,0,0,1,212.81,14a7.54,7.54,0,0,1,.6,3.11,8.1,8.1,0,0,1-2.42,6.2,9.28,9.28,0,0,1-6.61,2.27,13,13,0,0,1-3.39-.43A8.54,8.54,0,0,1,198.31,24Z" style="fill:#162b75"></path></symbol>
+<symbol id="logo-be" viewBox="0 0 36 26"><path d="M0,25.77L4.07,0H10.7q4.81,0,6.92,1.39a5,5,0,0,1,2.11,4.54A6,6,0,0,1,18.35,10a7.35,7.35,0,0,1-4.11,2.17,5.73,5.73,0,0,1,3.12,2,5.51,5.51,0,0,1,1.1,3.46,8,8,0,0,1-.76,3.43,7.47,7.47,0,0,1-2.13,2.71,7.78,7.78,0,0,1-3,1.5A18.3,18.3,0,0,1,8,25.77H0Zm7.92-5.38,0.37,0.05,0.49,0a2.29,2.29,0,0,0,1.92-.85,3.9,3.9,0,0,0,.66-2.44,2.51,2.51,0,0,0-.6-1.83A2.43,2.43,0,0,0,9,14.74H8.75ZM9.5,9.94l0.3,0h0.49a2.58,2.58,0,0,0,1.89-.68,2.46,2.46,0,0,0,.69-1.84A1.92,1.92,0,0,0,12.32,6a2.34,2.34,0,0,0-1.62-.5l-0.25,0-0.23,0Z" style="fill:#162b75"></path><path d="M19.23,25.77L23.3,0H36L35,6.25H29.48L28.94,9.53h5l-0.93,6H28l-0.58,3.55H33l-1.05,6.65H19.23Z" style="fill:#162b75"></path></symbol>
+</svg>
+<!-- Header -->
+<header id="header" class="up">
+                                <div class="left"><a href="/categorii-produse" id="products-header" style="display: none;"><i class="fa fa-menu" data-jq-dropdown="#products-menu"></i></a></div>
+                
+                        <div id="logo"><a href="https://www.books-express.ro" class="middle logo-full" title="Books Express este o librarie online cu carti din toata lumea"><svg xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Libraria online Books Express"><title>Libraria online Books Express</title><use xlink:href="#logo-books-express"></use></svg></a></div>
+            <div id="user-menu" class="nav-right mobile-nav">
+                <ul class="nav">
+                                                                
+                            <li><a id="show-cart" style="position: relative" class="drop-menu" data-jq-dropdown="#cart-data" href="/cart"><i class="fa fa-basket"></i>
+                            <span class="hide-medium"> Coș</span> <i class="fa fa-angle-down"></i></a></li>
+                            <li><a id="show-user" class="drop-menu" data-jq-dropdown="#user-data" href="/user"><i class="fa fa-user"></i><span class="hide-medium"> Cont</span> <i class="fa fa-angle-down"></i></a></li>
+                            <li><a id="show-lists" class="drop-menu" data-jq-dropdown="#lists-data" href="/user/lists"><i class="fa fa-heart"></i><span class="hide-medium"> Liste</span> <i class="fa fa-angle-down"></i></a></li>
+                        
+                                        </ul>
+            </div>
+                                <div id="nav-center" class="hide-small">
+                        <form action="/search" method="GET" id="search-form">
+                        <button class="button special icon fa-search right" type="submit"></button>
+                        <div class="fill">
+                            <input type="text" id="search" name="q" placeholder="Caută după titlu, autor sau cuvinte cheie" autocomplete="off">
+                        </div>
+                        </form>
+                    </div>
+                
+                    
+    </header>
+
+<div id="search-suggest" style="display: none;">
+    <ul class="items"></ul>
+</div>
+
+            
+    <div id="submenu">
+    <ul>
+        <li class="nav"><a href="/categorii-produse" id="products" data-jq-dropdown="#products-menu">Produse <i class="fa fa-down-open"></i></a></li>
+        <li class="hide-small right"><a href="/contact"><i class="fa fa-info-circled"></i> Contact</a></li>
+                                <li><a href="/reduceri">Reduceri</a></li>
+        <li><a href="/top/carti">Top vânzări</a></li>
+        
+        <li><a href="/carti?n=1">Noutăți</a></li>
+        
+        <li class="hide-medium"><a href="/carti/lifestyle-cadouri/wzg">Cadouri</a></li>
+        <li><a href="/blog">Blog</a></li>
+        <li class="hide-medium"><a href="/newsletter">Abonează-te la newsletter!</a></li>
+        
+    </ul>
+    </div>
+    <div id="products-menu" class="jq-dropdown jq-dropdown-tip " style="position: absolute; top: 5.4em; left: 1em;">
+    <a class="no-style" href="/carti"><label>Cărți</label></a>
+   <ul class="jq-dropdown-menu">
+          <li><a class="category-menu" href="/carti/fictiune/f" data-id="#prod-fictiune"><i class="fa fa-angle-right right color-bold"></i> Ficțiune</a></li>
+                 <li><a class="category-menu" href="/carti/business/k" data-id="#prod-business"><i class="fa fa-angle-right right color-bold"></i> Business</a></li>
+                 <li><a class="category-menu" href="/carti/medicina/m" data-id="#prod-medicina"><i class="fa fa-angle-right right color-bold"></i> Medicină</a></li>
+                 <li><a class="category-menu" href="/carti/lifestyle/w" data-id="#prod-lifestyle"><i class="fa fa-angle-right right color-bold"></i> Lifestyle</a></li>
+                 <li><a class="category-menu" href="/carti/copii-si-adolescenti/y" data-id="#prod-copii-tineri"><i class="fa fa-angle-right right color-bold"></i> Copii și adolescenți</a></li>
+                 <li><a class="category-menu" href="/carti/biografii-memorii-jurnale/b" data-id="#prod-biografii"><i class="fa fa-angle-right right color-bold"></i> Biografii</a></li>
+                 <li><a class="category-menu" href="/carti/arta-arhitectura-si-design/a" data-id="#prod-arte"><i class="fa fa-angle-right right color-bold"></i> Artă, arhitectură şi design</a></li>
+                 <li><a class="category-menu" href="/carti/calculatoare-si-it/u" data-id="#prod-it"><i class="fa fa-angle-right right color-bold"></i> Calculatoare și IT</a></li>
+                 <li><a class="category-menu" href="/carti/stiinte/s" data-id="#prod-stiinte"><i class="fa fa-angle-right right color-bold"></i> Științe</a></li>
+                 <li><a class="category-menu" href="/carti/tehnologie-si-inginerie/t" data-id="#prod-inginerie"><i class="fa fa-angle-right right color-bold"></i> Tehnologie și inginerie</a></li>
+                            <li class="jq-dropdown-divider"></li>
+                     <li><a class="category-menu" href="#" data-id="#prod-altele"><i class="fa fa-angle-right right color-bold"></i> Papetărie, jocuri, reviste</a></li>
+             </ul>
+   <div id="products-submenus">
+                               <div id="prod-fictiune" class="prod-submenu">
+                <h4><a class="no-style" href="/carti/fictiune/f">Ficțiune</a></h4>
+                                <ul class="col3 right">
+                                                            <li class="strong"><a href="/top/carti/fictiune/f">Top vânzări</a></li>
+                                                                                  <li class="strong"><a href="/carti/fictiune/f?n=1">Noutăți</a></li>
+                                                                                  <li class="strong"><a href="/reduceri/fictiune">Reduceri</a></li>
+                                                                                  <li class="strong"><a href="/carti/fictiune/f?e=100">Livrare imediată</a></li>
+                                                                                  <li class="strong"><a href="/wished/carti/fictiune/f">Cele mai dorite</a></li>
+                                                                                  <li><a href="/nominalizarile-nebula-2017-romane/l/65921">Nominalizările Nebula 2017: Romane</a></li>
+                                                                                  <li><a href="/books-to-read-before-they-re-2017-movies/l/61746">Books to Read Before They're 2017 Movies</a></li>
+                                                        </ul>
+                
+                                <ul class="col2 right">
+                                                              <li class="strong">Autori celebri</li>
+                                              
+                                                                                <li><a href="/andrzej-sapkowski/c/1309945">Andrzej Sapkowski</a></li>
+                                                                                  <li><a href="/neil-gaiman/c/238463">Neil Gaiman</a></li>
+                                                                                  <li><a href="/j-k-rowling/c/552038">J. K. Rowling</a></li>
+                                                                                    <li class="strong">Edituri de top</li>
+                                              
+                                                                                <li><a href="/bloomsbury-publishing/b/100056433?s=F">Bloomsbury Publishing</a></li>
+                                                                                  <li><a href="/penguin-books/b/100064781?s=F">Penguin Books</a></li>
+                                                                                  <li><a href="/little-brown-book-group/b/100054787?s=F">Little Brown Book Group</a></li>
+                                                                                  <li><a href="//b/100054773?s=F"></a></li>
+                                                                                    <li class="strong">Serii</li>
+                                              
+                                                                                <li><a href="/the-walking-dead/s/90006578">The Walking Dead</a></li>
+                                                                                  <li><a href="/romane-warcraft/s/90654906">Romane Warcraft</a></li>
+                                                                                  <li><a href="/the-witcher-orion/s/90654874">The Witcher – Orion</a></li>
+                                                                                  <li><a href="/me-before-you/s/90609816">Me Before You</a></li>
+                                                        </ul>
+                                <ul class="col1 left">
+                                                        <li><a href="/carti/fictiune-aventura/fj">Aventură</a></li>
+                                                                              <li><a href="/carti/fictiune-comics-si-romane-grafice/fx">Comics și romane grafice</a></li>
+                                                                              <li><a href="/carti/fictiune-fantasy/fm">Fantasy</a></li>
+                                                                              <li><a href="/carti/fictiune-fictiune-clasica/fc">Ficţiune clasică</a></li>
+                                                                              <li><a href="/carti/fictiune-fictiune-contemporana/fa">Ficţiune contemporană</a></li>
+                                                                              <li><a href="/carti/fictiune-fictiune-erotica/fp">Ficţiune erotică</a></li>
+                                                                              <li><a href="/carti/fictiune-fictiune-istorica/fv">Ficţiune istorică</a></li>
+                                                                              <li><a href="/carti/fictiune-fictiune-spirituala/fw">Ficţiune spirituală</a></li>
+                                                                              <li><a href="/carti/fictiune-horror-si-fantome/fk">Horror şi fantome</a></li>
+                                                                              <li><a href="/carti/fictiune-romane-de-dragoste/fr">Romane de dragoste</a></li>
+                                                                              <li><a href="/carti/fictiune-romane-politiste/ff">Romane poliţiste</a></li>
+                                                                              <li><a href="/carti/fictiune-saga/ft">Saga</a></li>
+                                                                              <li><a href="/carti/fictiune-science-fiction/fl">Science fiction</a></li>
+                                                                              <li><a href="/carti/fictiune-thriller-suspans/fh">Thriller &amp; Suspans</a></li>
+                                                      </ul>
+            </div>
+                                          <div id="prod-business" class="prod-submenu">
+                <h4><a class="no-style" href="/carti/business/k">Business</a></h4>
+                                <ul class="col3 right">
+                                                            <li class="strong"><a href="/top/carti/business/k">Top vânzări</a></li>
+                                                                                  <li class="strong"><a href="/carti/business/k?n=1">Noutăți</a></li>
+                                                                                  <li class="strong"><a href="/reduceri/business">Reduceri</a></li>
+                                                                                  <li class="strong"><a href="/carti/business/k?e=100">Livrare imediată</a></li>
+                                                                                  <li class="strong"><a href="/wished/carti/business/k">Cele mai dorite</a></li>
+                                                                                  <li><a href="/lista-de-lectura-a-lui-bill-gates/l/60761">Lista de lectură a lui Bill Gates</a></li>
+                                                                                  <li><a href="/recomandarile-lui-malcolm-gladwell/l/56609">Recomandările lui Malcolm Gladwell</a></li>
+                                                        </ul>
+                
+                                <ul class="col2 right">
+                                                              <li class="strong">Autori celebri</li>
+                                              
+                                                                                <li><a href="/philip-kotler/c/40259">Philip Kotler</a></li>
+                                                                                  <li><a href="/timothy-ferriss/c/1014028">Timothy Ferriss</a></li>
+                                                                                  <li><a href="/taiichi-ohno/c/572413">Taiichi Ohno</a></li>
+                                                                                  <li><a href="/seth-godin/c/246606">Seth Godin</a></li>
+                                                                                  <li><a href="/dale-carnegie/c/517689">Dale Carnegie</a></li>
+                                                                                    <li class="strong">Edituri de top</li>
+                                              
+                                                                                <li><a href="//b/100103522?s=K"></a></li>
+                                                                                  <li><a href="/wiley/b/100137247?s=K">Wiley</a></li>
+                                                                                  <li><a href="/kogan-page/b/100134067?s=K">Kogan Page</a></li>
+                                                                                  <li><a href="/publica/b/100081889?s=K">PUBLICA</a></li>
+                                                                                    <li class="strong">Serii</li>
+                                              
+                                                                                <li><a href="/ted-books/s/90045236">TED Books</a></li>
+                                                                                  <li><a href="/the-4-hour-work-week/s/90655342">The 4-Hour Work Week</a></li>
+                                                        </ul>
+                                <ul class="col1 left">
+                                                        <li><a href="/carti/business-afaceri-si-management/kj">Afaceri şi management</a></li>
+                                                                              <li><a href="/carti/business-antreprenoriat/kjh">Antreprenoriat</a></li>
+                                                                              <li><a href="/carti/business-dezvoltarea-carierei/ks">Dezvoltarea carierei</a></li>
+                                                                              <li><a href="/carti/business-economie/kc">Economie</a></li>
+                                                                              <li><a href="/carti/business-finante-si-contabilitate/kf">Finanţe şi contabilitate</a></li>
+                                                                              <li><a href="/carti/business-legislatie-si-drept/kl">Legislaţie şi drept</a></li>
+                                                                              <li><a href="/carti/business-management/kjm">Management</a></li>
+                                                                              <li><a href="/carti/business-studii-industriale/kn">Studii industriale</a></li>
+                                                                              <li><a href="/carti/business-vanzari-si-marketing/kjs">Vânzări şi marketing</a></li>
+                                                      </ul>
+            </div>
+                                          <div id="prod-medicina" class="prod-submenu">
+                <h4><a class="no-style" href="/carti/medicina/m">Medicină</a></h4>
+                                <ul class="col3 right">
+                                                            <li class="strong"><a href="/top/carti/medicina/m">Top vânzări</a></li>
+                                                                                  <li class="strong"><a href="/carti/medicina/m?n=1">Noutăți</a></li>
+                                                                                  <li class="strong"><a href="/carti/medicina/m?e=100">Livrare imediată</a></li>
+                                                                                  <li class="strong"><a href="/wished/carti/medicina/m">Cele mai dorite</a></li>
+                                                                                  <li><a href="/atlase-medicale-pentru-studenti/l/70789">Atlase medicale pentru studenți</a></li>
+                                                        </ul>
+                
+                                <ul class="col2 right">
+                                                              <li class="strong">Autori celebri</li>
+                                              
+                                                                                <li><a href="/carl-e-misch/c/644049">Carl E. Misch</a></li>
+                                                                                  <li><a href="/donald-c-plumb/c/1239587">Donald C. Plumb</a></li>
+                                                                                  <li><a href="/anne-m-gilroy/c/1678190">Anne M. Gilroy</a></li>
+                                                                                    <li class="strong">Edituri de top</li>
+                                              
+                                                                                <li><a href="/elsevier/b/100056139?s=M">Elsevier</a></li>
+                                                                                  <li><a href="/oxford-university-press/b/100081127?s=M">Oxford University Press</a></li>
+                                                                                  <li><a href="//b/100368082?s=M"></a></li>
+                                                                                    <li class="strong">Serii</li>
+                                              
+                                                                                <li><a href="//s/3007523"></a></li>
+                                                                                  <li><a href="/netter-atlase-si-carti-medicale/s/90620409">Netter - Atlase și cărți medicale </a></li>
+                                                                                  <li><a href="/carti-medicina-harrison-s/s/90612135">Cărți medicină Harrison's</a></li>
+                                                                                  <li><a href="/gray-s-anatomy-atlase-si-carti-medicale/s/90620366">Gray's Anatomy - Atlase și cărți medicale</a></li>
+                                                        </ul>
+                                <ul class="col1 left">
+                                                        <li><a href="/carti/medicina-alte-specialitati-medicale/mm">Alte specialități medicale</a></li>
+                                                                              <li><a href="/carti/medicina-asistenta-medicala/mq">Asistenţă medicală</a></li>
+                                                                              <li><a href="/carti/medicina-discipline-chirurgicale/mn">Discipline chirurgicale</a></li>
+                                                                              <li><a href="/carti/medicina-generalitati/mb">Generalități</a></li>
+                                                                              <li><a href="/carti/medicina-medicina-alternativa/mx">Medicină alternativă</a></li>
+                                                                              <li><a href="/carti/medicina-medicina-interna/mj">Medicină internă</a></li>
+                                                                              <li><a href="/carti/medicina-medicina-preclinica/mf">Medicină preclinică</a></li>
+                                                                              <li><a href="/carti/medicina-medicina-veterinara/mz">Medicină veterinară</a></li>
+                                                                              <li><a href="/carti/medicina-referinte-medicale/mr">Referințe medicale</a></li>
+                                                                              <li><a href="/carti/medicina-stomatologie/mmd">Stomatologie</a></li>
+                                                      </ul>
+            </div>
+                                          <div id="prod-lifestyle" class="prod-submenu">
+                <h4><a class="no-style" href="/carti/lifestyle/w">Lifestyle</a></h4>
+                                <ul class="col3 right">
+                                                            <li class="strong"><a href="/top/carti/lifestyle/w">Top vânzări</a></li>
+                                                                                  <li class="strong"><a href="/carti/lifestyle/w?n=1">Noutăți</a></li>
+                                                                                  <li class="strong"><a href="/reduceri/lifestyle">Reduceri</a></li>
+                                                                                  <li class="strong"><a href="/carti/lifestyle/w?e=100">Livrare imediată</a></li>
+                                                                                  <li class="strong"><a href="/wished/carti/lifestyle/w">Cele mai dorite</a></li>
+                                                        </ul>
+                
+                                <ul class="col2 right">
+                                                              <li class="strong">Autori celebri</li>
+                                              
+                                                                                <li><a href="/raymond-blanc/c/511828">Raymond Blanc</a></li>
+                                                                                  <li><a href="/jane-packer/c/559007">Jane Packer</a></li>
+                                                                                  <li><a href="/johanna-basford/c/101132729">Johanna Basford</a></li>
+                                                                                  <li><a href="/jamie-oliver/c/525611">Jamie Oliver</a></li>
+                                                                                    <li class="strong">Edituri de top</li>
+                                              
+                                                                                <li><a href="/assouline/b/100111056?s=W">Assouline</a></li>
+                                                                                  <li><a href="//b/100064683?s=W"></a></li>
+                                                                                  <li><a href="/chronicle-books/b/100055499?s=W">Chronicle Books</a></li>
+                                                                                  <li><a href="/rp-s-and-cico-books/b/100065394?s=W">RP&amp;S and Cico Books</a></li>
+                                                                                    <li class="strong">Serii</li>
+                                              
+                                                                                <li><a href="/reviste-si-publicatii-kinfolk/s/90007367">Reviste și publicații Kinfolk</a></li>
+                                                                                  <li><a href="/carti-de-colorat-johanna-basford/s/90612157">Cărți de colorat Johanna Basford</a></li>
+                                                                                  <li><a href="/carti-the-school-of-life/s/90007361">Cărți The School of Life</a></li>
+                                                        </ul>
+                                <ul class="col1 left">
+                                                        <li><a href="/carti/lifestyle-animale-de-companie/wn">Animale de companie</a></li>
+                                                                              <li><a href="/carti/lifestyle-casa-si-gradina/wk">Casa și grădina</a></li>
+                                                                              <li><a href="/carti/lifestyle-colectii-si-antichitati/wc">Colecții și antichităţi</a></li>
+                                                                              <li><a href="/carti/lifestyle-dezvoltare-personala/wp">Dezvoltare personală</a></li>
+                                                                              <li><a href="/carti/lifestyle-familia-si-sanatatea/we">Familia şi sănătatea</a></li>
+                                                                              <li><a href="/carti/lifestyle-fashion-si-stil-personal/wj">Fashion și stil personal</a></li>
+                                                                              <li><a href="/carti/lifestyle-gastronomie/wb">Gastronomie</a></li>
+                                                                              <li><a href="/carti/lifestyle-gradinarit/wm">Grădinărit</a></li>
+                                                                              <li><a href="/carti/lifestyle-handmade/wf">Handmade</a></li>
+                                                                              <li><a href="/carti/lifestyle-produse-diverse/wz">Produse diverse</a></li>
+                                                                              <li><a href="/carti/lifestyle-spiritualitate/wx">Spiritualitate</a></li>
+                                                                              <li><a href="/carti/lifestyle-sport-si-recreere/ws">Sport si recreere</a></li>
+                                                                              <li><a href="/carti/lifestyle-transport/wg">Transport</a></li>
+                                                                              <li><a href="/carti/lifestyle-umor/wh">Umor</a></li>
+                                                                              <li><a href="/carti/lifestyle-vacanta-si-calatorii/wt">Vacanţă şi călătorii</a></li>
+                                                      </ul>
+            </div>
+                                          <div id="prod-copii-tineri" class="prod-submenu">
+                <h4><a class="no-style" href="/carti/copii-si-adolescenti/y">Copii și adolescenți</a></h4>
+                                <ul class="col3 right">
+                                                            <li class="strong"><a href="/top/carti/copii-si-adolescenti/y">Top vânzări</a></li>
+                                                                                  <li class="strong"><a href="/carti/copii-si-adolescenti/y?n=1">Noutăți</a></li>
+                                                                                  <li class="strong"><a href="/reduceri/copii-tineri">Reduceri</a></li>
+                                                                                  <li class="strong"><a href="/carti/copii-si-adolescenti/y?e=100">Livrare imediată</a></li>
+                                                                                  <li class="strong"><a href="/wished/carti/copii-si-adolescenti/y">Cele mai dorite</a></li>
+                                                                                  <li><a href="/100-cele-mai-bune-carti-pentru-copii-ale-tuturor-timpurilor/l/69633">100 cele mai bune cărți pentru copii ale tuturor timpurilor</a></li>
+                                                        </ul>
+                
+                                <ul class="col2 right">
+                                                              <li class="strong">Autori celebri</li>
+                                              
+                                                                                <li><a href="/j-k-rowling/c/552038">J. K. Rowling</a></li>
+                                                                                  <li><a href="/sarah-j-maas/c/4022884">Sarah J. Maas</a></li>
+                                                                                  <li><a href="/leigh-bardugo/c/3932711">Leigh Bardugo</a></li>
+                                                                                  <li><a href="/roald-dahl/c/157147">Roald Dahl</a></li>
+                                                                                    <li class="strong">Edituri de top</li>
+                                              
+                                                                                <li><a href="/penguin-books/b/100064781?s=Y">Penguin Books</a></li>
+                                                                                  <li><a href="/little-brown-book-group/b/100054787?s=Y">Little Brown Book Group</a></li>
+                                                                                  <li><a href="/usborne-publishing/b/100134042?s=Y">Usborne Publishing</a></li>
+                                                                                  <li><a href="/hachette-children-s-group/b/100128931?s=Y">Hachette Children's Group</a></li>
+                                                                                    <li class="strong">Serii</li>
+                                              
+                                                                                <li><a href="/harry-potter-editii-2017/s/90654657">Harry Potter ediții 2017</a></li>
+                                                                                  <li><a href="/rebel-girls/s/90655105">Rebel Girls</a></li>
+                                                        </ul>
+                                <ul class="col1 left">
+                                                          <li class="strong">Vârstă</li>
+                                              
+                                                                          <li><a href="/carti/copii-si-adolescenti/y?a=2">Sub 2 ani</a></li>
+                                                                              <li><a href="/carti/copii-si-adolescenti/y?a=5">Între 3-5 ani</a></li>
+                                                                              <li><a href="/carti/copii-si-adolescenti/y?a=8">Între 6-8 ani</a></li>
+                                                                              <li><a href="/carti/copii-si-adolescenti/y?a=11">Între 9-11 ani</a></li>
+                                                                              <li><a href="/carti/copii-si-adolescenti/y?a=16">Adolescenți</a></li>
+                                                                                <li class="strong">Categorie</li>
+                                              
+                                                                          <li><a href="/carti/copii-si-adolescenti-dezvoltare-personala-copii/yx">Dezvoltare personală copii</a></li>
+                                                                              <li><a href="/carti/copii-si-adolescenti-dictionare/yr">Dicționare</a></li>
+                                                                              <li><a href="/carti/copii-si-adolescenti-fictiune/yf">Ficțiune</a></li>
+                                                                              <li><a href="/carti/copii-si-adolescenti-ilustrate-si-interactive/yb">Ilustrate și interactive</a></li>
+                                                                              <li><a href="/carti/copii-si-adolescenti-material-educational/yq">Material educaţional</a></li>
+                                                                              <li><a href="/carti/copii-si-adolescenti-non-fictiune/yn">Non ficţiune</a></li>
+                                                                              <li><a href="/carti/copii-si-adolescenti-parenting/yp">Parenting</a></li>
+                                                                              <li><a href="/carti/copii-si-adolescenti-poezie/yd">Poezie</a></li>
+                                                      </ul>
+            </div>
+                                          <div id="prod-biografii" class="prod-submenu">
+                <h4><a class="no-style" href="/carti/biografii-memorii-jurnale/b">Biografii</a></h4>
+                                <ul class="col3 right">
+                                                            <li class="strong"><a href="/top/carti/biografii-memorii-jurnale/b">Top vânzări</a></li>
+                                                                                  <li class="strong"><a href="/carti/biografii-memorii-jurnale/b?n=1">Noutăți</a></li>
+                                                                                  <li class="strong"><a href="/reduceri/biografii">Reduceri</a></li>
+                                                                                  <li class="strong"><a href="/carti/biografii-memorii-jurnale/b?e=100">Livrare imediată</a></li>
+                                                                                  <li class="strong"><a href="/wished/carti/biografii-memorii-jurnale/b">Cele mai dorite</a></li>
+                                                        </ul>
+                
+                                <ul class="col2 right">
+                                                              <li class="strong">Autori celebri</li>
+                                              
+                                                                                <li><a href="/caitlin-moran/c/3485483">Caitlin Moran</a></li>
+                                                                                  <li><a href="/walter-isaacson/c/515482">Walter Isaacson</a></li>
+                                                                                  <li><a href="/corey-taylor/c/760430">Corey Taylor</a></li>
+                                                                                  <li><a href="/paul-kalanithi/c/102781814">Paul Kalanithi</a></li>
+                                                                                    <li class="strong">Edituri de top</li>
+                                              
+                                                                                <li><a href="/harpercollins-publishers/b/100153544?s=B">HarperCollins Publishers</a></li>
+                                                                                  <li><a href="/random-house/b/100054754?s=B">Random House</a></li>
+                                                                                    <li class="strong">Serii</li>
+                                              
+                                                                                <li><a href="/victoria-books/s/90655340">Victoria Books</a></li>
+                                                        </ul>
+                                <ul class="col1 left">
+                                                        <li><a href="/carti/biografii-memorii-jurnale-general/bg">General</a></li>
+                                                                              <li><a href="/carti/biografii-memorii-jurnale-jurnale-personale-si-scrisori/bj">Jurnale personale şi scrisori</a></li>
+                                                                              <li><a href="/carti/biografii-memorii-jurnale-memorii/bm">Memorii</a></li>
+                                                                              <li><a href="/carti/biografii-memorii-jurnale-povesti-adevarate/bt">Povești adevărate</a></li>
+                                                      </ul>
+            </div>
+                                          <div id="prod-arte" class="prod-submenu">
+                <h4><a class="no-style" href="/carti/arta-arhitectura-si-design/a">Artă, arhitectură şi design</a></h4>
+                                <ul class="col3 right">
+                                                            <li class="strong"><a href="/top/carti/arta-arhitectura-si-design/a">Top vânzări</a></li>
+                                                                                  <li class="strong"><a href="/carti/arta-arhitectura-si-design/a?n=1">Noutăți</a></li>
+                                                                                  <li class="strong"><a href="/reduceri/arte">Reduceri</a></li>
+                                                                                  <li class="strong"><a href="/carti/arta-arhitectura-si-design/a?e=100">Livrare imediată</a></li>
+                                                                                  <li class="strong"><a href="/wished/carti/arta-arhitectura-si-design/a">Cele mai dorite</a></li>
+                                                        </ul>
+                
+                                <ul class="col2 right">
+                                                              <li class="strong">Autori celebri</li>
+                                              
+                                                                                <li><a href="/e-h-gombrich/c/1283498">E. H. Gombrich</a></li>
+                                                                                  <li><a href="/andy-warhol/c/978499">Andy Warhol</a></li>
+                                                                                  <li><a href="/susan-sontag/c/506038">Susan Sontag</a></li>
+                                                                                    <li class="strong">Edituri de top</li>
+                                              
+                                                                                <li><a href="/phaidon/b/100056861?s=A">Phaidon</a></li>
+                                                                                  <li><a href="/taschen-books/b/100121514?s=A">Taschen Books</a></li>
+                                                                                  <li><a href="/thames-hudson/b/100064842?s=A">Thames &amp; Hudson</a></li>
+                                                                                  <li><a href="//b/100139297?s=A"></a></li>
+                                                                                  <li><a href="/v-a-museum/b/100061055?s=A">V&amp;A Museum</a></li>
+                                                                                    <li class="strong">Serii</li>
+                                              
+                                                                                <li><a href="/taschen-basic-art-2-0/s/90655341">Taschen Basic Art 2.0</a></li>
+                                                        </ul>
+                                <ul class="col1 left">
+                                                        <li><a href="/carti/arta-arhitectura-si-design-albume-de-arta/ag">Albume de artă</a></li>
+                                                                              <li><a href="/carti/arta-arhitectura-si-design-arhitectura/am">Arhitectură</a></li>
+                                                                              <li><a href="/carti/arta-arhitectura-si-design-arta/ab">Artă</a></li>
+                                                                              <li><a href="/carti/arta-arhitectura-si-design-cinema-televiziune-si-radio/ap">Cinema, televiziune şi radio</a></li>
+                                                                              <li><a href="/carti/arta-arhitectura-si-design-dans-si-artele-spectacolului/as">Dans şi artele spectacolului</a></li>
+                                                                              <li><a href="/carti/arta-arhitectura-si-design-design-comercial/ak">Design comercial</a></li>
+                                                                              <li><a href="/carti/arta-arhitectura-si-design-fotografie/aj">Fotografie</a></li>
+                                                                              <li><a href="/carti/arta-arhitectura-si-design-istoria-artei/ac">Istoria artei</a></li>
+                                                                              <li><a href="/carti/arta-arhitectura-si-design-manuale-de-arta/af">Manuale de artă</a></li>
+                                                                              <li><a href="/carti/arta-arhitectura-si-design-muzica/av">Muzică</a></li>
+                                                                              <li><a href="/carti/arta-arhitectura-si-design-teatru/an">Teatru</a></li>
+                                                      </ul>
+            </div>
+                                          <div id="prod-it" class="prod-submenu">
+                <h4><a class="no-style" href="/carti/calculatoare-si-it/u">Calculatoare și IT</a></h4>
+                                <ul class="col3 right">
+                                                            <li class="strong"><a href="/top/carti/calculatoare-si-it/u">Top vânzări</a></li>
+                                                                                  <li class="strong"><a href="/carti/calculatoare-si-it/u?n=1">Noutăți</a></li>
+                                                                                  <li class="strong"><a href="/carti/calculatoare-si-it/u?e=100">Livrare imediată</a></li>
+                                                                                  <li class="strong"><a href="/wished/carti/calculatoare-si-it/u">Cele mai dorite</a></li>
+                                                                                  <li><a href="/essential-cs-reading/l/70977">Essential CS Reading</a></li>
+                                                        </ul>
+                
+                                <ul class="col2 right">
+                                                              <li class="strong">Edituri de top</li>
+                                              
+                                                                                <li><a href="/apress/b/100057280?s=U">Apress</a></li>
+                                                                                  <li><a href="/wiley/b/100137247?s=U">Wiley</a></li>
+                                                                                  <li><a href="/o-reilly/b/100062120?s=U">O'Reilly</a></li>
+                                                                                  <li><a href="/microsoft-press/b/100061776?s=U">Microsoft Press</a></li>
+                                                                                  <li><a href="/cisco/b/100058334?s=U">CISCO</a></li>
+                                                                                  <li><a href="/addison-wesley-professional/b/100085905?s=U">Addison-Wesley Professional</a></li>
+                                                        </ul>
+                                <ul class="col1 left">
+                                                        <li><a href="/carti/calculatoare-si-it-aplicatii-de-afaceri/uf">Aplicaţii de afaceri</a></li>
+                                                                              <li><a href="/carti/calculatoare-si-it-baze-de-date/un">Baze de date</a></li>
+                                                                              <li><a href="/carti/calculatoare-si-it-certificari-it/uq">Certificări IT</a></li>
+                                                                              <li><a href="/carti/calculatoare-si-it-dezvoltare-software/um">Dezvoltare software</a></li>
+                                                                              <li><a href="/carti/calculatoare-si-it-echipament-de-calcul/uk">Echipament de calcul</a></li>
+                                                                              <li><a href="/carti/calculatoare-si-it-generalitati/ub">Generalități</a></li>
+                                                                              <li><a href="/carti/calculatoare-si-it-informatica/uy">Informatică</a></li>
+                                                                              <li><a href="/carti/calculatoare-si-it-retele-de-calculatoare/ut">Reţele de calculatoare</a></li>
+                                                                              <li><a href="/carti/calculatoare-si-it-securitatea-calculatoarelor/ur">Securitatea calculatoarelor</a></li>
+                                                                              <li><a href="/carti/calculatoare-si-it-sisteme-de-operare/ul">Sisteme de operare</a></li>
+                                                                              <li><a href="/carti/calculatoare-si-it-software-digital-media/ug">Software digital media</a></li>
+                                                                              <li><a href="/carti/calculatoare-si-it-stil-de-viata-digital/ud">Stil de viaţă digital</a></li>
+                                                      </ul>
+            </div>
+                                          <div id="prod-stiinte" class="prod-submenu">
+                <h4><a class="no-style" href="/carti/stiinte/s">Științe</a></h4>
+                                <ul class="col3 right">
+                                                            <li class="strong"><a href="/top/carti/stiinte/s">Top vânzări</a></li>
+                                                                                  <li class="strong"><a href="/carti/stiinte/s?n=1">Noutăți</a></li>
+                                                                                  <li class="strong"><a href="/reduceri/stiinte">Reduceri</a></li>
+                                                                                  <li class="strong"><a href="/carti/stiinte/s?e=100">Livrare imediată</a></li>
+                                                                                  <li class="strong"><a href="/wished/carti/stiinte/s">Cele mai dorite</a></li>
+                                                        </ul>
+                
+                                <ul class="col2 right">
+                                                              <li class="strong">Autori celebri</li>
+                                              
+                                                                                <li><a href="/carl-sagan/c/344671">Carl Sagan</a></li>
+                                                        </ul>
+                                <ul class="col1 left">
+                                                        <li><a href="/carti/stiinte-limba-contemporana/sc">Limbă contemporană</a></li>
+                                                                              <li><a href="/carti/stiinte-literatura/sd">Literatură</a></li>
+                                                                              <li><a href="/carti/stiinte-lucrari-de-referinta/sg">Lucrări de referință</a></li>
+                                                                              <li><a href="/carti/stiinte-matematica-si-stiinte/sp">Matematică şi ştiinţe</a></li>
+                                                                              <li><a href="/carti/stiinte-societate-si-stiinte-sociale/sj">Societate și Știinţe sociale</a></li>
+                                                                              <li><a href="/carti/stiinte-stiinte-umaniste/sh">Știinţe umaniste</a></li>
+                                                                              <li><a href="/carti/stiinte-stiintele-naturii-si-planificare/sr">Știinţele naturii și planificare</a></li>
+                                                      </ul>
+            </div>
+                                          <div id="prod-inginerie" class="prod-submenu">
+                <h4><a class="no-style" href="/carti/tehnologie-si-inginerie/t">Tehnologie și inginerie</a></h4>
+                                <ul class="col3 right">
+                                                            <li class="strong"><a href="/top/carti/tehnologie-si-inginerie/t">Top vânzări</a></li>
+                                                                                  <li class="strong"><a href="/carti/tehnologie-si-inginerie/t?n=1">Noutăți</a></li>
+                                                                                  <li class="strong"><a href="/carti/tehnologie-si-inginerie/t?e=100">Livrare imediată</a></li>
+                                                                                  <li class="strong"><a href="/wished/carti/tehnologie-si-inginerie/t">Cele mai dorite</a></li>
+                                                                                  <li><a href="/biblioteca-lui-elon-musk/l/71105">Biblioteca lui Elon Musk</a></li>
+                                                        </ul>
+                
+                                <ul class="col1 left">
+                                                        <li><a href="/carti/tehnologie-si-inginerie-agricultura/tv">Agricultură</a></li>
+                                                                              <li><a href="/carti/tehnologie-si-inginerie-alte-tehnologii/tt">Alte tehnologii</a></li>
+                                                                              <li><a href="/carti/tehnologie-si-inginerie-chimie-industriala/td">Chimie industrială</a></li>
+                                                                              <li><a href="/carti/tehnologie-si-inginerie-electronica-si-comunicatii/tj">Electronică şi comunicaţii</a></li>
+                                                                              <li><a href="/carti/tehnologie-si-inginerie-inginerie-biochimica/tc">Inginerie biochimică</a></li>
+                                                                              <li><a href="/carti/tehnologie-si-inginerie-inginerie-civila/tn">Inginerie civilă</a></li>
+                                                                              <li><a href="/carti/tehnologie-si-inginerie-inginerie-energetica/th">Inginerie energetică</a></li>
+                                                                              <li><a href="/carti/tehnologie-si-inginerie-inginerie-mecanica/tg">Inginerie mecanică</a></li>
+                                                                              <li><a href="/carti/tehnologie-si-inginerie-tehnologia-transporturilor/tr">Tehnologia transporturilor</a></li>
+                                                                              <li><a href="/carti/tehnologie-si-inginerie-tehnologie/tb">Tehnologie</a></li>
+                                                                              <li><a href="/carti/tehnologie-si-inginerie-stiinta-mediului/tq">Știinţa mediului</a></li>
+                                                      </ul>
+            </div>
+                                                             <div id="prod-altele" class="prod-submenu">
+                <h4>Papetărie, jocuri, reviste</h4>
+                                <ul class="col3 right">
+                                                              <li class="strong">Reviste</li>
+                                              
+                                                                                <li><a href="/decat-o-revista/s/90657118">Decât o Revistă</a></li>
+                                                                                  <li><a href="/celsius/s/90657119">Celsius</a></li>
+                                                                                  <li><a href="/iocan/s/90658625">Iocan</a></li>
+                                                                                  <li><a href="/running-mag/s/90612196">Running Mag</a></li>
+                                                                                  <li><a href="/reviste-si-publicatii-kinfolk/s/90007367">Reviste și publicații Kinfolk</a></li>
+                                                                                  <li><a href="/drift/s/90657113">DRIFT</a></li>
+                                                                                  <li><a href="/ambrosia/s/90657114">Ambrosia</a></li>
+                                                                                                              <li><hr class="minor">
+                                                
+                                                      </li></ul>
+                
+                                <ul class="col2 right">
+                                                              <li class="strong">Jocuri</li>
+                                              
+                                                                                <li><a href="//s/90609825"></a></li>
+                                                                                  <li><a href="/omida-mancacioasa/s/90612136">Omida mâncăcioasă</a></li>
+                                                                                  <li><a href="/peppa-pig/s/16062">Peppa Pig</a></li>
+                                                                                  <li><a href="/assimemor-invatarea-limbii-franceze/s/90658631">Assimemor- Învățarea limbii franceze</a></li>
+                                                                                  <li><a href="/carti-si-materiale-tiptoi-ravensburger-germana/s/90020370">Cărți și materiale Tiptoi ® Ravensburger - Germană</a></li>
+                                                                                  <li><a href="/cadouri-harry-potter/s/90609793">Cadouri Harry Potter</a></li>
+                                                                                                              <li><hr class="minor">
+                                                
+                                                                                </li><li><a href="/puzzle-si-jocuri-educative/l/81770">Puzzle și jocuri educative</a></li>
+                                                        </ul>
+                                <ul class="col1 left">
+                                                          <li class="strong">Papetărie</li>
+                                              
+                                                                          <li><a href="/calendare">Calendare</a></li>
+                                                                              <li><a href="/harti">Hărți</a></li>
+                                                                              <li><a href="/carduri">Carduri</a></li>
+                                                                              <li><a href="/partituri">Partituri</a></li>
+                                                                              <li><a href="/postere">Postere</a></li>
+                                                                              <li><a href="/planse">Planșe</a></li>
+                                                                                                          <li><hr class="minor">
+                                                
+                                                                          </li><li><a href="/agende-paperblanks/l/81717">Agende Paperblanks</a></li>
+                                                                              <li><a href="/agende-game-of-thrones/l/81718">Agende Game of Thrones</a></li>
+                                                                              <li><a href="/agende-moleskine-city/l/81729">Agende Moleskine City</a></li>
+                                                                              <li><a href="/gallison-bullet-journal/l/81734">Gallison Bullet Journal </a></li>
+                                                                              <li><a href="/carti-postale-urban-tale/l/81750">Cărți poștale Urban Tale</a></li>
+                                                                              <li><a href="/back-to-school-2017/l/81819">Back to School 2017</a></li>
+                                                      </ul>
+            </div>
+                       </div>
+</div>
+
+        
+        
+
+<div id="cart-data" class="jq-dropdown jq-dropdown-tip jq-dropdown-anchor-right jq-dropdown-fixed">
+    <div class="header"><div class="right">Cantitate/Preț</div>Produs</div>
+   <ul class="jq-dropdown-menu">
+        <li class="show-user cart-loading"><i class="fa fa-spinner fa-pulse"></i> &nbsp; Se încarcă...</li>
+   </ul>
+   <div class="footer">
+    <div class="right" id="cart-total-value"></div>
+    <div>Total produse</div>
+    <a href="/cart" class="button special full">Vezi coșul</a>
+   </div>
+</div>
+
+<div id="user-data" class="jq-dropdown jq-dropdown-tip jq-dropdown-anchor-right jq-dropdown-fixed">
+<ul class="jq-dropdown-menu">
+            <li><a href="/user">Info</a></li>
+        <li><a href="/user/details">Detalii personale</a></li>
+        <li><a href="/user/orders">Istoric comenzi</a></li>
+        <li><a href="/user/points">Puncte Express</a></li>
+        <li><a href="/user/lists">Liste Express</a></li>
+        <li><a href="/user/history">Istoric de navigare</a></li>
+        <li class="show-user jq-dropdown-divider"></li><li class="show-user"><a href="/logout"><i class="fa fa-sign-out"></i> Log out</a></li></ul>
+</div>
+
+<div id="lists-data" class="jq-dropdown jq-dropdown-tip jq-dropdown-anchor-right jq-dropdown-fixed">
+<ul class="jq-dropdown-menu">
+    <li><a href="/user/wishlist"><i class="fa fa-heart"></i> &nbsp; Wish list</a></li>
+    <li><a href="/user/giftlist"><i class="fa fa-gift"></i> &nbsp; Gift list</a></li>
+    <li><a href="/user/readinglist"><i class="fa fa-book"></i> &nbsp; Am citit</a></li>
+
+    <li class="jq-dropdown-divider show-user user-lists-sep"></li>
+    <li class="show-user lists-loading"><a href="#"><i class="fa fa-spinner fa-pulse"></i> &nbsp; Se încarcă...</a></li>
+    <li class="show-user"><a href="/user/lists">Toate listele</a></li>
+    <li class="jq-dropdown-divider"></li>
+    <li><a href="#" onclick="return App.openCreateList()">Creează o listă</a></li>
+    <li class="jq-dropdown-divider"></li>
+    <li><a href="/lists"><i class="fa fa-eye"></i> &nbsp; <b>Explorează listele publice</b></a></li>
+</ul>
+</div>
+
+    
+
+
+<a href="#top" class="back-to-top"><i class="fa fa-up-circled"></i></a>
+    		<!-- Main --><!---
+                <div id="spinner"></div>-->
+    			<div id="main" class="fade-in container  ">
+                    <div class="fixed-page">
+<aside class="left" style="bottom: auto; height: 100%;">
+    <ul>
+                    <li>
+                                    <b>Info</b>
+                                </li>
+                    <li>
+                <a href="/user/details">Detalii personale</a>
+                            </li>
+                    <li>
+                <a href="/user/orders">Istoric comenzi</a>
+                            </li>
+                    <li>
+                <a href="/user/points">Puncte Express</a>
+                            </li>
+                    <li>
+                <a href="/user/lists">Liste Express</a>
+                            </li>
+                    <li>
+                <a href="/user/history">Istoric de navigare</a>
+                            </li>
+            </ul>
+</aside><section class="">
+<h2>Cont</h2>
+
+<div class="box shadow" id="newsletter">
+    <h3 class="box-title">Categorii preferate newsletter</h3>
+    <div class="view hidden">
+  <div class="row form">
+  
+    <div class="12u$(xsmall) 7u small-label"><label>Momentan nu sunteți abonat la newsletter</label></div>
+    <div class="12u$(xsmall) 5u$ small-label">
+      <input type="radio" id="subscribe_yes" name="subscribe_yes" class="small" value="Y"><label for="subscribe_yes">Doresc să mă abonez</label>
+    </div>
+    
+</div></div>
+    <div class="editor">
+<form>
+    <div class="row form">
+      <div class="12u$(xsmall) 5u small-label"><label for="languages">Limbile preferate</label></div>
+      <div class="12u$(xsmall) 7u$">
+          <select id="languages" name="languages" class="small select2-hidden-accessible" style="width: 100%" multiple="" tabindex="-1" aria-hidden="true">
+            <option value="rom">Română</option><option value="eng">Engleză</option><option value="ger">Germană</option><option value="spa">Spaniolă</option><option value="fre">Franceză</option><option value="ita">Italiană</option>
+          </select><span class="select2 select2-container select2-container--default" dir="ltr" style="width: 100%;"><span class="selection"><span class="select2-selection select2-selection--multiple" role="combobox" aria-autocomplete="list" aria-haspopup="true" aria-expanded="false" tabindex="0"><ul class="select2-selection__rendered"><li class="select2-search select2-search--inline"><input class="select2-search__field" type="search" tabindex="-1" autocomplete="off" autocorrect="off" autocapitalize="none" spellcheck="false" role="textbox" placeholder="" style="width: 0.75em;"></li></ul></span></span><span class="dropdown-wrapper" aria-hidden="true"></span></span>
+      </div>
+
+      <div class="12u$(xsmall) 5u small-label"><label for="add-subject">Subiecte de interes</label></div>
+      <div class="12u$(xsmall) 7u$">
+          <a tabindex="0" href="#" class=" button alt align-left full small" id="add-subject"><i class="fa fa-open-down icon-right"></i>Adaugă subiect</a>
+          <ul id="subjects" class="box select-list" style="margin-top: 0.5em">
+          
+              <li class="empty">Niciun subiect selectat</li> 
+          </ul>
+      </div>
+    </div>
+    <hr>
+    <div class="row">
+      <div class="12u$">
+          <button type="button" class="button left primary save">Actualizare</button>
+          <a href="/user/subscriptions/unsubscribe"><button type="button" class="button danger unsubscribe right">Dezabonare</button></a>
+      </div>
+    </div>
+</form>
+</div>
+</div>
+<script type="text/javascript">
+    var data = {"user":{"first_name":"Oana","last_name":"Ujica","email":"oana.m.ujica@gmail.com"},"subscriber":false,"languages":[],"subjects":[],"all_languages":{"rom":{"code":"ro","name":"Rom\u00e2n\u0103"},"eng":{"code":"en","name":"Englez\u0103"},"ger":{"code":"de","name":"German\u0103"},"spa":{"code":"es","name":"Spaniol\u0103"},"fre":{"code":"fr","name":"Francez\u0103"},"ita":{"code":"it","name":"Italian\u0103"}}};
+</script>
+
+<script type="text/template" id="newsletter-view-template">
+  <div class="row form">
+  <% if(rc.subscriber.newsletter_subscriber_id) {%>
+      <div class="12u$(xsmall) 5u small-label"><label>Limbile preferate</label></div>
+      <div class="12u$(xsmall) 7u$">
+       <% var length = data.languages.length
+
+          for(var i in data.languages){
+            length -= 1;
+            if(length) 
+              print(data.languages[i].name + ', ');
+            else print(data.languages[i].name + ' ');
+          } %>
+      </div>
+
+      <div class="12u$(xsmall) 5u small-label"><label>Subiecte de interes</label></div>
+      <div class="12u$(xsmall) 7u$">
+       <% var length = rc.subjects.length
+          for(var j in rc.subjects){
+            length -= 1;
+            text = App.$subjects.find('[data-code="'+rc.subjects[j].subject+'"]').text();
+            if(length)
+              print(text + ', ');
+            else 
+              print(text); 
+          } %>
+    </div>
+    </div>
+    <hr>
+    <div class="row">
+      <div class="12u$">
+      <button type="button" class="button primary edit">Modifică</button>
+      </div>
+    </div>
+  <%} else { %>
+    <div class="12u$(xsmall) 7u small-label"><label>Momentan nu sunteți abonat la newsletter</label></div>
+    <div class="12u$(xsmall) 5u$ small-label">
+      <input type="radio" id="subscribe_yes" name="subscribe_yes" class="small" value="Y"><label for="subscribe_yes">Doresc să mă abonez</label>
+    </div>
+    <%}%>
+</script>
+
+<script type="text/template" id="newsletter-edit-template">
+<form>
+    <div class="row form">
+      <div class="12u$(xsmall) 5u small-label"><label for="languages">Limbile preferate</label></div>
+      <div class="12u$(xsmall) 7u$">
+          <select id="languages" name="languages" class="small" style="width: 100%" multiple>
+            <% for(var i in data.all_languages){
+                  var found = 0;
+                  for(var j in rc.languages) 
+                    if(data.all_languages[i].name == rc.languages[j].name){
+                      found = 1;
+                      break;
+                    }
+                    if (found)
+                      print('<option value="'+i+'" selected="">'+data.all_languages[i].name+'</option>');
+                    else print('<option value="'+i+'">'+data.all_languages[i].name+'</option>');
+                } %>
+          </select>
+      </div>
+
+      <div class="12u$(xsmall) 5u small-label"><label for="add-subject">Subiecte de interes</label></div>
+      <div class="12u$(xsmall) 7u$">
+          <a tabindex="0" href="#" class=" button alt align-left full small" id="add-subject"><i class="fa fa-open-down icon-right"></i>Adaugă subiect</a>
+          <ul id="subjects" class="box select-list" style="margin-top: 0.5em">
+          <%  if("subjects" in data && data.subjects.length > 0)
+                  for(var j in rc.subjects){
+                    text = App.$subjects.find('[data-code="'+rc.subjects[j].subject+'"]').text();
+                    print('<li class="item" data-code="'+ rc.subjects[j].subject +'">'+ text +' <a href="#" class="item-del"><i class="fa fa-cancel-circled theme-5"></i></a></li>');
+                  }
+          %>
+              <li class="empty">Niciun subiect selectat</li> 
+          </ul>
+      </div>
+    </div>
+    <hr>
+    <div class="row">
+      <div class="12u$">
+          <button type="button" class="button left primary save">Actualizare</button>
+          <a href="/user/subscriptions/unsubscribe"><button type="button" class="button danger unsubscribe right">Dezabonare</button></a>
+      </div>
+    </div>
+</form>
+</script>
+
+<div id="subjects-data" class="hidden">
+
+</div>
+
+</section>
+<div class="clear"></div>
+</div>    			</div>
+            <!-- Footer -->
+		<div style="clear: both;">&nbsp;</div>
+			<footer id="footer" class="">
+							    <div class="container history hidden">
+				    <h3>Istoricul tău de navigare
+					    						    <div class="hlinks small">
+						        <a href="/user/history">Vezi tot istoricul de navigare</a>
+						    </div>
+					    				    </h3>
+				    <ul></ul>
+			    </div>		
+				<div class="container">
+					<div class="row double columns">
+						<div class="3u 6u(medium) 12u$(small)">
+							<h3><i class="fa fa-truck"></i> Livrare gratuită</h3>
+							<p>La comenzi începând cu 300 lei, prin Fan Courier sau GLS oriunde în România.</p>
+							<h3><i class="fa fa-credit-card"></i> Cumperi în siguranță</h3>
+							<p>Plata la primirea coletului, sau poți plăti în rate fără dobândă.</p>
+
+							<div class="row">
+								<div class="12u">
+									<span class="ic-visa ic tipso tipso_style" data-tipso="Pe lângă plata ramburs este acceptată plata prin carduri VISA și MasterCard"></span>
+                    				<span class="ic-mastercard ic tipso tipso_style" data-tipso="Pe lângă plata ramburs este acceptată plata prin carduri VISA și MasterCard"></span><br>
+                    				<span class="ic-cardavantaj ic tipso tipso_style" data-tipso="Poți plăti în până la 6 rate prin Card Avantaj"></span><br>
+                    				<span class="ic-starbt ic tipso tipso_style" data-tipso="Poți plăti în până la 6 rate prin cardurile Star BT"></span>
+                    			</div>
+
+                    		</div>
+
+						</div>
+						<div class="3u 6u(medium) 12u$(small)">
+							<h3><i class="fa fa-mail"></i> Contact</h3>
+							<div class="subtitle"><a href="/contact" class="fade">vezi toate datele de contact</a></div>
+							<a href="mailto:contact@books-express.ro">contact@books-express.ro</a>
+																<ul class="icons">
+									<li><b><i class="fa fa-phone"></i> Telefoane:</b></li>
+									<li> <a href="tel:+40215697276">021 569.72.76</a></li><li><a href="tel:+40735531939">0735 531.939</a></li><li><a href="tel:+40744325215">0744 325.215</a></li>
+								</ul>
+																<p>
+								Str. Grădiștea Floreștilor nr. 17<br>
+								București, sector 2
+								</p>
+						</div>
+						<div class="3u 6u(medium) 12u$(small)">
+							<h3><i class="fa fa-lifebuoy"></i> Asistență clienți</h3>
+							<ul class="alt">
+								<li><a href="/blog/cum-cumpar/">Cum cumpăr?</a></li>
+								<li><a href="/blog/despre-noi">Despre Books Express</a></li>
+                                <li><a href="/feedback">Părerile clienților</a></li>
+								<li><a href="/blog/intrebari-frecvente">Întrebări frecvente</a></li>
+								<li><a href="/blog/politica-de-confidentialitate-books-express">Politica de confidențialitate</a></li>
+								<li><a href="/blog/termeni-si-conditii">Termeni și condiții</a></li>
+								<li><a href="http://www.anpc.ro/">ANPC</a></li>
+								<li><a href="https://webgate.ec.europa.eu/odr/main/index.cfm?event=main.home.chooseLanguage">Soluționarea litigiilor</a></li>
+								<li><a href="/blog/politica-cookies">Despre cookies</a></li>
+								<li><a href="#" id="cc-prefs">Preferințe cookies</a></li>
+							</ul>
+						</div>
+						<div class="3u 6u(medium) 12u$(small)">
+							<h3><i class="fa fa-newspaper"></i> Newsletter</h3>
+								<div class="row uniform">
+									<div class="12u">
+										<input type="email" class="small" id="footer-email" placeholder="Email">
+										<div id="footer-email-error" class="error-message hidden">Te rugăm să introduci o adresă de email validă.</div>
+									</div>
+								</div>
+								<div class="row 25% uniform">
+									<div class="12u align-center">
+										<button id="footer-subscribe" class="button alt small">Mă abonez</button>
+									</div>
+								</div>
+							<hr>
+
+								<a class="right" href="/blog"><i class="fa fa-rss-squared"></i> Blog</a>
+								<div class="social-big">
+									<a class="fa fa-facebook-official" href="https://www.facebook.com/BooksExpress"></a>
+									<a class="fa fa-linkedin-squared" href="https://www.linkedin.com/groups/4339909"></a>
+									<a class="fa fa-twitter-squared" href="https://twitter.com/books_express"></a>
+									<a class="fa fa-youtube" href="https://www.youtube.com/user/BooksExpress"></a>
+									<a class="fa fa-google-plus-squared" href="https://plus.google.com/102140779435975944750?rel=publisher"></a>
+									<a class="fa fa-pinterest-squared" href="https://ro.pinterest.com/BooksExpress/"></a>
+									<a class="fa fa-instagram" href="https://www.instagram.com/books_express/"></a>
+								</div>
+							<hr>
+								<a href="/premii">Premii</a> • <a href="/wished/carti">Cărți dorite</a>
+							<hr>
+																<a id="theme-switch" href="#" class="right theme-dark">Join the dark side</a>
+								
+														</div>
+					</div>
+				</div>
+				
+								<div class="copyright">
+					Toate drepturile rezervate 2004-2021 IST Ultra SRL, CUI 16813298, Reg. Com. J40/15818/2004
+				</div>
+			</footer>        
+    
+
+    <script data-no-min="">
+    function rc(id, name){
+        var el = document.getElementById(id);
+        el.className = el.className.replace(name, '');
+    }
+    function onloadCSS(e,n){function t(){!o&&n&&(o=!0,n.call(e))}var o;e.addEventListener&&e.addEventListener("load",t),e.attachEvent&&e.attachEvent("onload",t),"isApplicationInstalled"in navigator&&"onloadcssdefined"in e&&e.onloadcssdefined(t)}!function(e){"use strict";var n=function(n,t,o){function a(e){return l.body?e():void setTimeout(function(){a(e)})}function d(){r.addEventListener&&r.removeEventListener("load",d),r.media=o||"all"}var i,l=e.document,r=l.createElement("link");if(t)i=t;else{var s=(l.body||l.getElementsByTagName("head")[0]).childNodes;i=s[s.length-1]}var f=l.styleSheets;r.rel="stylesheet",r.href=n,r.media="only x",a(function(){i.parentNode.insertBefore(r,t?i:i.nextSibling)});var c=function(e){for(var n=r.href,t=f.length;t--;)if(f[t].href===n)return e();setTimeout(function(){c(e)})};return r.addEventListener&&r.addEventListener("load",d),r.onloadcssdefined=c,c(d),r};"undefined"!=typeof exports?exports.loadCSS=n:e.loadCSS=n}("undefined"!=typeof global?global:this);
+
+    var addEventsListener=function(o,t,e){var n,i=t.split(" ");for(n in i)o.addEventListener(i[n],e)}
+    !function(){function t(t){this.el=t;for(var n=t.className.replace(/^\s+|\s+$/g,"").split(/\s+/),i=0;i<n.length;i++)e.call(this,n[i])}function n(t,n,i){Object.defineProperty?Object.defineProperty(t,n,{get:i}):t.__defineGetter__(n,i)}if(!("undefined"==typeof window.Element||"classList"in document.documentElement)){var i=Array.prototype,e=i.push,s=i.splice,o=i.join;t.prototype={add:function(t){this.contains(t)||(e.call(this,t),this.el.className=this.toString())},contains:function(t){return-1!=this.el.className.indexOf(t)},item:function(t){return this[t]||null},remove:function(t){if(this.contains(t)){for(var n=0;n<this.length&&this[n]!=t;n++);s.call(this,n,1),this.el.className=this.toString()}},toString:function(){return o.call(this," ")},toggle:function(t){return this.contains(t)?this.remove(t):this.add(t),this.contains(t)}},window.DOMTokenList=t,n(Element.prototype,"classList",function(){return new t(this)})}}();
+
+    var myNav = navigator.userAgent.toLowerCase();
+    var ieVer = (myNav.indexOf('msie') != -1) ? parseInt(myNav.split('msie')[1]) : false;
+    var App = window.App || {};
+    App.is_logged = true;
+    App.imgBase = "i0";
+    function labInit(){
+
+        loadCSS("/css/libs_1490280474.css");
+        var ml = loadCSS("/css/main_1610570146.css");
+        /*
+        onloadCSS( ml, function() {
+            document.getElementById("spinner").className += ' hidden';
+            rc('main', 'ws');
+        });
+        */
+
+        onloadCSS( ml, function() {
+            var elems = document.getElementsByTagName('*'), i;
+            for (i in elems) {
+                if((' ' + elems[i].className + ' ').indexOf(' ws ')> -1) {
+                    elems[i].className = elems[i].className.replace('ws', '');
+                }
+            }
+        });
+
+        loadCSS("/css/select2_1445974926.css");    $LAB
+    .script(function(){
+        if(ieVer !== false && ieVer <= 8){
+            return '/js/html5shiv.js';
+        }
+    })
+    .script('/js/skel.min.js').wait(function(){
+    skel.breakpoints({
+      xxlarge: '(max-width: 5000px)',
+      xlarge: '(max-width: 1600px)',
+      large: '(max-width: 1280px)',
+      medium: '(max-width: 1024px)',
+      small: '(max-width: 736px)',
+      xsmall: '(max-width: 480px)'
+    });
+    rc('top-logo', 'ws');
+    rc('header', 'ws');
+    rc('submenu', 'ws');
+    })
+    .script(function(){
+        if(ieVer !== false && ieVer < 9){
+            return "/js/jquery-1.11.3.min.js";
+        }else{
+            return "/js/jquery-2.1.4.min.js";
+        }
+    }).wait()
+    .script("/js/libs_1484923518.js").script("/polyglot.i18n.js").script("/js/main_1585304528.js").wait(function(){App.mainInit()}).script("/js/select2.full.min_1445974926.js").script("/js/subscriber_1488246321.js")}</script>
+<script src="/js/LAB.min.js" async="" onload="labInit();"></script>
+
+ <script>
+    var dataLayer = window.dataLayer || [];
+    dataLayer.push({"int": 0});
+</script>
+ 
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-T2782C"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>
+(function(h,o,t,j,a,r){
+   h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)};
+   h._hjSettings={hjid:1250268,hjsv:6};
+   a=o.getElementsByTagName('head')[0];
+   r=o.createElement('script');r.async=1;
+   r.src=t+h._hjSettings.hjid+j+h._hjSettings.hjsv;
+   a.appendChild(r);
+})(window,document,'https://static.hotjar.com/c/hotjar-','.js?sv=');
+
+(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-T2782C');
+window.fbAsyncInit = function() {
+    FB.init({
+        appId            : '371534652106',
+        autoLogAppEvents : true,
+        xfbml            : true,
+        version          : 'v2.12'
+    });
+};
+</script>
+
+    <div class="fb-customerchat" page_id="120612075177" logged_in_greeting="Vorbește cu fetele de la Books" logged_out_greeting="Vorbește cu fetele de la Books">
+    </div>
+
+
+
+<div role="dialog" aria-live="polite" aria-label="cookieconsent" aria-describedby="cookieconsent:desc" class="cc-banner" style=""><!--googleoff: all--><span id="cookieconsent:desc" class="cc-message">Acest site folosește cookie-uri pentru funcționare, cookie-uri anonimizate pentru analiza traficului și cookie-uri pentru publicitate personalizată.</span><div class="cc-highlight"> <a aria-label="learn more about cookies" tabindex="0" class="cc-link" href="/blog/politica-cookies/" target="_blank">Mai multe informații despre cookie-uri</a><br><a aria-label="dismiss cookie message" href="#" class="cc-refuse">Refuz cookie-uri publicitate personalizată</a></div><a aria-label="accept cookie-uri" role="button" tabindex="0" class="cc-btn cc-accept">Accept cookie-uri</a><!--googleon: all--></div>
+	
+
+<link rel="stylesheet" href="/css/libs_1490280474.css" media="all"><link rel="stylesheet" href="/css/main_1610570146.css" media="all"><link rel="stylesheet" href="/css/select2_1445974926.css" media="all">
+<script type="text/javascript" id="">!function(b,e,f,g,a,c,d){b.fbq||(a=b.fbq=function(){a.callMethod?a.callMethod.apply(a,arguments):a.queue.push(arguments)},b._fbq||(b._fbq=a),a.push=a,a.loaded=!0,a.version="2.0",a.queue=[],c=e.createElement(f),c.async=!0,c.src=g,d=e.getElementsByTagName(f)[0],d.parentNode.insertBefore(c,d))}(window,document,"script","//connect.facebook.net/en_US/fbevents.js");fbq("init","689144244482713");fbq("track","PageView");
+google_tag_manager["GTM-T2782C"].macro(2)&&fbq("track",google_tag_manager["GTM-T2782C"].macro(3),{content_ids:google_tag_manager["GTM-T2782C"].macro(4),value:google_tag_manager["GTM-T2782C"].macro(5),currency:"RON",content_type:"product"});</script>
+<noscript><img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=689144244482713&amp;ev=PageView&amp;noscript=1"></noscript>
+<iframe style="display: none !important; width: 1px !important; height: 1px !important; opacity: 0 !important; pointer-events: none !important;" name="_hjRemoteVarsFrame" title="_hjRemoteVarsFrame" id="_hjRemoteVarsFrame" src="https://vars.hotjar.com/box-469cf41adb11dc78be68c1ae7f9457a4.html"></iframe></body></html>
