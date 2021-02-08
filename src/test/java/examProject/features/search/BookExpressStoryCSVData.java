@@ -28,7 +28,7 @@ public class BookExpressStoryCSVData {
 
         steps.go_to_home_page();
         steps.add_credentials_and_login(System.getProperty("username"),  System.getProperty("password"));
-        steps.search_book_by_keyword(bookTitle, webDriver);
+        steps.search_book(bookTitle);
         steps.verify_searched_book(bookTitle);
     }
 }
