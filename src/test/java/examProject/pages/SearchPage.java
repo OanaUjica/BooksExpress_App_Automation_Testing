@@ -8,6 +8,8 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.FluentWait;
 import java.time.Duration;
+import java.util.Arrays;
+import java.util.List;
 
 public class SearchPage extends PageObject {
 
@@ -17,17 +19,25 @@ public class SearchPage extends PageObject {
     @FindBy(xpath="//*[@id=\"book-main\"]/h1/span")
     private WebElementFacade searchSpecificBookTitle;
 
-    public void click_searchSpecificBookButton(WebDriver webDriver) {
+    @FindBy(xpath="//*[@id=\"results-list\"]/div")
+    private WebElementFacade listOfSearchedBooks;
+
+    public void click_searchSpecificBookButton(WebDriver webDriver, String bookTitle) {
 
         FluentWait<WebDriver> wait = new FluentWait<>(webDriver)
                 .withTimeout(Duration.ofSeconds(30));
-        wait.until(ExpectedConditions.visibilityOfElementLocated(By.linkText("JavaScript – The Definitive Guide, 7e")));
+        wait.until(ExpectedConditions.visibilityOfElementLocated(By.linkText(bookTitle)));
 
         searchSpecificBookAnchor.click();
     }
 
-    public boolean verify_searched_book(String bookTitle) {
+    public List<String> get_searched_book() {
 
-        return searchSpecificBookTitle.getText().equalsIgnoreCase(bookTitle);
+        return Arrays.asList(this.listOfSearchedBooks.getText().split("\n"));
     }
+
+//    public boolean verify_searched_book(String bookTitle) {
+//
+//        return searchSpecificBookTitle.getText().equalsIgnoreCase(bookTitle);
+//    }
 }

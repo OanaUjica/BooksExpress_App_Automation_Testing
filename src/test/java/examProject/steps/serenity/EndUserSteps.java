@@ -70,17 +70,24 @@ public class EndUserSteps {
     }
 
     @Step
-    public void search_book_by_keyword(String book, WebDriver webDriver) {
+    public void search_book(String book) {
 
         headerAllPages.enter_searchInput(book);
         headerAllPages.click_searchButton();
-        searchPage.click_searchSpecificBookButton(webDriver);
     }
 
     @Step
     public void verify_searched_book(String bookTitle) {
 
-        assertThat(bookTitle, searchPage.verify_searched_book(bookTitle));
+        assertThat(searchPage.get_searched_book(), hasItem(containsString(bookTitle)));
+    }
+
+    @Step
+    public void search_book_by_keywords(String book, WebDriver webDriver) {
+
+        headerAllPages.enter_searchInput(book);
+        headerAllPages.click_searchButton();
+        searchPage.click_searchSpecificBookButton(webDriver, book);
     }
 
     @Step
@@ -95,7 +102,6 @@ public class EndUserSteps {
     @Step
     public void verify_if_book_is_added_to_wishlist(String bookTitle) {
 
-        //assertThat(bookTitle, wishlistPage.verify_if_book_is_added_to_wishlist(bookTitle));
         assertThat(wishlistPage.get_wishlist_books(), hasItem(containsString(bookTitle)));
     }
 
@@ -110,6 +116,6 @@ public class EndUserSteps {
     @Step
     public void verify_if_book_is_added_to_cart(String bookTitle) {
 
-        assertThat(bookTitle, cartPage.verify_if_book_is_added_to_cart(bookTitle));
+        assertThat(cartPage.get_cart_books(), hasItem(containsString(bookTitle)));
     }
 }

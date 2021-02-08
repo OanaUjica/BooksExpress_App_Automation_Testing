@@ -4,13 +4,16 @@ import net.serenitybdd.core.annotations.findby.FindBy;
 import net.serenitybdd.core.pages.WebElementFacade;
 import net.thucydides.core.pages.PageObject;
 
+import java.util.Arrays;
+import java.util.List;
+
 public class CartPage extends PageObject {
 
-    @FindBy(xpath="//*[@id=\"cart-items\"]/li/div[1]/div/h4/a")
-    private WebElementFacade bookAddedToCart;
+    @FindBy(id="cart-items")
+    private WebElementFacade listOfBooksAddedToCart;
 
-    public boolean verify_if_book_is_added_to_cart(String bookTitle) {
+    public List<String> get_cart_books() {
 
-        return bookAddedToCart.getText().equalsIgnoreCase(bookTitle);
+        return Arrays.asList(this.listOfBooksAddedToCart.getText().split("\n"));
     }
 }

@@ -23,7 +23,7 @@ public class BooksExpressStory {
     public void login_user_with_invalid_password() {
 
         steps.go_to_home_page();
-        steps.fill_invalid_password_login(System.getProperty("username"), "1234abc");
+        steps.fill_invalid_password_login(System.getProperty("username"),  System.getProperty("password"));
         steps.verify_error_message_for_invalid_password("Parola este incorectă pentru acest cont");
     }
 
@@ -49,7 +49,7 @@ public class BooksExpressStory {
 
         steps.go_to_home_page();
         steps.add_credentials_and_login(System.getProperty("username"),  System.getProperty("password"));
-        steps.search_book_by_keyword("JavaScript – The Definitive Guide, 7e", webDriver);
+        steps.search_book_by_keywords("JavaScript – The Definitive Guide, 7e", webDriver);
         steps.add_book_to_wishlist();
         steps.verify_if_book_is_added_to_wishlist("1. JavaScript – The Definitive Guide, 7e");
     }
@@ -60,7 +60,7 @@ public class BooksExpressStory {
 
         steps.go_to_home_page();
         steps.add_credentials_and_login(System.getProperty("username"),  System.getProperty("password"));
-        steps.search_book_by_keyword("JavaScript – The Definitive Guide, 7e", webDriver);
+        steps.search_book_by_keywords("JavaScript – The Definitive Guide, 7e", webDriver);
         steps.add_book_to_wishlist();
         steps.add_book_to_cart();
         steps.verify_if_book_is_added_to_cart("JavaScript – The Definitive Guide, 7e");
